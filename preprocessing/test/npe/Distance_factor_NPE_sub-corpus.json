@@ -1,0 +1,1642 @@
+[
+    {
+        "text_id": 1,
+        "text": "The first three of these locomotives were later described as the Clara Class, while the fourth was included in this Class by some and included in the subsequent Scotia Class by others.",
+        "target": "fourth",
+        "options": {
+            "A": "locomotives",
+            "B": "Clara Class"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 2,
+        "text": "Marty Links' Emmy Lou (November 14, 1966): \"I suppose it's called 'mad money' because fathers always get so mad when you ask for some!\"",
+        "target": "some",
+        "options": {
+            "A": "fathers",
+            "B": "money"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 3,
+        "text": "The brothers turned to Jack Kirby. Steve Schanes recalled, \"I figured if you want to get people's attention with a new comic book, who better to do it with than the King of Comics, Jack Kirby! We were already friends with Jack. We used to send him free copies of comics he'd drawn for other publishers because they never sent him any!",
+        "target": "any",
+        "options": {
+            "A": "publishers",
+            "B": "free copies of comics"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 4,
+        "text": "Fagan began borrowing large amounts from Holiday to support the restaurant. Holiday obliged but soon fell on hard times herself. \"I needed some money one night and I knew Mom was sure to have some\", she said.",
+        "target": "some",
+        "options": {
+            "A": "night",
+            "B": "money"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 5,
+        "text": "A voice she described as loud and deep, probably not Ogletree's, asked who it was. She responded that she had brought fresh towels, to which the voice said \"We don't need any\".",
+        "target": "any",
+        "options": {
+            "A": "fresh towels",
+            "B": "voice"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 6,
+        "text": "He refused being guest of honor in the Victoires de la musique (Music's Victories), annual French award ceremony recognizing the best musical artists of the year. Ferré used to say: \"The only honor for an artist is not getting any\".",
+        "target": "any",
+        "options": {
+            "A": "honor",
+            "B": "artist"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 7,
+        "text": "Privacy minded search engines, such as DuckDuckGo, state in their privacy policies that they collect much less data than search engines such as Google or Yahoo, and may not collect any.",
+        "target": "any",
+        "options": {
+            "A": "engines",
+            "B": "data"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 8,
+        "text": "Featuring John and Gillian as the Second Doctor's companions. Like other TV Comics stories, this has no official title as the original printing did not contain any.",
+        "target": "any",
+        "options": {
+            "A": "printing",
+            "B": "official title"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 9,
+        "text": "An advantage of steganography is plausible deniability, that is, unless one can prove the data is there (which is usually not easy), it is deniable that the file contains any.",
+        "target": "any",
+        "options": {
+            "A": "file",
+            "B": "data"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 10,
+        "text": "He appears in All 4 One when he fixes a transport that allows Ratchet and his allies to travel to Uzo City, but when Ratchet asks for some \"cryptic advice\" that can used to stop Nevo, the Plumber admits that he does not have any.",
+        "target": "any",
+        "options": {
+            "A": "cryptic advice",
+            "B": "Plumber"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 11,
+        "text": "Some found comfort in religion; Sherard quotes one as saying: \"when I get to heaven I shall get my reward, and my Oppressor will get his\". Hymn singing while working was common, and the Doxology was a particular favourite.",
+        "target": "his",
+        "options": {
+            "A": "Oppressor",
+            "B": "reward"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 12,
+        "text": "He was employed by the shipping company who owned the ship and was responsible to the company for every aspect of the ship, the profitable trading of the ship, the cargo, the crew and the success or failure of the voyage. Masters with a proven track record often remained with a company for many years and could expect to become wealthy. As new ships were added to a company's fleet a successful and favoured master could expect it to be assigned as \"his\".",
+        "target": "his",
+        "options": {
+            "A": "ships ",
+            "B": "master"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 13,
+        "text": "Her ability to include period detail and to reproduce the religious beliefs and practices of the period give additional credence to her story, and the character of Pearl is free-spirited enough to strike a chord with modern readers and finished by saying \"pacing parallels that of Hawthorne, and her exploration of behavior as a series of good acts or acts inspired by the Devil is consistent with his\".",
+        "target": "his",
+        "options": {
+            "A": "exploration of behavior ",
+            "B": "good acts"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 14,
+        "text": "One was presented to Clapton upon the model's release and was used for three numbers during a concert at the Royal Albert Hall on 17 May 2006. In 1979, Clapton gave his signed Fender Lead II guitar to the Hard Rock Cafe in London to designate his favourite bar stool. Pete Townshend also donated his own Gibson Les Paul guitar, with a note attached: \"Mine's as good as his! Love, Pete\".",
+        "target": "his",
+        "options": {
+            "A": "guitar",
+            "B": "note"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 15,
+        "text": "In 1788 Robert and Jean were finally legally married however Burns was surprisingly reticent about it. Gavin Hamilton's eldest daughter Jacobina or 'Beennie' recollected, how even she only became aware of the marriage at breakfast one day when Burns and Robert Aiken were present and upon apologising to Robert Aiken for the lack of his usual boiled egg Burns said \"if she cared to send over the way to Mrs Burns she might have some\".",
+        "target": "some",
+        "options": {
+            "A": "boiled egg",
+            "B": "way"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 16,
+        "text": "The greeting \"a merry Christmas and a happy New Year\" is recorded from the early eighteenth century; however, the history of the carol itself is unclear. Its origin probably lies in the English tradition wherein wealthy people of the community gave Christmas treats to the carolers on Christmas Eve, such as \"figgy pudding\" that was very much like modern-day Christmas puddings; in the West Country of England, \"figgy pudding\" referred to a raisin or plum pudding, not necessarily one containing figs. In the famous version of the song, the singer demands figgy pudding from the audience, threatening to not \"go until we get some\".",
+        "target": "some",
+        "options": {
+            "A": "figgy pudding",
+            "B": "audience"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 17,
+        "text": "Suganth also felt many of the actors like Chowdhury were miscast and criticised the lack of onscreen chemistry between her and Dhruv. He concluded that Dhruv looks \"sure-footed in some scenes and like a novice in some\". Baradwaj Rangan of Film Companion wrote, \"Not a single frame is distinctive, or shows that a major filmmaker is behind the camera.",
+        "target": "some",
+        "options": {
+            "A": "scenes",
+            "B": "novice"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 18,
+        "text": "In what is regarded as one of the best and most entertaining finals of its era, the Cork and Mayo All-Ireland decider provided \"great fun at a time when football badly needed some\". Cork entered the game hoping to avoid the unwanted accolade of becoming the first team in almost fifty years to lose three successive All-Ireland finals.",
+        "target": "some",
+        "options": {
+            "A": "great fun",
+            "B": "football"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 19,
+        "text": "Coedydd Aber is situated in an area of scenic beauty. The steep sided wooded valley, Nant Aber Garth Celyn, leads to the foothill of Y Carneddau. The river has the steepest fall of any in Wales and England. There is a wide variety of habitats in the valley including a diversity of woodlands, open farmland and scrub.",
+        "target": "any",
+        "options": {
+            "A": "river",
+            "B": "fall"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 20,
+        "text": "In late 1898 Karim's purchase of a parcel of land adjacent to his earlier grant was finalised; he had become a wealthy man. Reid claimed in his diary that he had challenged Karim over his financial dealings: \"You have told the Queen that in India no receipts are given for money, and therefore you ought not to give any to Sir F Edwards [Keeper of the Privy Purse].",
+        "target": "any",
+        "options": {
+            "A": "receipts ",
+            "B": "money"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 21,
+        "text": "Howells describes the people of the society as being selfish and materialistic. At this time in America money and power was causing constant struggle for those of the working class. In Altruria, money is not a problem because there is not any. Every man is equal. Every man works. It seems to be a good way of life, however, it does not seem very realistic.",
+        "target": "any",
+        "options": {
+            "A": "money",
+            "B": "problem"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 22,
+        "text": "Drawings for two improved designs were prepared, but the war ended before any were produced.",
+        "target": "any",
+        "options": {
+            "A": "improved designs",
+            "B": "war"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 23,
+        "text": "Following the repulse of Pickett, there were numerous Confederate Battle Flags left lying on the field directly to the front of the 69th. The 69th was so devastated by casualties and busy tending to its own wounded while also sending Confederate prisoners to the rear that it failed to secure any. Instead members of regiments who came to assist the 69th with the repulse, during a later point of the assault, went to the 69th's front and claimed the flags as prizes.",
+        "target": "any",
+        "options": {
+            "A": "casualties",
+            "B": "prisoners"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 24,
+        "text": "Again, in contrast to some totalitarian regimes, no mass killings were ever instituted and there is no evidence that any were planned.",
+        "target": "any",
+        "options": {
+            "A": "mass killings",
+            "B": "evidence"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 25,
+        "text": "The cities of NW England were heavily bombed during the winter of 1940–41 (the Liverpool Blitz and Manchester Blitz) and 'the actions fought [by the AA batteries] were as violent, dangerous and prolonged as any in the field'. 'On an HAA 4.5-inch position of 44th AA Brigade in Manchester, the power rammer on one gun failed.",
+        "target": "any",
+        "options": {
+            "A": "actions",
+            "B": "batteries"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 26,
+        "text": "The Ulster Division has lost more than half the men who attacked, and in doing so has sacrificed itself for the Empire which has treated them none too well. The much derided Ulster Volunteer Force has won a name which equals any in History. Their devotion, which no doubt has helped the advance elsewhere, deserves the gratitude of the British Empire.",
+        "target": "any",
+        "options": {
+            "A": "Volunteer Force",
+            "B": "name"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 27,
+        "text": "By the end of the war ships belonging to the squadron had accompanied 788 Allied ships, including transports carrying 700,000 troops. They engaged German and Austro–Hungarian submarines on 38 occasions failing however to sink any. In December 1918, Izumo, accompanied by the destroyers Hinoki and Yanagi, sailed from Malta to Scapa Flow to assume control of seven captured German U-boats as prizes of war.",
+        "target": "any",
+        "options": {
+            "A": "German and Austro–Hungarian submarines",
+            "B": "occasions"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 28,
+        "text": "The division's staff were undertrained for the task they were asked to perform. While brave, the tank crews were inflexible and failed to follow their tactical training. British tactical doctrine encouraged ambush counter-attacks, but the formation failed to undertake any. At the squadron and regimental level, the chain of command impeded mobility, as permission was needed to move a single tank from an assigned position.",
+        "target": "any",
+        "options": {
+            "A": "ambush counter-attacks",
+            "B": "formation"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 29,
+        "text": "On the belief that humans have souls and that animals do not, MacDougall later measured the changes in weight from fifteen dogs after death. MacDougall said he wished to use dogs that were sick or dying for his experiment, though was unable to find any. It is therefore presumed he poisoned healthy dogs.",
+        "target": "any",
+        "options": {
+            "A": "dogs that were sick or dying",
+            "B": "experiment"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 30,
+        "text": "On 16 July, around 102,000 people were still without power. The German Weather Service reported that the quantity of rain in some areas of Germany was the highest in over 100 years, possibly higher than any seen in the last 1,000 years. They reported that some areas had received a month's average rainfall in one day.",
+        "target": "any",
+        "options": {
+            "A": "quantity of rain",
+            "B": "areas of Germany"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 31,
+        "text": "Plaid Cymru made a net gain of one seat returning 13. The Welsh Liberal Democrats lost their only constituency but kept a seat through the regional vote, whilst UKIP lost all its seats from 2016 and no other party gained any. While Labour lacked an overall majority it decided to not make any kind of coalition or confidence pact and its leader Mark Drakeford was reconfirmed as First Minister of Wales a few days later with none of the other parties attempting to mount any kind of challenge.",
+        "target": "any",
+        "options": {
+            "A": "seats",
+            "B": "party"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 32,
+        "text": "Trump frequently accuses the far-left of inciting violence, yet right-wing extremists have killed 329 victims in the last 25 years, while antifa members haven't killed any, according to a new study.",
+        "target": "any",
+        "options": {
+            "A": "victims ",
+            "B": "members"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 33,
+        "text": "The visiting Saints opened the scoring in the second half again, with substitute Manolo Gabbiadini scoring his first goal since February from a corner. Charlie Austin had several chances on goal throughout both halves but failed to convert any, although Southampton still held on for the win to move up to 16th in the league table ahead of Huddersfield Town on goal difference.",
+        "target": "any",
+        "options": {
+            "A": "chances on goal",
+            "B": "halves"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 34,
+        "text": "Playing at home, Rays lost to Punjab Warriors by a 0–7 margin in their next game on 1 February. Despite having created many chances at goal including nine penalty corners, they failed to convert any. They played their next game against Dabang Mumbai the next day at home. Jackson deflected a Manpreet Singh-pass in the fifth minute into the goal to equal Mumbai's second minute field goal to 2–2.",
+        "target": "any",
+        "options": {
+            "A": "chances at goal",
+            "B": "corners"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 35,
+        "text": "This was the third straight season to showcase Thursday Night Football with the first 11 weeks featuring Thursday night games, although the hosting distribution was not as equal as it was in the previous year. The Montreal Alouettes hosted four Thursday night games, Winnipeg hosted three, Ottawa Redblacks hosted two, while two teams (Toronto and Calgary) hosted once and three teams (Hamilton, Saskatchewan, and BC) did not host any.",
+        "target": "any",
+        "options": {
+            "A": "Thursday night games",
+            "B": "teams"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 36,
+        "text": "For the Redskins, the heartbreaking loss was the second time in four seasons they had lost to Atlanta in Week 5 by 7 points or fewer. Cousins moved to 0–3 in his career against the Falcons and threw the 15th career interception on the road in only 8 games. In each of Washington's three losses, Cousins had thrown 2 interceptions; in their two wins, he had not thrown any.",
+        "target": "any",
+        "options": {
+            "A": "interceptions",
+            "B": "wins"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 37,
+        "text": "In the second half, New England managed several drives deep into Ravens territory, but were unable to convert any into points. First, they drove to Baltimore's 34-yard line, but were halted there and decided to punt rather than attempt a 52-yard field goal. Tight end Dennis Pitta subsequently caught three passes for 32 yards on Baltimore's ensuring 87-yard drive, the last a 5-yard touchdown catch.",
+        "target": "any",
+        "options": {
+            "A": "drives ",
+            "B": "territory"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 38,
+        "text": "Analysts on election.de forecast the likely results of the 128 direct mandates. These seats traditionally have been held by either the CDU or SPD, with minor parties standing little chance of winning any.",
+        "target": "any",
+        "options": {
+            "A": "seats ",
+            "B": "chance"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 39,
+        "text": "Since a tropical cyclone can move through a region, the actual number of tropical cyclones in a region include any that form in or move into a region from another.",
+        "target": "any",
+        "options": {
+            "A": "tropical cyclones",
+            "B": "region"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 40,
+        "text": "2011 can be considered to have been a year of \"almost\" for Parramatta, with the team losing over half of their matches by four points or less, many of which were conceded after attaining leads over their opponents. The Eels pushed a record four games into Golden Point during the season, however were unable to win any, resulting in a draw against the St George Illawarra Dragons and one-point losses to the Penrith Panthers, Sydney Roosters and the Canterbury-Bankstown Bulldogs.",
+        "target": "any",
+        "options": {
+            "A": "games ",
+            "B": "season"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 41,
+        "text": "The Greens achieved a respectable result of 9%, and crucially achieved balance of power in the state government. The ÖVP and SPÖ each won four councillors, while the Greens won one; the FPÖ failed to win any. The ÖVP signed a working coalition with the Greens, giving rise to the first ÖVP–Green government in Austria.",
+        "target": "any",
+        "options": {
+            "A": "councillors",
+            "B": "Greens"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 42,
+        "text": "There's Something Wrong with Aunt Diane, directed by Liz Garbus for HBO Documentaries, establishes a timeline of events prior to the crash. The documentary suggests that Schuler could have been suffering from severe pain caused by a tooth abscess during the drive home, causing her to look for painkillers at the gas station and, upon failing to find any, self-medicating with drugs and alcohol. The pain of the abscess, combined with vodka and marijuana, could have put her in a temporary state of delirium that triggered her fatal behavior.",
+        "target": "any",
+        "options": {
+            "A": "painkillers ",
+            "B": "station"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 43,
+        "text": "On the way back to their home in West Babylon, on Long Island, Schuler stopped at a McDonald's restaurant and a Sunoco gas station in Liberty. Surveillance video lacking audio, recorded at the gas station, shows Schuler arriving at and leaving, and going inside the station's convenience store. Schuler’s husband, sister-in-law, and an investigator working on their behalf all made claims and/or inferences that Schuler had spoken to the clerk while attempting to buy over-the-counter pain-relief medication, although the gas station did not sell any.",
+        "target": "any",
+        "options": {
+            "A": "over-the-counter pain-relief medication",
+            "B": "gas station"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 44,
+        "text": "The second leg of the play-off semi-final took place three days later at Brunton Park in Carlisle. Jonny Howson opened the scoring on 10 minutes for the away side to level the aggregate score at 2–2. Carlisle had a number of chances in the second half but could not convert any, and in the 90th minute, Howson scored his and Leeds' second from 18 yards (16 m): the game ended 2–0 to Leeds who progressed to the Wembley play-off final with a 3–2 aggregate victory.",
+        "target": "any",
+        "options": {
+            "A": "half",
+            "B": "chances "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 45,
+        "text": "The previous council was controlled by Independents in coalition with the Liberal Democrat group and the single Labour member. Since 2004, there have been no by-elections to the council (the only council in Wales not to have any during the last four years). Nominations for the council elections closed on 4 April 2008. The last council meeting before the elections (when the council was formally dissolved) was held on 17 April 2008.",
+        "target": "any",
+        "options": {
+            "A": "council",
+            "B": "by-elections"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 46,
+        "text": "The Tigers and Raiders became the first teams (and so far, only) to play 2 Golden Point games over the course of the season, it was also the Raiders record 4th game in Golden Point in 2006, remarkably winning all of them, the Raiders record of most Golden Point games in a season hasn't been bettered, but has since been equalled by The Eels in 2011 who didn't win any, drew 1 and lost the other 3 and the Tigers in 2012 winning 2 and losing the remaining 2.",
+        "target": "any",
+        "options": {
+            "A": "The Eels",
+            "B": "Golden Point games"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 47,
+        "text": "I'm more happy for my guys than for myself.\" Kenseth expressed disappointment with his performance during the Chase for the Nextel Cup, but was pleased to be runner-up to Johnson, \"If we had run in the Chase like we did in August, we would have been 200 points clear before Homestead, If you look at all the problems people had in the Chase and we didn't have any, that was dragging me down. But this is probably one of the best seasons I've ever had. I won four races, and we could have won eight or nine.\"",
+        "target": "any",
+        "options": {
+            "A": "people",
+            "B": "problems "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 48,
+        "text": "Peel’s score, in what was to become a sequence as embarrassing as any in 1997 or 1999, was the lowest by any visiting team at Bassendean Oval, beating Subiaco’s 5.8 (38) from 1983.",
+        "target": "any",
+        "options": {
+            "A": "sequence",
+            "B": "score"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 49,
+        "text": "The ROI won frame six with O'Brien beating Williams on a fluke on the final red ball and a clearance to the blue ball for a 5–1 victory and the first spot in the final. Losing player Dale said he could not believe the outcome, adding: \"In nearly every frame, luck played a part and we didn't have any.\"",
+        "target": "any",
+        "options": {
+            "A": "part",
+            "B": "luck "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 50,
+        "text": "It is currently unclear what the complete clinical presentation of SBCADD looks like. There is some concern that these cases with additional symptoms may reflect an ascertainment bias rather than being a true representation of the clinical spectrum of the disease. Currently, there is no accepted treatment, as most affected individuals do not require any. Some recommend avoidance of valproic acid, as it can be a substrate for 2-methylbutyryl-CoA dehydrogenase.",
+        "target": "any",
+        "options": {
+            "A": "individuals",
+            "B": "treatment"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 51,
+        "text": "Barnsley, who were the Football League's top scorers with 88 goals, could have achieved automatic promotion, but for their poor defence that conceded 67 goals – the worst of any in the top twelve of the First Division, and joint fourth-worst in the division.",
+        "target": "any",
+        "options": {
+            "A": "goals",
+            "B": "defence "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 52,
+        "text": "NASCAR banned tinted windshields starting with this race, confiscating any that teams had in the pits before this one. The move to mandate clear windshields was to make it easier for drivers to see through cars ahead of them and see if a driver in front was signaling them for any reason.",
+        "target": "any",
+        "options": {
+            "A": "race",
+            "B": "tinted windshields"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 53,
+        "text": "Throughout the season the United States Navy also monitored the basin and issued unofficial warnings, through its Joint Typhoon Warning Center (JTWC) and Naval Western and Oceanography Center (NWOC). Tropical cyclones that were located between 160°E and 120°W as well as the Equator and 25°S were monitored by RSMC Nadi while any that were located to the south of 25°S between 160°E and 120°W were monitored by TCWC Wellington. During the season the JTWC issued warnings on any tropical cyclone that was located between 160°E and 180° while the NPMOC issued warnings for tropical cyclones forming between the 180° and the American coast.",
+        "target": "any",
+        "options": {
+            "A": "RSMC Nadi",
+            "B": "Tropical cyclones"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 54,
+        "text": "This was the third straight season to showcase Thursday Night Football with the first 11 weeks featuring Thursday night games, although the hosting distribution was not as equal as it was in the previous year. The Montreal Alouettes hosted four Thursday night games, Winnipeg hosted three, Ottawa Redblacks hosted two, while two teams (Toronto and Calgary) hosted once and three teams (Hamilton, Saskatchewan, and BC) did not host any.",
+        "target": "two",
+        "options": {
+            "A": "Ottawa Redblacks",
+            "B": "Thursday night games"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 55,
+        "text": "Oregon was ultimately won by former California Governor Ronald Reagan (R) by 9.66%. Reagan dominated in the conservative, populist eastern interior and Rogue Valley, where he won a majority in every county, and Carter, despite carrying four counties, did not win a majority in any due to a strong vote west of the Cascades for Anderson, who reached double figures in all Willamette Valley counties except Columbia and Linn. This was the first time the Republicans had carried Coos County since Dwight D. Eisenhower in 1952.",
+        "target": "any",
+        "options": {
+            "A": "majority",
+            "B": "counties"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 56,
+        "text": "We certainly aren't properly paid. We have no health care, no job security, no tenure. Our pension plan is a joke. We take more abuse than any living group of humans, and can't give back any. If we're fired without notice, our only recourse is to appeal to the league president. And he's the guy that fires you. That's gotta be unconstitutional!\"",
+        "target": "any",
+        "options": {
+            "A": "humans",
+            "B": "abuse "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 57,
+        "text": "Several homes buckled and cracks appeared in streets. On the coast of the island, a cable connecting telephone units for Australia and Guam was cut. Initially, officials were worried of a tsunami risk though the earthquake did not produce any. This was due to a dramatic recession of water levels near the epicenter, followed by a rise that at one point measured 3 meters (10 ft).",
+        "target": "any",
+        "options": {
+            "A": "earthquake",
+            "B": "tsunami "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 58,
+        "text": "Stevenson carried 67 of Mississippi’s 82 counties, running up huge margins in the northeastern corner and rural areas of the state. Eisenhower, whose Mississippi electors were “Independent”, carried fifteen counties, the first time a national Republican had carried any since Herbert Hoover in 1928 carried Pearl River County, George County and Stone County, and only the second since Benjamin Harrison in 1888. His main base of support came from the western counties along the Mississippi River, which had a high concentration of nonvoting African Americans, including Hinds County, home to the state capital Jackson.",
+        "target": "any",
+        "options": {
+            "A": "time ",
+            "B": "counties"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 59,
+        "text": "Stevenson carried 67 of Mississippi’s 82 counties, running up huge margins in the northeastern corner and rural areas of the state. Eisenhower, whose Mississippi electors were “Independent”, carried fifteen counties, the first time a national Republican had carried any since Herbert Hoover in 1928 carried Pearl River County, George County and Stone County, and only the second since Benjamin Harrison in 1888. His main base of support came from the western counties along the Mississippi River, which had a high concentration of nonvoting African Americans, including Hinds County, home to the state capital Jackson.",
+        "target": "second",
+        "options": {
+            "A": "time ",
+            "B": "counties"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 60,
+        "text": "Flexing his knees and holding the ball to his chest, Robinson let fly the one-handed shot he had practiced hundreds of times a day on his childhood courts in San Diego. It was the same shot he had already missed three times in a row, and he hadn't sunk any from that far out. But this time the ball went in. Screaming fans poured onto the court.",
+        "target": "any",
+        "options": {
+            "A": "times ",
+            "B": "shot "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 61,
+        "text": "On November 18, 1933, Michigan played Bernie Bierman's Minnesota Golden Gophers. Like the Illini two weeks earlier, Minnesota had two weeks to prepare for the Wolverines following a bye week. The game ended in a scoreless tie. Each team attempted three passes, and neither team completed any. Two of Michigan's three pass attempts were intercepted by Minnesota. Bierman's Golden Gophers also held Michigan to 58 rushing yards.",
+        "target": "any",
+        "options": {
+            "A": "passes",
+            "B": "team"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 62,
+        "text": "The pole vault competition had the highest quality of any in the world yet; Graber broke both the amateur world record of Lee Barnes and the unofficial professional record of Charles Hoff, while Miller equaled the Barnes record. Four vaulters (Jefferson, Don Zimmerman, Fred Sturdy and Bud Deacon) cleared 13 ft 10+1⁄4 in; the third and final Olympic spot was decided by a jump-off, in which Jefferson prevailed.",
+        "target": "any",
+        "options": {
+            "A": "pole vault competition",
+            "B": "quality"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 63,
+        "text": "The Romanians made their man advantage pay; their 3–1 win included two late goals and the fastest goal of the tournament; Adalbert Deșu opened the scoring after just 50 seconds. This match had the smallest crowd of any in World Cup history. The official attendance was 2,459, but the actual figure is generally accepted to be around 300.",
+        "target": "any",
+        "options": {
+            "A": "match ",
+            "B": "crowd"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 64,
+        "text": "Yale and Penn both claim 1907 as a national championship season. Although Yale was named as champion by 6 different entities, Penn was not named champion by any. Penn's claim to the championship is only by the university itself.",
+        "target": "any",
+        "options": {
+            "A": "entities",
+            "B": "champion "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 65,
+        "text": "In the 1967 Wisden Cricketer's Almanack, A. A. Thomson described this series as \"a rubber more exciting than any in history except the Australia v West Indies series in 1960–61\". This description came despite the fact that Australia had secured the series after four of five matches, leading 2–0 before the final Test; the first two matches had been drawn due to rain, with the second match at Lord's yielding only 38 overs in three days.",
+        "target": "any",
+        "options": {
+            "A": "series ",
+            "B": "rubber"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 66,
+        "text": "His job was to record all the horses that he could see on the finishing straight at the point the first horse in the race reached his position. Only these horses would be recorded as finishers and any that followed on after were regarded under the term 'distanced'. This however added to the confusion of exactly how many horses finished in the Grand Nationals prior to 1865 when the practice was done away with.",
+        "target": "any",
+        "options": {
+            "A": "horses ",
+            "B": "finishers "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 67,
+        "text": "The foreman of Squad A in the underground labor facility. He is from Kumamoto Prefecture. Like Ōtsuki, he is a manga fan, and was shocked when the magazine Shōnen King stopped publishing. In chapter 42, he was found to be a two-time divorcee, and in chapter 61, it was revealed that he also had children. He wonders if the accumulation of habitual carelessness, such as his wife eating all of the pears that she has cut into 4-5 equal pieces without leaving any for the family, was the cause of the divorce.",
+        "target": "any",
+        "options": {
+            "A": "pears ",
+            "B": "pieces "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 68,
+        "text": "The 14 cm/40 11th Year Type naval gun was the standard surface battery for Japanese submarine cruisers of World War II. Most carried single guns, but Junsen type submarines carried two. Japanese submarines I-7 and I-8 carried an unusual twin mounting capable of elevating to 40°.",
+        "target": "two",
+        "options": {
+            "A": "guns",
+            "B": "submarines"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 69,
+        "text": "9th Lancashire Fusiliers had been serving in 125th Infantry Brigade of 42nd (East Lancashire) Infantry Division, which were redesignated 10th Armoured Brigade and 42nd Armoured Division respectively. All three regiments in the brigade were drawn from the Lancashire Fusiliers and underwent simultaneous conversion to armour (the other two became 108 RAC and 109 RAC respectively).",
+        "target": "two",
+        "options": {
+            "A": "regiments ",
+            "B": "armour"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 70,
+        "text": "Babel, Dreamgirls and Little Miss Sunshine received the highest number of nominations among the film categories, with each getting three, two for acting and one for ensemble performance, however only Dreamgirls won more than one award. In the television categories The Sopranos and Broken Trail had the most nominations, with three but it was the mini-series Elizabeth I and the medical drama Grey's Anatomy which won the most awards, with two each.",
+        "target": "three",
+        "options": {
+            "A": "nominations ",
+            "B": "categories"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 71,
+        "text": "Babel, Dreamgirls and Little Miss Sunshine received the highest number of nominations among the film categories, with each getting three, two for acting and one for ensemble performance, however only Dreamgirls won more than one award. In the television categories The Sopranos and Broken Trail had the most nominations, with three but it was the mini-series Elizabeth I and the medical drama Grey's Anatomy which won the most awards, with two each.",
+        "target": "two",
+        "options": {
+            "A": "nominations ",
+            "B": "categories"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 72,
+        "text": "Babel, Dreamgirls and Little Miss Sunshine received the highest number of nominations among the film categories, with each getting three, two for acting and one for ensemble performance, however only Dreamgirls won more than one award. In the television categories The Sopranos and Broken Trail had the most nominations, with three but it was the mini-series Elizabeth I and the medical drama Grey's Anatomy which won the most awards, with two each.",
+        "target": "one",
+        "options": {
+            "A": "nominations ",
+            "B": "categories"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 73,
+        "text": "After making gaps in the defenses by the morning of 3 December, the 13th Tank Battalion, 205th Reconnaissance Battalion, and 158th Rifle and Machine Gun Battalion attacked Suurporkku, which they captured by the end of the day before moving to Rautu. The 15th Battalion reached the village of Suokas on 4 December, but lost one tank destroyed by a mine and two by anti-tank guns while trying to cross an anti-tank ditch.",
+        "target": "two",
+        "options": {
+            "A": "tank ",
+            "B": "mine "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 74,
+        "text": "In the SMASS classification, Cincinnati is a Xk-type, a subtype that transitions from the X-type to the uncommon K-type asteroids, while the Wide-field Infrared Survey Explorer classifies it as a metallic M-type asteroid. By 2014, Cincinnati is the only of three Cybele asteroids for which a spectral type has been determined; the other two are 522 Helga and 692 Hippodamia, an X- and S-type, respectively.",
+        "target": "two",
+        "options": {
+            "A": "Cybele asteroids",
+            "B": "spectral type"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 75,
+        "text": "On 5 December the battery was ordered back to the Arras sector to join 83rd HAG in XIII Corps with First Army. The battery moved by road, arriving on 12 December. It established a Forward Section of two guns at Bailleul-Sir-Berthoult ('M') on the forward slope of Vimy Ridge and the other two as the Rear Section at Maison de la Cote ('X2') on the Arras–Bailleul road, while also digging gun pits in a sunken road as an alternative position for two guns ('N').",
+        "target": "two",
+        "options": {
+            "A": "guns ",
+            "B": "slope"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 76,
+        "text": "In keeping with British Army practice at the same time as the infantry battalions were forming, airborne supporting arms were formed including Royal Army Medical Corps volunteers. Of the seven airborne field ambulances formed during the Second World War, two were glider borne the 181st and the 195th. While the other five were parachute trained the 16th, 127th, 133rd, 224th and the 225th.",
+        "target": "two",
+        "options": {
+            "A": "airborne field ambulances ",
+            "B": "Second World War"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 77,
+        "text": "The 130th worked with Kuwaiti engineers to breach the berm in 12 places, and the 3rd Infantry Division's Brigade Combat Teams moved through, starting the Iraq War. After combat forces moved through, the brigade and the Kuwaitis then sealed off ten of these breaches to prevent Iraqi forces from using then, leaving two open for US forces that followed from the 82nd and 101st.",
+        "target": "two",
+        "options": {
+            "A": "breaches ",
+            "B": "forces"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 78,
+        "text": "In preparation for the next attack (the Battle of Poelcappelle on 9 October), 12th Gloucesters was in Sanctuary Wood, where it was under observation and artillery fire from the enemy and movement was restricted to duckboard tracks. On 8 October the battalion was split, with two companies providing carrying parties and the other two in the support line behind 1st Bn Cheshire Regiment.",
+        "target": "two",
+        "options": {
+            "A": "companies ",
+            "B": "parties"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 79,
+        "text": "There may have also been an autofretted mono-block barreled version of the same gun. Estimates on the length of the barrel range between 40 and 45 calibers. The 11th Year Type barrel rested in a ring cradle on a pedestal mount and had a hydro-pneumatic recoil mechanism that consisted of one recoil cylinder below the barrel and two on top.",
+        "target": "two",
+        "options": {
+            "A": "recoil cylinder",
+            "B": "barrel"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 80,
+        "text": "The appearance of the interrogation room where Cole is being interviewed by the scientists was based on the work of Lebbeus Woods; these scenes were shot at three power stations (two in Philadelphia and one in Baltimore). Gilliam intended to show Cole being interviewed through a multi-screen interrogation TV set because he felt the machinery evoked a \"nightmarish intervention of technology.",
+        "target": "one ",
+        "options": {
+            "A": "power stations",
+            "B": "scenes"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 81,
+        "text": "All 22 living cardinals participated in the conclave; 12 of them were created by Celestine V, five by Nicholas IV, two by Nicholas III, one by Urban IV and one by Honorius IV.",
+        "target": "five",
+        "options": {
+            "A": "conclave",
+            "B": "cardinals "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 82,
+        "text": "All 22 living cardinals participated in the conclave; 12 of them were created by Celestine V, five by Nicholas IV, two by Nicholas III, one by Urban IV and one by Honorius IV.",
+        "target": "two",
+        "options": {
+            "A": "conclave",
+            "B": "cardinals "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 83,
+        "text": "All 22 living cardinals participated in the conclave; 12 of them were created by Celestine V, five by Nicholas IV, two by Nicholas III, one by Urban IV and one by Honorius IV.",
+        "target": "one ",
+        "options": {
+            "A": "conclave",
+            "B": "cardinals "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 84,
+        "text": "Gardner states that the effects work was extremely stressful, as he wanted to do justice to the story; he credits James Franco equally with the success of the effects work. Three prosthetics were used in all, with two designed to show the innards of the arm and another to emulate the outside of it. Franco would later note that seeing blood on the arm was difficult for him and his reactions in those scenes were genuine.",
+        "target": "another",
+        "options": {
+            "A": "innards",
+            "B": "prosthetics "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 85,
+        "text": "The New York state election, 1902, was held on November 4. Gov. Benjamin B. Odell Jr. was re-elected; and State Senator Frank W. Higgins was elected Lieutenant Governor; both Republicans. Of the other six statewide elective offices up for election, four were carried by the Republicans and two by the Democrats. The approximate party strength at this election, as expressed by the vote for Governor, was: Republicans 665,000; Democrats 656,000; Social Democrats 23,000; Prohibition 20,000; Socialist Labor 16,000; and Liberal Democrats 2,000.",
+        "target": "four",
+        "options": {
+            "A": "election",
+            "B": "statewide elective offices"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 86,
+        "text": "The New York state election, 1902, was held on November 4. Gov. Benjamin B. Odell Jr. was re-elected; and State Senator Frank W. Higgins was elected Lieutenant Governor; both Republicans. Of the other six statewide elective offices up for election, four were carried by the Republicans and two by the Democrats. The approximate party strength at this election, as expressed by the vote for Governor, was: Republicans 665,000; Democrats 656,000; Social Democrats 23,000; Prohibition 20,000; Socialist Labor 16,000; and Liberal Democrats 2,000.",
+        "target": "two",
+        "options": {
+            "A": "election",
+            "B": "statewide elective offices"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 87,
+        "text": "According to Sternfeld it is possible to identify not only two, but as many as four parties in the Sacred College, of which two were pars Caroli and pars Imperii in the strict sense, while the remaining two represented the factions inside the Roman aristocracy.",
+        "target": "two",
+        "options": {
+            "A": "sense",
+            "B": "parties "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 88,
+        "text": "At the death of Clement IV there were twenty cardinals in the Sacred College. One cardinal (Rodolphe of Albano) was absent throughout and died during the vacancy. The other nineteen cardinals participated in the election in 1269, but two died before the cardinals settled on a new pope.",
+        "target": "two",
+        "options": {
+            "A": "election ",
+            "B": "cardinals "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 89,
+        "text": "Napier wrote to the Chief of the Staff on Christmas Day of this action \"Although they did not lose many men killed, the capture of their horses and property must tend greatly to cripple and break up the party. I hear that two of the elephants were left in the Arone jungles, and may be recovered; there are, therefore, only two remaining with the enemy.",
+        "target": "two",
+        "options": {
+            "A": "jungles",
+            "B": "elephants"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 90,
+        "text": "In December 1949 the 121st Fighter Squadron converted from its P-47s to F-84C Thunderjets as the first Air National Guard squadron to be equipped with jet aircraft. It was not to be a happy relationship. During 1950, the 121st had lost four Thunderjets in accidents, and two more to undetermined other causes.",
+        "target": "more",
+        "options": {
+            "A": "accidents",
+            "B": "Thunderjets "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 91,
+        "text": "This increased the range from 18,400 yards (16,800 m) to 30,100 yards (27,500 m). Eleven of these batteries were in the continental United States, with two in Panama, one in Hawaii, and two one-gun batteries at Fort Mills on Corregidor in the Philippines. The guns were originally in open mounts with protected magazines, but most were casemated against air attack, beginning in 1940 as World War II approached the United States.",
+        "target": "two",
+        "options": {
+            "A": "United States",
+            "B": "batteries "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 92,
+        "text": "This increased the range from 18,400 yards (16,800 m) to 30,100 yards (27,500 m). Eleven of these batteries were in the continental United States, with two in Panama, one in Hawaii, and two one-gun batteries at Fort Mills on Corregidor in the Philippines. The guns were originally in open mounts with protected magazines, but most were casemated against air attack, beginning in 1940 as World War II approached the United States.",
+        "target": "one ",
+        "options": {
+            "A": "United States",
+            "B": "batteries "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 93,
+        "text": "This increased the range from 18,400 yards (16,800 m) to 30,100 yards (27,500 m). Eleven of these batteries were in the continental United States, with two in Panama, one in Hawaii, and two one-gun batteries at Fort Mills on Corregidor in the Philippines. The guns were originally in open mounts with protected magazines, but most were casemated against air attack, beginning in 1940 as World War II approached the United States.",
+        "target": "most",
+        "options": {
+            "A": "magazines",
+            "B": "guns "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 94,
+        "text": "11th Street is one of three stations on the Market–Frankford Line that is not ADA-accessible, the other two being 34th Street and Spring Garden stations. The addition of elevators in the station was announced in SEPTA's 2021–2032 Capital Program proposal; the station platforms would be rehabilitated and made accessible to passengers with disabilities by 2023 at an estimated cost of $9.51 million.",
+        "target": "two",
+        "options": {
+            "A": "Market–Frankford Line",
+            "B": "stations "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 95,
+        "text": "Two years later, in 1922, six Battalions were disestablished and at the next year the remaining Battalions followed. However, three Battalions subordinated to the local Legion remained in existence: two in Rome and one in Palermo.",
+        "target": "two",
+        "options": {
+            "A": "existence",
+            "B": "Battalions "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 96,
+        "text": "Two years later, in 1922, six Battalions were disestablished and at the next year the remaining Battalions followed. However, three Battalions subordinated to the local Legion remained in existence: two in Rome and one in Palermo.",
+        "target": "one ",
+        "options": {
+            "A": "existence",
+            "B": "Battalions "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 97,
+        "text": "Twenty two electors were created by Pope Innocent II, ten by Celestine II, two by Pope Callixtus II and one by Pope Paschalis II.",
+        "target": "ten",
+        "options": {
+            "A": "Pope Innocent II",
+            "B": "electors "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 98,
+        "text": "Twenty two electors were created by Pope Innocent II, ten by Celestine II, two by Pope Callixtus II and one by Pope Paschalis II.",
+        "target": "two ",
+        "options": {
+            "A": "Pope Innocent II",
+            "B": "electors "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 99,
+        "text": "Twenty two electors were created by Pope Innocent II, ten by Celestine II, two by Pope Callixtus II and one by Pope Paschalis II.",
+        "target": "one ",
+        "options": {
+            "A": "Pope Innocent II",
+            "B": "electors "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 100,
+        "text": "Eighteen electors were created by Pope Innocent II, two by Pope Callixtus II, one by Pope Honorius II and one by Pope Paschalis II.",
+        "target": "two ",
+        "options": {
+            "A": "Pope Innocent II",
+            "B": "electors "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 101,
+        "text": "Eighteen electors were created by Pope Innocent II, two by Pope Callixtus II, one by Pope Honorius II and one by Pope Paschalis II.",
+        "target": "one ",
+        "options": {
+            "A": "Pope Innocent II",
+            "B": "electors "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 102,
+        "text": "Eighteen electors were created by Pope Innocent II, two by Pope Callixtus II, one by Pope Honorius II and one by Pope Paschalis II.",
+        "target": "one ",
+        "options": {
+            "A": "Pope Innocent II",
+            "B": "electors "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 103,
+        "text": "A total of 17 stellar occultations by Hygiea have been tracked by Earth-based astronomers, including two (in 2002 and 2014) that were seen by a large number of observers. The observations have been used to constrain Hygiea's size, shape and rotation axis.",
+        "target": "two",
+        "options": {
+            "A": "Earth-based astronomers",
+            "B": "stellar occultations"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 104,
+        "text": "108 Regiment RAC was formed at Barnard Castle on 1 November 1941 by the conversion to the armoured role of 1/5th (Bury) Battalion of the Lancashire Fusiliers, a 1st Line Territorial Army infantry battalion. 1/5th Battalion had been serving in 125th Infantry Brigade of 42nd (East Lancashire) Infantry Division, which were redesignated 10th Armoured Brigade and 42nd Armoured Division respectively. All three regiments in the brigade were drawn from the Lancashire Fusiliers and underwent simultaneous conversion (the other two became 109 RAC and 143 RAC).",
+        "target": "two",
+        "options": {
+            "A": "conversion",
+            "B": "regiments "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 105,
+        "text": "During the Finnish Civil War, a few Finnish Red Guard artillery units were armed with M1910 guns and Finnish White Guard units captured 3 guns during the war: two in Helsinki and one in Vyborg. After the war Finland acquired 8 more guns: 4 from France, 2 from Poland and 2 from Latvia, increasing the total number in service to 11 guns. 2 guns were French manufactured and designated as 107 K/13, while the remaining 9 were Russian manufactured and received the designation 107 K/10.",
+        "target": "two",
+        "options": {
+            "A": "war",
+            "B": "guns"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 106,
+        "text": "During the Finnish Civil War, a few Finnish Red Guard artillery units were armed with M1910 guns and Finnish White Guard units captured 3 guns during the war: two in Helsinki and one in Vyborg. After the war Finland acquired 8 more guns: 4 from France, 2 from Poland and 2 from Latvia, increasing the total number in service to 11 guns. 2 guns were French manufactured and designated as 107 K/13, while the remaining 9 were Russian manufactured and received the designation 107 K/10.",
+        "target": "one ",
+        "options": {
+            "A": "war",
+            "B": "guns"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 107,
+        "text": "In addition to the event in 1068, the southern portion of the DST has experienced three other historical events (all having an estimated magnitude of 6.5–7.0) with two in the northern section near the Dead Sea, and one closer to Aqaba. The event in 1212 caused significant damage to towns in the Arabah Valley as well as the destruction of a church on the Sinai Peninsula.",
+        "target": "two",
+        "options": {
+            "A": "estimated magnitude",
+            "B": "historical events"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 108,
+        "text": "In addition to the event in 1068, the southern portion of the DST has experienced three other historical events (all having an estimated magnitude of 6.5–7.0) with two in the northern section near the Dead Sea, and one closer to Aqaba. The event in 1212 caused significant damage to towns in the Arabah Valley as well as the destruction of a church on the Sinai Peninsula.",
+        "target": "one",
+        "options": {
+            "A": "estimated magnitude",
+            "B": "historical events"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 109,
+        "text": "Directional signs that have been covered indicate that there were two more fare control areas. One exit at the extreme south end had two staircases going to southwestern corner of West 102nd Street and Central Park West, and the other at the extreme north end had two that went to both western corners of West 104th Street.",
+        "target": "other",
+        "options": {
+            "A": "corner",
+            "B": "exit "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 110,
+        "text": "Directional signs that have been covered indicate that there were two more fare control areas. One exit at the extreme south end had two staircases going to southwestern corner of West 102nd Street and Central Park West, and the other at the extreme north end had two that went to both western corners of West 104th Street.",
+        "target": "two ",
+        "options": {
+            "A": "corner",
+            "B": "staircases "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 111,
+        "text": "Barton's room is sparsely furnished with two large windows facing another building. The Coens later described the hotel as a \"ghost ship floating adrift, where you notice signs of the presence of other passengers, without ever laying eyes on any.\" In the film, residents' shoes are an indication of this unseen presence; another rare sign of other inhabitants is the sound from adjacent rooms.",
+        "target": "any",
+        "options": {
+            "A": "eyes",
+            "B": "passengers"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 112,
+        "text": "By March 1872 Jones recorded that \"The party to whom the pond near the Quainton Station belongs is making complaints about our having water and I expect he will be using force to prevent our getting any\". A wooden water tower was built at Brill station, and a large water tower known as the Black Tank was built in the fork of the main line and Church Siding.",
+        "target": "any",
+        "options": {
+            "A": "force",
+            "B": "water "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 113,
+        "text": "On audio commentary recorded for the Seinfeld: Volume 1 DVD set, David commented that when he showed his idea of the scene, \"I remember everybody saying 'there's no heat, there's no heat', and I said, that's the point, there's not supposed to be any\". David and producer Andrew Scheinman got into a big argument over the issue, which David eventually won.",
+        "target": "any",
+        "options": {
+            "A": "point",
+            "B": "heat"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 114,
+        "text": "The ship the English saw pass before the town was not French, but rather a shallop from the Sparrow, a shipping vessel sponsored by Thomas Weston and one other of the Plymouth settlement's sponsors, which was plying the eastern fishing grounds. This boat brought seven additional settlers but no provisions whatsoever \"nor any hope of any\". In a letter they brought, Weston explained that the settlers were to set up a salt pan operation on one of the islands in the harbor for the private account of Weston.",
+        "target": "any",
+        "options": {
+            "A": "hope",
+            "B": "provisions"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 115,
+        "text": "Stayner underwent brief counseling but never sought additional treatment. He also refused to disclose all the details of sexual abuse he endured from Parnell. In a 2007 interview, Stayner's sister said that her brother did not seek counseling because their father said Stayner \"didn't need any\". She added, \"He [Steven] got on with his life but he was pretty messed up.\"",
+        "target": "any",
+        "options": {
+            "A": "father",
+            "B": "counseling "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 116,
+        "text": "In The Stations of the Sun: A History of the Ritual Year in Britain (1996), Ronald Hutton writes: \"No doubt there were [pagan] religious observances as well, but none of the tales ever portrays any\". The only historical reference to pagan religious rites is in the work of Geoffrey Keating (died 1644), but his source is unknown.",
+        "target": "any",
+        "options": {
+            "A": "tales",
+            "B": "religious observances"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 117,
+        "text": "On the same day that Reggina presented Roberto Breda as coach, Campagnacci was signed outright from the Abruzzo team. Later Jonis Khoris joined Giulianova as part of the compensation. At first he was the favourite of Breda along with Bonazzoli, where Campagnacci scored 4 goals in the first 5-round (But Bonazzoli failed to score any).",
+        "target": "any",
+        "options": {
+            "A": "round",
+            "B": "goals "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 118,
+        "text": "If the drop flattens or spreads out, it means the surface of the adherend has good wettability and should allow for good bonding. A final consideration when using chemical treatments is that of safety. The chemicals used in the treatments can be hazardous to human health and before using any, the material safety data sheet for the particular chemical should be referenced.",
+        "target": "any",
+        "options": {
+            "A": "health",
+            "B": "chemicals"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 119,
+        "text": "According to the Abbe Pierre Foundation for Disadvantaged Housing, of 319 housing units the commune should have built between 2002 and 2006 it has neither built nor funded any, something that Allaudiens were far from disapproving having re-elected the Povinelli list of candidates by 81.15% in the local elections in 2008.",
+        "target": "any",
+        "options": {
+            "A": "commune",
+            "B": "housing units"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 120,
+        "text": "This set him up as a competitor of Petrucci, who had similar privileges in the Republic of Venice(the right to print organ tablature in the papal states was originally Petrucci's, but since he had not printed any, the pope transferred it to Antico). A ten-year copyright was added to the printing privilege, although many reprints from Antico's plates and blocks, some from before the expiration of the copyright, were not always attributed to him.",
+        "target": "any",
+        "options": {
+            "A": "papal states",
+            "B": "organ tablature "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 121,
+        "text": "Early in the morning, traditionally before dawn, the father or another male of the household goes into the forest to chop a piece of log, usually from an oak tree if it could be found, but, if the region does not have any, than beech, olive, or maple can be used. When the perfect tree is found, the father would invoke God by reciting the Lord's Prayer several times and making the Sign of the Cross and would then cut it.",
+        "target": "any",
+        "options": {
+            "A": "oak tree",
+            "B": "region"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 122,
+        "text": "In response to Marlborough's manoeuvres, Maximilian and Marsin, conscious of their numerical disadvantage with only 40,000 men, moved their forces to the entrenched camp at Dillingen on the north bank of the Danube. Marlborough could not attack Dillingen because of a lack of siege guns – he had been unable to bring any from the Low Countries, and Margrave Louis William had failed to supply any, despite prior assurances that he would.",
+        "target": "any",
+        "options": {
+            "A": "siege guns",
+            "B": "entrenched camp"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 123,
+        "text": "According to Tavris and Aronson, cognitive dissonance allows us to justify our mistakes and harms, keeping us from conscious awareness that we even made any, and thereby, allows us to live with ourselves. This is how even \"charlatans, scammers, and tyrants sleep at night.\" Given a choice between accepting information that we don't want to hear and justifying outdated beliefs or hurtful acts, most people choose self-justification.",
+        "target": "any",
+        "options": {
+            "A": "mistakes ",
+            "B": "awareness"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 124,
+        "text": "According to Tavris and Aronson, cognitive dissonance allows us to justify our mistakes and harms, keeping us from conscious awareness that we even made any, and thereby, allows us to live with ourselves. This is how even \"charlatans, scammers, and tyrants sleep at night.\" Given a choice between accepting information that we don't want to hear and justifying outdated beliefs or hurtful acts, most people choose self-justification.",
+        "target": "any",
+        "options": {
+            "A": "harms",
+            "B": "awareness"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 125,
+        "text": "The car was built in Paris with the gearbox (on the rear axle for forward, neutral and reverse) built in England. It was exhibited at the 1926 Paris Motor Show but only a few were made. General Motors signed a \"lucrative\" royalty agreement to manufacture the torque converters, giving Constantinesco a $100,000 advance on royalties, but didn't make any, leaving the inventor deeply in debt and the mechanical torque converter sidelined.",
+        "target": "any",
+        "options": {
+            "A": "torque converters",
+            "B": "royalties"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 126,
+        "text": "In the picture above, the normal clothing (a kimono) that the woman was wearing attenuated the far reaching thermal radiation; the kimono, however, would naturally have been unable to attenuate any gamma radiation, if she were close enough to the weapon to have experienced any, and it would be likely that any such penetrating radiation effect would be evenly applied to her entire body.",
+        "target": "any",
+        "options": {
+            "A": "gamma radiation",
+            "B": "weapon"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 127,
+        "text": "At last we halted about 11.30 & our party filled our bottles, and as we were doing so stragglers were coming & asking, nay almost crying for water, but the officer in charge couldn’t give them any, & told them to find their own unit & draw water from them, but the men were lost, didn’t know where their battalions were & were hardly strong enough to pull one leg after the other, so they stood watching the water being issued, & looking half mad, seeing the water trickling into the bottles & being unable to have a drink.",
+        "target": "any",
+        "options": {
+            "A": "water",
+            "B": "officer "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 128,
+        "text": "The MCC team played eight other first-class matches of three days' duration, two each against the four main cricketing territories, each set of two games preceding the Test match in the same venue. The touring side won only one of these games, the second match in British Guiana, but they were not beaten in any, though more than once they were close to defeat when the game ended.",
+        "target": "any",
+        "options": {
+            "A": "games",
+            "B": "match "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 129,
+        "text": "Ukhtomsky concluded: \"There are in essence no borders for us in Asia, and there cannot be any, other than the immeasurable blue sea freely lapping at her shores, as unbridled as the spirit of the Russian people\". Ukhtomsky was dispatched to Beijing to offer Russian support against the Western powers who might seek to take advantage of the situation and push into China.",
+        "target": "any",
+        "options": {
+            "A": "borders ",
+            "B": "Asia"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 130,
+        "text": "She is known for her love of her horse, Small, and for children. She desperately desires children of her own, however, she realizes that human monsters should not exist, and so refrains from having any, eventually taking a herb to make herself infertile so she wll never be tempted. She has green eyes and brown skin.",
+        "target": "any",
+        "options": {
+            "A": "children of her own",
+            "B": "human monsters"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 131,
+        "text": "Further, readers new to the series may be confused by the characters' sketchy introductions and the complexity of past events alluded to but never clarified\". In contrast, Kirkus Reviews commented that \"Yep's vivid--and occasionally bizarre--characters and images are powerfully imaginative, a welcome respite from sword-and-sorcery stereotypes...Not for every reader, but destined to be a special favorite for a few\".",
+        "target": "a few",
+        "options": {
+            "A": "reader",
+            "B": "favorite "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 132,
+        "text": "According to Chuck D, this involved \"telling people, well, color's an issue created and concocted to take advantage of people of various characteristics with the benefit of a few\". He recalled their concept for the album in an interview with Billboard: \"We wanted really to go with a deep, complex album ... more conducive to the high and lows of great stage-performance.\"",
+        "target": "a few",
+        "options": {
+            "A": "people ",
+            "B": "characteristics "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 133,
+        "text": "\"I look back a year or two in the videogame field, or the home-computer field\", Greenberg added, \"how much better everyone was, when most people were making money, rather than very few\". Companies reduced production in the middle of the year because of weak demand even as prices remained low, causing shortages as sales suddenly rose during the Christmas season.",
+        "target": "few",
+        "options": {
+            "A": "people ",
+            "B": "money"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 134,
+        "text": "During the regular season, the Hawks were the best team in the league record-wise at 88-46-10. They scored the second-most runs in the league (550) and allowed the fewest (351), while also stealing the most bases and leading the league in team batting average (.267). Leading the team offensively was new acquisition Seiichi Uchikawa, who led the entire league in batting average at .338.",
+        "target": "fewest",
+        "options": {
+            "A": "runs ",
+            "B": "league"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 135,
+        "text": "During the Los Angeles meeting, the Committee on Los Angeles Opportunities, which consists of six NFL owners, favored the Carson project over the Rams’ Inglewood project. However, in the first round of voting, the Inglewood proposal got the greater number of votes (21) while the Carson project received far fewer (11). This, however, did not meet the required threshold of 24 votes.",
+        "target": "fewer",
+        "options": {
+            "A": "number of votes",
+            "B": "Carson project"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 136,
+        "text": "Mark is Dusty's right-hand man in many Floating Outfit stories and the principal protagonist in a few (e.g. Rangeland Hercules). Much taller and heavier than Dusty (about six feet three inches and 210 pounds), Mark is seldom acknowledged as even having an equal for size and strength, although Dusty may be slightly stronger pound for pound.",
+        "target": "a few",
+        "options": {
+            "A": "Floating Outfit stories",
+            "B": "principal protagonist"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 137,
+        "text": "The New York Yankees have the highest regular season winning percentage, with .570. The Miami Marlins have the lowest, with .461. The San Francisco Giants have the most overall wins (11,445), while the Arizona Diamondbacks have the fewest (1,973). The Philadelphia Phillies have the most losses, with 11,241, while the Tampa Bay Rays have the fewest, with 2,093.",
+        "target": "fewest",
+        "options": {
+            "A": "overall wins",
+            "B": "Arizona Diamondbacks"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 138,
+        "text": "The New York Yankees have the highest regular season winning percentage, with .570. The Miami Marlins have the lowest, with .461. The San Francisco Giants have the most overall wins (11,445), while the Arizona Diamondbacks have the fewest (1,973). The Philadelphia Phillies have the most losses, with 11,241, while the Tampa Bay Rays have the fewest, with 2,093. ",
+        "target": "fewest",
+        "options": {
+            "A": "losses",
+            "B": "Tampa Bay Rays"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 139,
+        "text": "The largest man-made lake is Petenwell Lake, which was created by damming the Wisconsin River. Vilas County has the most lakes (1,318) and Brown and Outagamie counties the fewest (4). Many lakes have the same names, with 116 named Mud Lake. Swimming, fishing, and/or boating are permitted in some of these lakes, but not all.",
+        "target": "fewest",
+        "options": {
+            "A": "lakes",
+            "B": "counties"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 140,
+        "text": "During the Japanese period many indigenous groups were forcibly converted to Shintoism, only a few (such as the Saisiyat people) were able to resist and maintain their traditions. Often this was done by convincing Japanese anthropologists to come to Taiwan and document religious traditions as legitimate cultural heritage however even the indigenous people allowed to keep some traditional ceremonies were still forced to pray at Shinto temples.",
+        "target": "a few",
+        "options": {
+            "A": "indigenous groups",
+            "B": "Shintoism"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 141,
+        "text": "There are several levels of confidence that can be included in such signatures. Although many programs read and write this information, few (if any) include this level of certification when calculating whether to trust a key.",
+        "target": "few",
+        "options": {
+            "A": "programs ",
+            "B": "information"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 142,
+        "text": "Although the highest diversity is in North America, the oldest members are in Asia and Africa, suggesting an Old World origin for the group. Most species are semiaquatic and feed on fish and amphibians, although a few are semifossorial or leaf-litter snakes that feed on invertebrates. ",
+        "target": "a few",
+        "options": {
+            "A": "species ",
+            "B": "amphibians"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 143,
+        "text": "Most species are harmless to humans, but a few (e.g., Thamnophis sirtalis, Thamnophis elegans) are capable of inflicting bites that can result in local, non-life-threatening symptoms, and at least two members of the genus Rhabdophis (R. tigrinus and R. subminiatus) are capable of inflicting life-threatening bites to humans, though they have only enlarged, ungrooved fangs in the back of the mouth.",
+        "target": "a few",
+        "options": {
+            "A": "species",
+            "B": "humans"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 144,
+        "text": "Most specimens are known from wing fragments only; with only a few as complete wings, and even fewer (of the family Meganeuridae) with body impressions. These show a globose head with large dentate mandibles, strong spiny legs, a large thorax, and long and slender dragonfly-like abdomen.",
+        "target": "a few",
+        "options": {
+            "A": "specimens ",
+            "B": "fragments"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 145,
+        "text": "On April 20, 2011, Sony acknowledged on the official PlayStation Blog that it was \"aware certain functions of the PlayStation Network\" were down. Upon attempting to sign in via the PlayStation 3, users received a message indicating that the network was \"undergoing maintenance\". The following day, Sony asked its customers for patience while the cause of outage was investigated and stated that it may take \"a full day or two\" to get the service fully functional again.",
+        "target": "two",
+        "options": {
+            "A": "day",
+            "B": "outage"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 146,
+        "text": "In Melody Maker, Lynden Barker described the album as \"marvellous\", saying that \"(t)hough not as immediately appealing as God ... it possesses a multi-layered makeup that becomes more and more exciting on each successive spin\". Douglas Baptie of The Digital Fix wondered \"Why wasn't it more popular?\" and said that the album \"somehow combines the best qualities of the previous two\". The List's Neil Cooper called Attitude \"the most honed, conventionally focused and 'produced'\" of Rip Rig + Panic's three.",
+        "target": "two",
+        "options": {
+            "A": "album",
+            "B": "qualities"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 147,
+        "text": "In 1995, John Philip Jones talked about the shelf space model of recency in his book \"When Ads Work\". He found that ‘within a week, a single ad exposure was enough to produce a strong purchasing effect and that subsequent exposures within that week added very little'. The task for advertising is therefore to remind the audience about the product.",
+        "target": "little",
+        "options": {
+            "A": "exposures",
+            "B": "purchasing effect"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 148,
+        "text": "His surviving works include two published sets of overture-symphonies (Op. 2 and Op. 5), six harpsichord sonatas, seven keyboard concertos and a number of works for smaller forces. Timothy Rishton, writing about his life in 1983, notes that the early promise of his keyboard works, some of the first to be specified for pianoforte, is not fulfilled, and for the last thirty years of his life he wrote little (at least which survives). According to Jürgen Schaarwächter, performances of Smethergell’s orchestral music were often heard in Vauxhall Gardens until the 1790s, when stylistic changes in Europe turned it unfashionable.",
+        "target": "little",
+        "options": {
+            "A": "keyboard works",
+            "B": "pianoforte"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 149,
+        "text": "Bonar sold the 3rd through 5th editions of the Britannica, and produced the supplement to the 3rd edition. Bonar held the copyright for that supplement, for whose material he asked great sums (20,000 pounds sterling) in subsequent editions, although he was granted but little (100 - 200 pounds). Bonar was friendly to the article authors, and introduced the policy of paying them as well as the article reviewers, and of allowing them to retain copyright for separate publication of their work.",
+        "target": "little",
+        "options": {
+            "A": "editions",
+            "B": "sums"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 150,
+        "text": "In July of that year, he signed Larry Doby, the first black player to play in the American League. Doby's first game was on July 5 and before the game, Doby was introduced to his teammates by player-manager Lou Boudreau. \"One by one, Lou introduced me to each player. 'This is Joe Gordon,' and Gordon put his hand out. 'This is Bob Lemon,' and Lemon put his hand out. 'This is Jim Hegan,' and Hegan put his hand out. All the guys put their hand out, all but three. As soon as he could, Bill Veeck got rid of those three\", Doby said. The following year Veeck signed Satchel Paige to a contract, making him the oldest rookie in major league history.",
+        "target": "three",
+        "options": {
+            "A": "hand",
+            "B": "guys"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 151,
+        "text": "The national title game was a see-saw battle throughout, but is remembered best for Chris Webber's time out call with seconds left when Michigan didn't have any. Michigan was assessed a technical foul and North Carolina ended up winning 77–71, giving Smith his second national championship.",
+        "target": "any",
+        "options": {
+            "A": "seconds",
+            "B": "time out call"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 152,
+        "text": "This was launched in 1976 and was the first Rhode Island Lottery game where players could select their numbers. Nightly, four sets of balls numbered 0 through 9 are drawn; this was three sets of balls between 1976 and 1978. Prizes and options vary. Rhode Island, unusually, does not draw a three-digit number separately; however, players can choose \"first three\" or \"last three\". \"Midday\" drawings for The Numbers were added in 2014.",
+        "target": "three",
+        "options": {
+            "A": "digit number",
+            "B": "players"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 153,
+        "text": "One final letter, this time in February to Escudier, relates to what Verdi saw as \"the three roles in this opera, and there can only be three\". He then lays out that there is \"Lady Macbet, (sic) Macbet, (sic) [and the] Chorus of Witches,\" discounting the role of Macduff, and he continues by noting that, for him, \"the Witches rule the drama.....They are truly a character and a character of greatest importance.\"",
+        "target": "three",
+        "options": {
+            "A": "roles",
+            "B": "opera"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 154,
+        "text": "Austin was offered a trial at Swindon Town in September 2009 after Swindon Town's then chief scout Ken Ryder \"stumbled across Charlie playing for Poole Town... and he scored four goals... and then the following week he scored three or four\". After being watched for three games by the Swindon Town scouting team, Austin was asked to go on a week-long trial at Swindon Town. Austin impressed in his first reserve game against Swansea and scored a hat trick. Immediately afterwards, he was signed by Danny Wilson for an undisclosed fee and given a contract until the end of the season.",
+        "target": "three",
+        "options": {
+            "A": "goals",
+            "B": "week"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 155,
+        "text": "Austin was offered a trial at Swindon Town in September 2009 after Swindon Town's then chief scout Ken Ryder \"stumbled across Charlie playing for Poole Town... and he scored four goals... and then the following week he scored three or four\". After being watched for three games by the Swindon Town scouting team, Austin was asked to go on a week-long trial at Swindon Town. Austin impressed in his first reserve game against Swansea and scored a hat trick. Immediately afterwards, he was signed by Danny Wilson for an undisclosed fee and given a contract until the end of the season. ",
+        "target": "four",
+        "options": {
+            "A": "week",
+            "B": "goals"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 156,
+        "text": "He also praised Moore's lyrics, stating that \"his Beat-style poetry is especially evocative, and especially terse – a quality that fits well with an album that musically seems to be doing much the same, communicating a lot with a little\". ",
+        "target": "little",
+        "options": {
+            "A": "lyrics",
+            "B": "poetry"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 157,
+        "text": "These distortions had significant social and cultural effects on the demographics of South Korea. It is important to note that infant and child mortality may have had an effect on the high sex ratio but the data is not significant enough to label it as a reliable reason for the high sex ratio as there were very few (9.9 in 1000 births in 1985) reported.",
+        "target": "few",
+        "options": {
+            "A": "infant and child mortality",
+            "B": "data"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 158,
+        "text": "There are studies that show children's self-esteem is positively affected by positive comments on social media and negatively affected self-esteem by negative comments. This affects the way that people look at themselves on a \"worthiness\" scale. A 2017 study of almost 6,000 adolescent students showed that those who self-reported addiction-like symptoms of social media use were more likely to report low self-esteem and high levels of depressive symptoms. From the findings on a population-based study, there is about 37% increase in the likelihood of major depression among adolescents. In a different study conducted in 2007, those who used the most multiple social media platforms (7 to 11) had more than three times the risk of depression and anxiety than people who used the fewest (0 to 2).",
+        "target": "fewest",
+        "options": {
+            "A": "times",
+            "B": "social media platforms"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 159,
+        "text": "Like cola, it usually has a thick and foamy head. A common use is to add vanilla ice cream to make a root beer float. Since safrole, a key component of sassafras, was banned by the U.S. Food and Drug Administration in 1960 due to its carcinogenicity, most commercial root beers have been flavored using artificial sassafras flavoring, but a few (e.g. Hansen's) use a safrole-free sassafras extract. Major root beer producers include PepsiCo, Coca-Cola Company, Dad's, Keurig Dr. Pepper, and A&W.",
+        "target": "a few",
+        "options": {
+            "A": "flavoring",
+            "B": "commercial root beers"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 160,
+        "text": "Non-denominational churches originated during the mid-20th century in America. According to Michael De Groote of Deseret News, most non-denominational churches have services that heavily reflect evangelical practices, while very few (about 5%) reflect practices of black churches. Thousands of non-denominational, Protestant congregations have emerged in recent decades. Many of these in large metropolitan areas have highly integrated, multi-racial congregations and staff, regardless of their location in the North or the South. Some of the largest churches in the country, whose services are regularly broadcast on national television networks, belong to this category.",
+        "target": "few",
+        "options": {
+            "A": "services",
+            "B": "practices"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 161,
+        "text": "While the digestive fluid is being produced, the pitcher is not yet open, so there is no chance of microbial contamination. During pitcher development, at least 29 digestive proteins including proteases, chitinases, pathogenesis-related proteins and thaumatin-like proteins are produced in the pitcher fluid. In addition to breaking down prey, these can act as antimicrobial agents. When the pitchers open, the fluid is exposed to bacteria, fungal spores, insects and rain. Often pitchers have a lid that covers the trap, excepting a few (e.g. N. lowii, N. attenboroughii and N. jamban), preventing rain water from entering. The lid inhibits rainwater from diluting the digestive fluid. Once the bacteria and fungi enter the fluid, secondary metabolites are produced in addition to antimicrobial proteins.",
+        "target": "a few",
+        "options": {
+            "A": "trap",
+            "B": "pitchers"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 162,
+        "text": "In contrast to the broad-stripe tribune, the other five 'thin stripe' tribunes were lower in rank, and were called the tribuni angusticlavii. These 'officer cadets' were men of equestrian rank who had military experience, and yet had no authority: they were allowed to sit on a court martial but they held no power in battle. Most thin-stripe tribunes served the legionary legate, yet a lucky few (such as Agricola) were selected to serve on the staff of the provincial governor. According to Tacitus, they did not always take their appointment as seriously as they might, contrasting Agricola's tribuneship to his peers by saying \"[Agricola did not], like many young men who convert military service into wanton pastime, avail himself licentiously or slothfully of his tribunitial title, or use his inexperience to spend his time in pleasures and absences from duty\".",
+        "target": "few",
+        "options": {
+            "A": "thin-stripe tribunes",
+            "B": "legionary legate"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 163,
+        "text": "There is no final agreement regarding the Syrian water rights on the Euphrates and Tigris rivers. However, since 2005 a group of scholars and retired officials from Syria, Iraq and Turkey initiated Track II diplomacy under the Euphrates-Tigris Initiative for Cooperation. Its aim is to promote cooperation among the three countries, including through a joint data inventory. In March 2008 the three riparian countries formed a joint \"water institute\" based in Turkey that will \"work toward the solution of water-related problems among the three\".",
+        "target": "three",
+        "options": {
+            "A": "riparian countries",
+            "B": "problems"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 164,
+        "text": "This was launched in 1976 and was the first Rhode Island Lottery game where players could select their numbers. Nightly, four sets of balls numbered 0 through 9 are drawn; this was three sets of balls between 1976 and 1978. Prizes and options vary. Rhode Island, unusually, does not draw a three-digit number separately; however, players can choose \"first three\" or \"last three\". \"Midday\" drawings for The Numbers were added in 2014.",
+        "target": "three",
+        "options": {
+            "A": "players",
+            "B": "digit number"
+        },
+        "answer": "B"
+    }
+]

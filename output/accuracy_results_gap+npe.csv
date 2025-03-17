@@ -1,0 +1,7 @@
+Model,Dataset,Total,Correct,Accuracy
+train_gap+npe/Gemma_gap+npe,gap-test_npe_90.csv,2090,1823,87.22%
+,,,,
+train_gap+npe/LLaMA_gap+npe,gap-test_npe_90.csv,2090,1564,74.83%
+,,,,
+train_gap+npe/GPT_gap+npe,gap-test_npe_90.csv,2090,1884,90.14%
+,,,,

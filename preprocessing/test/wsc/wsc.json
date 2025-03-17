@@ -1,0 +1,2732 @@
+[
+    {
+        "text_id": "wsc-1",
+        "text": "The city councilmen refused the demonstrators a permit because [target]  feared violence.",
+        "target": "[target]",
+        "options": {
+            "A": "The city councilmen",
+            "B": "The demonstrators"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-2",
+        "text": "The city councilmen refused the demonstrators a permit because [target]  advocated violence.",
+        "target": "[target]",
+        "options": {
+            "A": "The demonstrators",
+            "B": "The city councilmen"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-3",
+        "text": "The trophy doesn't fit into the brown suitcase because  [target]  is too large.",
+        "target": "[target]",
+        "options": {
+            "A": "the trophy",
+            "B": "the suitcase"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-4",
+        "text": "The trophy doesn't fit into the brown suitcase because  [target]  is too small.",
+        "target": "[target]",
+        "options": {
+            "A": "the suitcase",
+            "B": "the trophy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-5",
+        "text": "Joan made sure to thank Susan for all the help  [target]  had recieved.",
+        "target": "[target]",
+        "options": {
+            "A": "Joan",
+            "B": "Susan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-6",
+        "text": "Joan made sure to thank Susan for all the help  [target]  had given.",
+        "target": "[target]",
+        "options": {
+            "A": "Susan",
+            "B": "Joan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-7",
+        "text": "Paul tried to call George on the phone, but  [target]  wasn't successful.",
+        "target": "[target]",
+        "options": {
+            "A": "Paul",
+            "B": "George"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-8",
+        "text": "Paul tried to call George on the phone, but  [target]  wasn't available.",
+        "target": "[target]",
+        "options": {
+            "A": "George",
+            "B": "Paul"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-9",
+        "text": "The lawyer asked the witness a question, but  [target]  was reluctant to repeat it.",
+        "target": "[target]",
+        "options": {
+            "A": "the lawyer",
+            "B": "the witness"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-10",
+        "text": "The lawyer asked the witness a question, but  [target]  was reluctant to answer it.",
+        "target": "[target]",
+        "options": {
+            "A": "the witness",
+            "B": "the lawyer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-11",
+        "text": "The delivery truck zoomed by the school bus because  [target]  was going so fast.",
+        "target": "[target]",
+        "options": {
+            "A": "the delivery truck",
+            "B": "the school bus"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-12",
+        "text": "The delivery truck zoomed by the school bus because  [target]  was going so slow.",
+        "target": "[target]",
+        "options": {
+            "A": "the school bus",
+            "B": "the delivery truck"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-13",
+        "text": "Frank felt vindicated when his longtime rival Bill revealed that  [target]  was the winner of the competition.",
+        "target": "[target]",
+        "options": {
+            "A": "Frank",
+            "B": "Bill"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-14",
+        "text": "Frank felt crushed when his longtime rival Bill revealed that  [target]  was the winner of the competition.",
+        "target": "[target]",
+        "options": {
+            "A": "Bill",
+            "B": "Frank"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-15",
+        "text": "The man couldn't lift his son because  [target]  was so weak.",
+        "target": "[target]",
+        "options": {
+            "A": "The man",
+            "B": "The son"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-16",
+        "text": "The man couldn't lift his son because  [target]  was so heavy.",
+        "target": "[target]",
+        "options": {
+            "A": "The son",
+            "B": "The man"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-17",
+        "text": "The large ball crashed right through the table because  [target]  was made of steel.",
+        "target": "[target]",
+        "options": {
+            "A": "The large ball",
+            "B": "The table"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-18",
+        "text": "The large ball crashed right through the table because  [target]  was made of styrofoam.",
+        "target": "[target]",
+        "options": {
+            "A": "The table",
+            "B": "The large ball"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-19",
+        "text": "John couldn't see the stage with Billy in front of him because  [target]  is so short.",
+        "target": "[target]",
+        "options": {
+            "A": "John",
+            "B": "Billy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-20",
+        "text": "John couldn't see the stage with Billy in front of him because  [target]  is so tall.",
+        "target": "[target]",
+        "options": {
+            "A": "Billy",
+            "B": "John"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-21",
+        "text": "Tom threw his schoolbag down to Ray after  [target]  reached the top of the stairs.",
+        "target": "[target]",
+        "options": {
+            "A": "Tom",
+            "B": "Ray"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-22",
+        "text": "Tom threw his schoolbag down to Ray after  [target]  reached the bottom of the stairs.",
+        "target": "[target]",
+        "options": {
+            "A": "Ray",
+            "B": "Tom"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-23",
+        "text": "Although they ran at about the same speed, Sue beat Sally because  [target]  had such a good start.",
+        "target": "[target]",
+        "options": {
+            "A": "Sue",
+            "B": "Sally"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-24",
+        "text": "Although they ran at about the same speed, Sue beat Sally because  [target]  had such a bad start.",
+        "target": "[target]",
+        "options": {
+            "A": "Sally",
+            "B": "Sue"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-25",
+        "text": "The sculpture rolled off the shelf because  [target]  wasn't anchored.",
+        "target": "[target]",
+        "options": {
+            "A": "The sculpture",
+            "B": "The shelf"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-26",
+        "text": "The sculpture rolled off the shelf because  [target]  wasn't level.",
+        "target": "[target]",
+        "options": {
+            "A": "The shelf",
+            "B": "The sculpture"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-27",
+        "text": "Sam's drawing was hung just above Tina's and  [target]  did look much better with another one below it.",
+        "target": "[target]",
+        "options": {
+            "A": "Sam's drawing",
+            "B": "Tina's drawing"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-28",
+        "text": "Sam's drawing was hung just above Tina's and  [target]  did look much better with another one above it.",
+        "target": "[target]",
+        "options": {
+            "A": "Tina's drawing",
+            "B": "Sam's drawing"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-29",
+        "text": "Anna did a lot better than her good friend Lucy on the test because  [target]  had studied so hard.",
+        "target": "[target]",
+        "options": {
+            "A": "Anna",
+            "B": "Lucy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-30",
+        "text": "Anna did a lot worse than her good friend Lucy on the test because  [target]  had studied so hard.",
+        "target": "[target]",
+        "options": {
+            "A": "Lucy",
+            "B": "Anna"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-31",
+        "text": "The firemen arrived after the police because  [target]  were coming from so far away.",
+        "target": "[target]",
+        "options": {
+            "A": "The firemen",
+            "B": "The police"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-32",
+        "text": "The firemen arrived before the police because  [target]  were coming from so far away.",
+        "target": "[target]",
+        "options": {
+            "A": "The police",
+            "B": "The firemen"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-33",
+        "text": "Frank was upset with Tom because the toaster  [target]  had bought from him didn't work.",
+        "target": "[target]",
+        "options": {
+            "A": "Frank",
+            "B": "Tom"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-34",
+        "text": "Frank was upset with Tom because the toaster  [target]  had sold him didn't work.",
+        "target": "[target]",
+        "options": {
+            "A": "Tom",
+            "B": "Frank"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-35",
+        "text": "Jim yelled at Kevin because  [target]  was so upset.",
+        "target": "[target]",
+        "options": {
+            "A": "Jim",
+            "B": "Kevin"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-36",
+        "text": "Jim comforted Kevin because  [target]  was so upset.",
+        "target": "[target]",
+        "options": {
+            "A": "Kevin",
+            "B": "Jim"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-37",
+        "text": "The sack of potatoes had been placed above the bag of flour, so  [target]  had to be moved first.",
+        "target": "[target]",
+        "options": {
+            "A": "The sack of potatoes",
+            "B": "The bag of flour"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-38",
+        "text": "The sack of potatoes had been placed below the bag of flour, so  [target]  had to be moved first.",
+        "target": "[target]",
+        "options": {
+            "A": "The bag of flour",
+            "B": "The sack of potatoes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-39",
+        "text": "Pete envies Martin although  [target]  is very successful.",
+        "target": "[target]",
+        "options": {
+            "A": "Pete",
+            "B": "Martin"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-40",
+        "text": "Pete envies Martin because  [target]  is very successful.",
+        "target": "[target]",
+        "options": {
+            "A": "Martin",
+            "B": "Pete"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-41",
+        "text": "The older students were bullying the younger ones, so we punished  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The older students",
+            "B": "The younger students"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-42",
+        "text": "The older students were bullying the younger ones, so we rescued  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The younger students",
+            "B": "The older students"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-43",
+        "text": "I poured water from the bottle into the cup until  [target]  was empty.",
+        "target": "[target]",
+        "options": {
+            "A": "the bottle",
+            "B": "the cup"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-44",
+        "text": "I poured water from the bottle into the cup until  [target]  was full.",
+        "target": "[target]",
+        "options": {
+            "A": "the cup",
+            "B": "the bottle"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-45",
+        "text": "Susan knows all about Ann's personal problems because  [target]  is nosy.",
+        "target": "[target]",
+        "options": {
+            "A": "Susan",
+            "B": "Ann"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-46",
+        "text": "Susan knows all about Ann's personal problems because  [target]  is indiscreet.",
+        "target": "[target]",
+        "options": {
+            "A": "Ann",
+            "B": "Susan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-47",
+        "text": "Sid explained his theory to Mark but  [target]  couldn't convince him.",
+        "target": "[target]",
+        "options": {
+            "A": "Sid",
+            "B": "Mark"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-48",
+        "text": "Sid explained his theory to Mark but  [target]  couldn't understand him.",
+        "target": "[target]",
+        "options": {
+            "A": "Mark",
+            "B": "Sid"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-49",
+        "text": "Susan knew that Ann's son had been in a car accident, so  [target]  told her about it.",
+        "target": "[target]",
+        "options": {
+            "A": "Susan",
+            "B": "Ann"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-50",
+        "text": "Susan knew that Ann's son had been in a car accident, because  [target]  told her about it.",
+        "target": "[target]",
+        "options": {
+            "A": "Ann",
+            "B": "Susan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-51",
+        "text": "Joe's uncle can still beat him at tennis, even though  [target]  is 30 years younger.",
+        "target": "[target]",
+        "options": {
+            "A": "Joe",
+            "B": "Joe's uncle"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-52",
+        "text": "Joe's uncle can still beat him at tennis, even though  [target]  is 30 years older.",
+        "target": "[target]",
+        "options": {
+            "A": "Joe's uncle",
+            "B": "Joe"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-53",
+        "text": "The painting in Mark's living room shows an oak tree.  [target]  is to the right of the bookcase.",
+        "target": "[target]",
+        "options": {
+            "A": "The painting",
+            "B": "The oak tree"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-54",
+        "text": "The painting in Mark's living room shows an oak tree.  [target]  is to the right of a house.",
+        "target": "[target]",
+        "options": {
+            "A": "The oak tree",
+            "B": "The painting"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-55",
+        "text": "There is a gap in the wall. You can see the garden through  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The gap",
+            "B": "The wall"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-56",
+        "text": "There is a gap in the wall. You can see the garden behind  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The wall",
+            "B": "The gap"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-57",
+        "text": "The drain is clogged with hair.  [target]  has to be cleaned.",
+        "target": "[target]",
+        "options": {
+            "A": "The drain",
+            "B": "The hair"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-58",
+        "text": "The drain is clogged with hair.  [target]  has to be removed.",
+        "target": "[target]",
+        "options": {
+            "A": "The hair",
+            "B": "The drain"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-59",
+        "text": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily,  [target]  was short, so it worked out.",
+        "target": "[target]",
+        "options": {
+            "A": "The meeting",
+            "B": "The train"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-60",
+        "text": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily,  [target]  was delayed, so it worked out.",
+        "target": "[target]",
+        "options": {
+            "A": "The train",
+            "B": "The meeting"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-61",
+        "text": "There is a pillar between me and the stage, and I can't see around  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The pillar",
+            "B": "The stage"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-62",
+        "text": "There is a pillar between me and the stage, and I can't see  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The stage",
+            "B": "The pillar"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-63",
+        "text": "They broadcast an announcement, but a subway came into the station and I couldn't hear  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The announcement",
+            "B": "The subway"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-64",
+        "text": "They broadcast an announcement, but a subway came into the station and I couldn't hear over  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The subway",
+            "B": "The announcement"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-65",
+        "text": "In the middle of the outdoor concert, the rain started falling, but  [target]  continued until 10.",
+        "target": "[target]",
+        "options": {
+            "A": "The concert",
+            "B": "The rain"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-66",
+        "text": "In the middle of the outdoor concert, the rain started falling, and  [target]  continued until 10.",
+        "target": "[target]",
+        "options": {
+            "A": "The rain",
+            "B": "The concert"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-67",
+        "text": "I used an old rag to clean the knife, and then I put  [target]  in the trash.",
+        "target": "[target]",
+        "options": {
+            "A": "The rag",
+            "B": "The knife"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-68",
+        "text": "I used an old rag to clean the knife, and then I put  [target]  in the drawer.",
+        "target": "[target]",
+        "options": {
+            "A": "The knife",
+            "B": "The rag"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-69",
+        "text": "Ann asked Mary what time the library closes, because  [target]  had forgotten.",
+        "target": "[target]",
+        "options": {
+            "A": "Ann",
+            "B": "Mary"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-70",
+        "text": "Ann asked Mary what time the library closes, but  [target]  had forgotten.",
+        "target": "[target]",
+        "options": {
+            "A": "Mary",
+            "B": "Ann"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-71",
+        "text": "I took the water bottle out of the backpack so that  [target]  would be handy.",
+        "target": "[target]",
+        "options": {
+            "A": "The water bottle",
+            "B": "The backpack"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-72",
+        "text": "I took the water bottle out of the backpack so that  [target]  would be lighter.",
+        "target": "[target]",
+        "options": {
+            "A": "The backpack",
+            "B": "The water bottle"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-73",
+        "text": "I couldn't put the pot on the shelf because  [target]  was too tall.",
+        "target": "[target]",
+        "options": {
+            "A": "The pot",
+            "B": "The shelf"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-74",
+        "text": "I couldn't put the pot on the shelf because  [target]  was too high.",
+        "target": "[target]",
+        "options": {
+            "A": "The shelf",
+            "B": "The pot"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-75",
+        "text": "I'm sure that my map will show this building;  [target]  is very good.",
+        "target": "[target]",
+        "options": {
+            "A": "The map",
+            "B": "The building"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-76",
+        "text": "I'm sure that my map will show this building;  [target]  is very famous.",
+        "target": "[target]",
+        "options": {
+            "A": "The building",
+            "B": "The map"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-77",
+        "text": "Bob paid for Charlie's college education.  [target]  is very generous.",
+        "target": "[target]",
+        "options": {
+            "A": "Bob",
+            "B": "Charlie"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-78",
+        "text": "Bob paid for Charlie's college education.  [target]  is very grateful.",
+        "target": "[target]",
+        "options": {
+            "A": "Charlie",
+            "B": "Bob"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-79",
+        "text": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened.  [target]  is very hurt.",
+        "target": "[target]",
+        "options": {
+            "A": "Bob",
+            "B": "Charlie"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-80",
+        "text": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened.  [target]  is very ungrateful.",
+        "target": "[target]",
+        "options": {
+            "A": "Charlie",
+            "B": "Bob"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-81",
+        "text": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck,  [target]  would have won.",
+        "target": "[target]",
+        "options": {
+            "A": "Bob",
+            "B": "Adam"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-82",
+        "text": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck,  [target]  would have lost.",
+        "target": "[target]",
+        "options": {
+            "A": "Adam",
+            "B": "Bob"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-83",
+        "text": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time,  [target]  would be gone by this time.",
+        "target": "[target]",
+        "options": {
+            "A": "Adam",
+            "B": "Bob"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-84",
+        "text": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time,  [target]  would be here by this time.",
+        "target": "[target]",
+        "options": {
+            "A": "Bob",
+            "B": "Adam"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-85",
+        "text": "If the con artist has succeeded in fooling Sam,  [target]  would have gotten a lot of money.",
+        "target": "[target]",
+        "options": {
+            "A": "The con artist",
+            "B": "Sam"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-86",
+        "text": "If the con artist has succeeded in fooling Sam,  [target]  would have lost a lot of money.",
+        "target": "[target]",
+        "options": {
+            "A": "Sam",
+            "B": "The con artist"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-87",
+        "text": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because  [target]  was hot.",
+        "target": "[target]",
+        "options": {
+            "A": "The dog",
+            "B": "The spot under the tree"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-88",
+        "text": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because  [target]  was cooler.",
+        "target": "[target]",
+        "options": {
+            "A": "The spot under the tree",
+            "B": "The dog"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-89",
+        "text": "The cat was lying by the mouse hole waiting for the mouse, but  [target]  was too impatient.",
+        "target": "[target]",
+        "options": {
+            "A": "The cat",
+            "B": "The mouse"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-90",
+        "text": "The cat was lying by the mouse hole waiting for the mouse, but  [target]  was too cautious.",
+        "target": "[target]",
+        "options": {
+            "A": "The mouse",
+            "B": "The cat"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-91",
+        "text": "Anne gave birth to a daughter last month.  [target]  is a very charming woman.",
+        "target": "[target]",
+        "options": {
+            "A": "Anne",
+            "B": "Anne's daughter"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-92",
+        "text": "Anne gave birth to a daughter last month.  [target]  is a very charming baby.",
+        "target": "[target]",
+        "options": {
+            "A": "Anne's daughter",
+            "B": "Anne"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-93",
+        "text": "Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why  [target]  was behaving so strangely.",
+        "target": "[target]",
+        "options": {
+            "A": "Alice",
+            "B": "Alice's daughter"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-94",
+        "text": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why  [target]  was behaving so strangely.",
+        "target": "[target]",
+        "options": {
+            "A": "Alice's daughter",
+            "B": "Alice"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-95",
+        "text": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why  [target]  was, but he looked very unhappy.",
+        "target": "[target]",
+        "options": {
+            "A": "Jim",
+            "B": "the guy in uniform"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-96",
+        "text": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who  [target]  was, but he looked very unhappy.",
+        "target": "[target]",
+        "options": {
+            "A": "the guy in uniform",
+            "B": "Jim"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-97",
+        "text": "The fish ate the worm.  [target]  was hungry.",
+        "target": "[target]",
+        "options": {
+            "A": "The fish",
+            "B": "The worm"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-98",
+        "text": "The fish ate the worm.  [target]  was tasty.",
+        "target": "[target]",
+        "options": {
+            "A": "The worm",
+            "B": "The fish"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-99",
+        "text": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get  [target]  in.",
+        "target": "[target]",
+        "options": {
+            "A": "The key",
+            "B": "The chewing gum"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-100",
+        "text": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get  [target]  out.",
+        "target": "[target]",
+        "options": {
+            "A": "The chewing gum",
+            "B": "The key"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-101",
+        "text": "The dog chased the cat, which ran up a tree.  [target]  waited at the bottom.",
+        "target": "[target]",
+        "options": {
+            "A": "The dog",
+            "B": "The cat"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-102",
+        "text": "The dog chased the cat, which ran up a tree.  [target]  waited at the top.",
+        "target": "[target]",
+        "options": {
+            "A": "The cat",
+            "B": "The dog"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-103",
+        "text": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get  [target]  removed.",
+        "target": "[target]",
+        "options": {
+            "A": "The tree",
+            "B": "The roof"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-104",
+        "text": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get  [target]  repaired.",
+        "target": "[target]",
+        "options": {
+            "A": "The roof",
+            "B": "The tree"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-105",
+        "text": "The customer walked into the bank and stabbed one of the tellers.  [target]  was immediately taken to the police station.",
+        "target": "[target]",
+        "options": {
+            "A": "The customer",
+            "B": "The teller"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-106",
+        "text": "The customer walked into the bank and stabbed one of the tellers.  [target]  was immediately taken to the hospital.",
+        "target": "[target]",
+        "options": {
+            "A": "The teller",
+            "B": "The customer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-107",
+        "text": "John was doing research in the library when he heard a man humming and whistling.  [target]  was very annoyed.",
+        "target": "[target]",
+        "options": {
+            "A": "John",
+            "B": "The man"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-108",
+        "text": "John was doing research in the library when he heard a man humming and whistling.  [target]  was very annoying.",
+        "target": "[target]",
+        "options": {
+            "A": "The man",
+            "B": "John"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-109",
+        "text": "John was jogging through the park when he saw a man juggling watermelons.  [target]  was very impressed.",
+        "target": "[target]",
+        "options": {
+            "A": "John",
+            "B": "The juggler"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-110",
+        "text": "John was jogging through the park when he saw a man juggling watermelons.  [target]  was very impressive.",
+        "target": "[target]",
+        "options": {
+            "A": "The juggler",
+            "B": "John"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-111",
+        "text": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help.  [target]  was very ill.",
+        "target": "[target]",
+        "options": {
+            "A": "Bob",
+            "B": "Carl"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-112",
+        "text": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help.  [target]  was very concerned.",
+        "target": "[target]",
+        "options": {
+            "A": "Carl",
+            "B": "Bob"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-113",
+        "text": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because  [target]  are fifteen.",
+        "target": "[target]",
+        "options": {
+            "A": "Sam and Amy",
+            "B": "Amy's parents"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-114",
+        "text": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because  [target]  are snobs.",
+        "target": "[target]",
+        "options": {
+            "A": "Amy's parents",
+            "B": "Sam and Amy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-115",
+        "text": "Mark told Pete many lies about himself, which Pete included in his book.  [target]  should have been more  truthful.",
+        "target": "[target]",
+        "options": {
+            "A": "Mark",
+            "B": "Pete"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-116",
+        "text": "Mark told Pete many lies about himself, which Pete included in his book.  [target]  should have been more  skeptical.",
+        "target": "[target]",
+        "options": {
+            "A": "Pete",
+            "B": "Mark"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-117",
+        "text": "Joe has sold his house and bought a new one a few miles away. He will be moving out of  [target]  on Thursday.",
+        "target": "[target]",
+        "options": {
+            "A": "The old house",
+            "B": "The new house"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-118",
+        "text": "Joe has sold his house and bought a new one a few miles away. He will be moving into  [target]  on Thursday.",
+        "target": "[target]",
+        "options": {
+            "A": "The new house",
+            "B": "The old house"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-119",
+        "text": "Many people start to read Paul's books and can't put them down.  [target]  are gripped because Paul writes so well.",
+        "target": "[target]",
+        "options": {
+            "A": "People",
+            "B": "Paul's books"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-120",
+        "text": "Many people start to read Paul's books and can't put them down.  [target]  are popular because Paul writes so well.",
+        "target": "[target]",
+        "options": {
+            "A": "Paul's books",
+            "B": "People"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-121",
+        "text": "Mary took out her flute and played one of her favorite pieces. She has had  [target]  since she was a child.",
+        "target": "[target]",
+        "options": {
+            "A": "The flute",
+            "B": "The piece"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-122",
+        "text": "Mary took out her flute and played one of her favorite pieces. She has loved  [target]  since she was a child.",
+        "target": "[target]",
+        "options": {
+            "A": "The piece",
+            "B": "The flute"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-123",
+        "text": "Sam pulled up a chair to the piano, but  [target]  was broken, so he had to stand instead.",
+        "target": "[target]",
+        "options": {
+            "A": "The chair",
+            "B": "The piano"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-124",
+        "text": "Sam pulled up a chair to the piano, but  [target]  was broken, so he had to sing instead.",
+        "target": "[target]",
+        "options": {
+            "A": "The piano",
+            "B": "The chair"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-125",
+        "text": "Since it was raining, I carried the newspaper in my backpack to keep  [target]  dry.",
+        "target": "[target]",
+        "options": {
+            "A": "The newspaper",
+            "B": "The backpack"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-126",
+        "text": "Since it was raining, I carried the newspaper over my backpack to keep  [target]  dry.",
+        "target": "[target]",
+        "options": {
+            "A": "The backpack",
+            "B": "The newspaper"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-127",
+        "text": "Sara borrowed the book from the library because she needs it for an article she is working on. She reads  [target]  when she gets home from work.",
+        "target": "[target]",
+        "options": {
+            "A": "The book",
+            "B": "The article"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-128",
+        "text": "Sara borrowed the book from the library because she needs it for an article she is working on. She writes  [target]  when she gets home from work.",
+        "target": "[target]",
+        "options": {
+            "A": "The article",
+            "B": "The book"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-129",
+        "text": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked  [target]  down.",
+        "target": "[target]",
+        "options": {
+            "A": "The sand castle",
+            "B": "The flag"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-130",
+        "text": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked  [target]  down.",
+        "target": "[target]",
+        "options": {
+            "A": "The flag",
+            "B": "The sand castle"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-131",
+        "text": "Jane knocked on Susan's door, but there was no answer.  [target]  was disappointed.",
+        "target": "[target]",
+        "options": {
+            "A": "Jane",
+            "B": "Susan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-132",
+        "text": "Jane knocked on Susan's door, but there was no answer.  [target]  was out.",
+        "target": "[target]",
+        "options": {
+            "A": "Susan",
+            "B": "Jane"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-133",
+        "text": "Jane knocked on the door, and Susan answered it.  [target]  invited her to come out.",
+        "target": "[target]",
+        "options": {
+            "A": "Jane",
+            "B": "Susan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-134",
+        "text": "Jane knocked on the door, and Susan answered it.  [target]  invited her to come in.",
+        "target": "[target]",
+        "options": {
+            "A": "Susan",
+            "B": "Jane"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-135",
+        "text": "Sam took French classes from Adam, because  [target]  was eager to speak it fluently.",
+        "target": "[target]",
+        "options": {
+            "A": "Sam",
+            "B": "Adam"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-136",
+        "text": "Sam took French classes from Adam, because  [target]  was known to speak it fluently.",
+        "target": "[target]",
+        "options": {
+            "A": "Adam",
+            "B": "Sam"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-137",
+        "text": "The path to the lake was blocked, so we couldn't use  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The path",
+            "B": "The lake"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-138",
+        "text": "The path to the lake was blocked, so we couldn't reach  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The lake",
+            "B": "The path"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-139",
+        "text": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started,  [target]  was out.",
+        "target": "[target]",
+        "options": {
+            "A": "The sun",
+            "B": "The cloud"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-140",
+        "text": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started,  [target]  was gone.",
+        "target": "[target]",
+        "options": {
+            "A": "The cloud",
+            "B": "The sun"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-141",
+        "text": "We went to the lake, because a shark had been seen at the ocean beach, so  [target]  was a safer place to swim.",
+        "target": "[target]",
+        "options": {
+            "A": "The lake",
+            "B": "The ocean beach"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-142",
+        "text": "We went to the lake, because a shark had been seen at the ocean beach, so  [target]  was a dangerous place to swim.",
+        "target": "[target]",
+        "options": {
+            "A": "The ocean beach",
+            "B": "The lake"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-143",
+        "text": "Sam tried to paint a picture of shepherds with sheep, but  [target]  ended up looking more like golfers.",
+        "target": "[target]",
+        "options": {
+            "A": "The shepherds",
+            "B": "The sheep"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-144",
+        "text": "Sam tried to paint a picture of shepherds with sheep, but  [target]  ended up looking more like dogs.",
+        "target": "[target]",
+        "options": {
+            "A": "The sheep",
+            "B": "The shepherds"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-145",
+        "text": "Mary tucked her daughter Anne into bed, so that  [target]  could work.",
+        "target": "[target]",
+        "options": {
+            "A": "Mary",
+            "B": "Mary's daughter"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-146",
+        "text": "Mary tucked her daughter Anne into bed, so that  [target]  could sleep.",
+        "target": "[target]",
+        "options": {
+            "A": "Mary's daughter",
+            "B": "Mary"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-147",
+        "text": "Fred and Alice had very warm down coats, but  [target]  were not prepared for the cold in Alaska.",
+        "target": "[target]",
+        "options": {
+            "A": "Fred and Alice",
+            "B": "coats"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-148",
+        "text": "Fred and Alice had very warm down coats, but  [target]  were not enough for the cold in Alaska.",
+        "target": "[target]",
+        "options": {
+            "A": "coats",
+            "B": "Fred and Alice"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-149",
+        "text": "Thomson visited Cooper's grave in 1765. At that date  [target]  had been travelling for five years.",
+        "target": "[target]",
+        "options": {
+            "A": "Thomson",
+            "B": "Cooper"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-150",
+        "text": "Thomson visited Cooper's grave in 1765. At that date  [target]  had been dead for five years.",
+        "target": "[target]",
+        "options": {
+            "A": "Cooper",
+            "B": "Thomson"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-151",
+        "text": "Jackson was greatly influenced by Arnold, though  [target]  lived two centuries later.",
+        "target": "[target]",
+        "options": {
+            "A": "Jackson",
+            "B": "Arnold"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-152",
+        "text": "Jackson was greatly influenced by Arnold, though  [target]  lived two centuries earlier.",
+        "target": "[target]",
+        "options": {
+            "A": "Arnold",
+            "B": "Jackson"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-153",
+        "text": "I can't cut that tree down with that axe;  [target]  is too thick.",
+        "target": "[target]",
+        "options": {
+            "A": "The tree",
+            "B": "The axe"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-154",
+        "text": "I can't cut that tree down with that axe;  [target]  is too small.",
+        "target": "[target]",
+        "options": {
+            "A": "The axe",
+            "B": "The tree"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-155",
+        "text": "The foxes are getting in at night and attacking the chickens. I shall have to kill  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The foxes",
+            "B": "The chickens"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-156",
+        "text": "The foxes are getting in at night and attacking the chickens. I shall have to guard  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The chickens",
+            "B": "The foxes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-157",
+        "text": "The foxes are getting in at night and attacking the chickens.  [target]  have gotten very bold.",
+        "target": "[target]",
+        "options": {
+            "A": "The foxes",
+            "B": "The chickens"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-158",
+        "text": "The foxes are getting in at night and attacking the chickens.  [target]  have gotten very nervous.",
+        "target": "[target]",
+        "options": {
+            "A": "The chickens",
+            "B": "The foxes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-159",
+        "text": "Fred covered his eyes with his hands, because the wind was blowing sand around. He opened  [target]  when the wind stopped.",
+        "target": "[target]",
+        "options": {
+            "A": "His eyes",
+            "B": "His hands"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-160",
+        "text": "Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered  [target]  when the wind stopped.",
+        "target": "[target]",
+        "options": {
+            "A": "His hands",
+            "B": "His eyes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-161",
+        "text": "The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured  [target]  was too hard to pronounce.",
+        "target": "[target]",
+        "options": {
+            "A": "Terpsichore",
+            "B": "Tina"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-162",
+        "text": "The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured  [target]  was easier to pronounce.",
+        "target": "[target]",
+        "options": {
+            "A": "Tina",
+            "B": "Terpsichore"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-163",
+        "text": "Fred watched TV while George went out to buy groceries. After an hour  [target]  got up.",
+        "target": "[target]",
+        "options": {
+            "A": "Fred",
+            "B": "George"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-164",
+        "text": "Fred watched TV while George went out to buy groceries. After an hour  [target]  got back.",
+        "target": "[target]",
+        "options": {
+            "A": "George",
+            "B": "Fred"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-165",
+        "text": "Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned  [target]  on.",
+        "target": "[target]",
+        "options": {
+            "A": "The dishwasher",
+            "B": "The TV"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-166",
+        "text": "Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned  [target]  off.",
+        "target": "[target]",
+        "options": {
+            "A": "The TV",
+            "B": "The dishwasher"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-167",
+        "text": "Fred is the only man still alive who remembers my great-grandfather.  [target]  is a remarkable man.",
+        "target": "[target]",
+        "options": {
+            "A": "Fred",
+            "B": "My great-grandfather"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-168",
+        "text": "Fred is the only man still alive who remembers my great-grandfather.  [target]  was a remarkable man.",
+        "target": "[target]",
+        "options": {
+            "A": "My great-grandfather",
+            "B": "Fred"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-169",
+        "text": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father,  [target]  was twelve years old.",
+        "target": "[target]",
+        "options": {
+            "A": "Fred",
+            "B": "My father"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-170",
+        "text": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father,  [target]  was twelve months old.",
+        "target": "[target]",
+        "options": {
+            "A": "My father",
+            "B": "Fred"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-171",
+        "text": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger,  [target]  were defeated within weeks.",
+        "target": "[target]",
+        "options": {
+            "A": "Kamchatka",
+            "B": "Yakutsk"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-172",
+        "text": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger,  [target]  were victorious within weeks.",
+        "target": "[target]",
+        "options": {
+            "A": "Yakutsk",
+            "B": "Kamchatka"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-173",
+        "text": "Look! There is a minnow swimming right below that duck!  [target]  had better get away to safety fast!",
+        "target": "[target]",
+        "options": {
+            "A": "The minnow",
+            "B": "The duck"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-174",
+        "text": "Look! There is a shark swimming right below that duck!  [target]  had better get away to safety fast!",
+        "target": "[target]",
+        "options": {
+            "A": "The duck",
+            "B": "The shark"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-175",
+        "text": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago.  [target]  hunted for evidence on the river banks.",
+        "target": "[target]",
+        "options": {
+            "A": "Archaeologists",
+            "B": "Prehistoric humans"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-176",
+        "text": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago.  [target]  hunted for deer on the river banks.",
+        "target": "[target]",
+        "options": {
+            "A": "Prehistoric humans",
+            "B": "Archaeologists"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-177",
+        "text": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean.  [target]  began two years ago.",
+        "target": "[target]",
+        "options": {
+            "A": "The scientists",
+            "B": "The fish"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-178",
+        "text": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean.  [target]  appeared two years ago.",
+        "target": "[target]",
+        "options": {
+            "A": "The fish",
+            "B": "The scientists"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-179",
+        "text": "The journalists interviewed the stars of the new movie.  [target]  were very persistent, so the interview lasted for a long time.",
+        "target": "[target]",
+        "options": {
+            "A": "The journalists",
+            "B": "The stars"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-180",
+        "text": "The journalists interviewed the stars of the new movie.  [target]  were very cooperative, so the interview lasted for a long time.",
+        "target": "[target]",
+        "options": {
+            "A": "The stars",
+            "B": "The journalists"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-181",
+        "text": "The police arrested all of the gang members.  [target]  were trying to stop the drug trade in the neighborhood.",
+        "target": "[target]",
+        "options": {
+            "A": "The police",
+            "B": "The gang members"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-182",
+        "text": "The police arrested all of the gang members.  [target]  were trying to run the drug trade in the neighborhood.",
+        "target": "[target]",
+        "options": {
+            "A": "The gang members",
+            "B": "The police"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-183",
+        "text": "I put the cake away in the refrigerator.  [target]  has a lot of butter in it.",
+        "target": "[target]",
+        "options": {
+            "A": "The cake",
+            "B": "The refrigerator"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-184",
+        "text": "I put the cake away in the refrigerator.  [target]  has a lot of leftovers in it.",
+        "target": "[target]",
+        "options": {
+            "A": "The refrigerator",
+            "B": "The cake"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-185",
+        "text": "Sam broke both his ankles and he's walking with crutches. But a month or so from now  [target]  should be better.",
+        "target": "[target]",
+        "options": {
+            "A": "The ankles",
+            "B": "The crutches"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-186",
+        "text": "Sam broke both his ankles and he's walking with crutches. But a month or so from now  [target]  should be unnecessary.",
+        "target": "[target]",
+        "options": {
+            "A": "The crutches",
+            "B": "The ankles"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-187",
+        "text": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents.  [target]  were very much in the minority.",
+        "target": "[target]",
+        "options": {
+            "A": "The sponsors",
+            "B": "The opponents"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-188",
+        "text": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents.  [target]  were very much in the majority.",
+        "target": "[target]",
+        "options": {
+            "A": "The opponents",
+            "B": "The sponsors"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-189",
+        "text": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The oatmeal cookies",
+            "B": "The chocolate chip cookies"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-190",
+        "text": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "The chocolate chip cookies",
+            "B": "The oatmeal cookies"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-191",
+        "text": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "copies of the newsletter",
+            "B": "chairs"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-192",
+        "text": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "chairs",
+            "B": "copies of the newsletter"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-193",
+        "text": "I stuck a pin through a carrot. When I pulled the pin out,  [target]  left a hole.",
+        "target": "[target]",
+        "options": {
+            "A": "The pin",
+            "B": "The carrot"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-194",
+        "text": "I stuck a pin through a carrot. When I pulled the pin out,  [target]  had a hole.",
+        "target": "[target]",
+        "options": {
+            "A": "The carrot",
+            "B": "The pin"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-195",
+        "text": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because  [target]  got full of coffee.",
+        "target": "[target]",
+        "options": {
+            "A": "The pen",
+            "B": "The coffee"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-196",
+        "text": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because  [target]  got full of ink.",
+        "target": "[target]",
+        "options": {
+            "A": "The coffee",
+            "B": "The pen"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-197",
+        "text": "Steve follows Fred's example in everything.  [target]  admires him hugely.",
+        "target": "[target]",
+        "options": {
+            "A": "Steve",
+            "B": "Fred"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-198",
+        "text": "Steve follows Fred's example in everything.  [target]  influences him hugely.",
+        "target": "[target]",
+        "options": {
+            "A": "Fred",
+            "B": "Steve"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-199",
+        "text": "The table won't fit through the doorway because  [target]  is too wide.",
+        "target": "[target]",
+        "options": {
+            "A": "The table",
+            "B": "The doorway"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-200",
+        "text": "The table won't fit through the doorway because  [target]  is too narrow.",
+        "target": "[target]",
+        "options": {
+            "A": "The doorway",
+            "B": "The table"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-201",
+        "text": "Grace was happy to trade me her sweater for my jacket. She thinks  [target]  looks dowdy on her.",
+        "target": "[target]",
+        "options": {
+            "A": "The sweater",
+            "B": "The jacket"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-202",
+        "text": "Grace was happy to trade me her sweater for my jacket. She thinks  [target]  looks great on her.",
+        "target": "[target]",
+        "options": {
+            "A": "The jacket",
+            "B": "The sweater"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-203",
+        "text": "John hired Bill to take care of  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "John",
+            "B": "Bill"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-204",
+        "text": "John hired himself out to Bill to take care of  [target] .",
+        "target": "[target]",
+        "options": {
+            "A": "Bill",
+            "B": "John"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-205",
+        "text": "John promised Bill to leave, so an hour later  [target]  left.",
+        "target": "[target]",
+        "options": {
+            "A": "John",
+            "B": "Bill"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-206",
+        "text": "John ordered Bill to leave, so an hour later  [target]  left.",
+        "target": "[target]",
+        "options": {
+            "A": "Bill",
+            "B": "John"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-207",
+        "text": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties  [target]  faced in his research.",
+        "target": "[target]",
+        "options": {
+            "A": "Goodman",
+            "B": "Xenophanes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-208",
+        "text": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties  [target]  faced in his childhood.",
+        "target": "[target]",
+        "options": {
+            "A": "Xenophanes",
+            "B": "Goodman"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-209",
+        "text": "Emma's mother had died long ago, and  [target]  education had been managed by an excellent woman as governess.",
+        "target": "[target]",
+        "options": {
+            "A": "Emma",
+            "B": "Emma's mother"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-210",
+        "text": "Emma's mother had died long ago, and  [target]  place had been taken by an excellent woman as governess.",
+        "target": "[target]",
+        "options": {
+            "A": "Emma's mother",
+            "B": "Emma"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-211",
+        "text": "Jane knocked on Susan's door but  [target]  did not get an answer.",
+        "target": "[target]",
+        "options": {
+            "A": "Jane",
+            "B": "Susan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-212",
+        "text": "Jane knocked on Susan's door but  [target]  did not answer.",
+        "target": "[target]",
+        "options": {
+            "A": "Susan",
+            "B": "Jane"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-213",
+        "text": "Joe paid the detective after  [target]  received the final report on the case.",
+        "target": "[target]",
+        "options": {
+            "A": "Joe",
+            "B": "the detective"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-214",
+        "text": "Joe paid the detective after  [target]  delivered the final report on the case.",
+        "target": "[target]",
+        "options": {
+            "A": "the detective",
+            "B": "Joe"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-215",
+        "text": "Beth didn't get angry with Sally, who had cut her off, because  [target]  stopped and counted to ten.",
+        "target": "[target]",
+        "options": {
+            "A": "Beth",
+            "B": "Sally"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-216",
+        "text": "Beth didn't get angry with Sally, who had cut her off, because  [target]  stopped and apologized.",
+        "target": "[target]",
+        "options": {
+            "A": "Sally",
+            "B": "Beth"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-217",
+        "text": "Jim signaled the barman and gestured toward  [target]  empty glass",
+        "target": "[target]",
+        "options": {
+            "A": "Jim",
+            "B": "The barman"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-218",
+        "text": "Jim signaled the barman and gestured toward  [target]  bathroom key.",
+        "target": "[target]",
+        "options": {
+            "A": "The barman",
+            "B": "Jim"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-219",
+        "text": "Dan took the rear seat while Bill claimed the front because  [target]  \"Dibs!\" was slow.",
+        "target": "[target]",
+        "options": {
+            "A": "Dan",
+            "B": "Bill"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-220",
+        "text": "Dan took the rear seat while Bill claimed the front because  [target]  \"Dibs!\" was quicker.",
+        "target": "[target]",
+        "options": {
+            "A": "Bill",
+            "B": "Dan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-221",
+        "text": "Tom said \"Check\" to Ralph as he moved  [target]  bishop.",
+        "target": "[target]",
+        "options": {
+            "A": "Tom",
+            "B": "Ralph"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-222",
+        "text": "Tom said \"Check\" to Ralph as he took  [target]  bishop.",
+        "target": "[target]",
+        "options": {
+            "A": "Ralph",
+            "B": "Tom"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-223",
+        "text": "As Andrea in the crop duster passed over Susan,  [target]  could see the landing strip.",
+        "target": "[target]",
+        "options": {
+            "A": "Andrea",
+            "B": "Susan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-224",
+        "text": "As Andrea in the crop duster passed over Susan,  [target]  could see the landing gear.",
+        "target": "[target]",
+        "options": {
+            "A": "Susan",
+            "B": "Andrea"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-225",
+        "text": "Tom gave Ralph a lift to school so  [target]  wouldn't have to drive alone.",
+        "target": "[target]",
+        "options": {
+            "A": "Tom",
+            "B": "Ralph"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-226",
+        "text": "Tom gave Ralph a lift to school so  [target]  wouldn't have to walk.",
+        "target": "[target]",
+        "options": {
+            "A": "Ralph",
+            "B": "Tom"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-227",
+        "text": "Bill passed the half-empty plate to John because  [target]  was full.",
+        "target": "[target]",
+        "options": {
+            "A": "Bill",
+            "B": "John"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-228",
+        "text": "Bill passed the half-empty plate to John because  [target]  was hungry.",
+        "target": "[target]",
+        "options": {
+            "A": "John",
+            "B": "Bill"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-229",
+        "text": "Bill passed the gameboy to John because  [target]  turn was over.",
+        "target": "[target]",
+        "options": {
+            "A": "Bill",
+            "B": "John"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-230",
+        "text": "Bill passed the gameboy to John because  [target]  turn was next.",
+        "target": "[target]",
+        "options": {
+            "A": "John",
+            "B": "Bill"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-231",
+        "text": "The man lifted the boy onto  [target]  shoulders.",
+        "target": "[target]",
+        "options": {
+            "A": "The man",
+            "B": "The boy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-232",
+        "text": "The man lifted the boy onto  [target]  bunk bed.",
+        "target": "[target]",
+        "options": {
+            "A": "The boy",
+            "B": "The man"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-233",
+        "text": "Stretching  [target]  back, the woman smiled at the girl.",
+        "target": "[target]",
+        "options": {
+            "A": "The woman",
+            "B": "The girl"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-234",
+        "text": "Patting  [target]  back, the woman smiled at the girl.",
+        "target": "[target]",
+        "options": {
+            "A": "The girl",
+            "B": "The woman"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-235",
+        "text": "Billy cried because Toby wouldn't accept  [target]  toy.",
+        "target": "[target]",
+        "options": {
+            "A": "Billy",
+            "B": "Toby"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-236",
+        "text": "Billy cried because Toby wouldn't share  [target]  toy.",
+        "target": "[target]",
+        "options": {
+            "A": "Toby",
+            "B": "Billy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-237",
+        "text": "Lily spoke to Donna, breaking  [target]  silence.",
+        "target": "[target]",
+        "options": {
+            "A": "Lily",
+            "B": "Donna"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-238",
+        "text": "Lily spoke to Donna, breaking  [target]  concentration.",
+        "target": "[target]",
+        "options": {
+            "A": "Donna",
+            "B": "Lily"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-239",
+        "text": "When Tommy dropped his ice cream, Timmy giggled, so father gave  [target]  a sympathetic look.",
+        "target": "[target]",
+        "options": {
+            "A": "Tommy",
+            "B": "Timmy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-240",
+        "text": "When Tommy dropped his ice cream, Timmy giggled, so father gave  [target]  a stern look.",
+        "target": "[target]",
+        "options": {
+            "A": "Timmy",
+            "B": "Tommy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-241",
+        "text": "As Ollie carried Tommy up the long winding steps,  [target]  legs ached.",
+        "target": "[target]",
+        "options": {
+            "A": "Ollie",
+            "B": "Tommy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-242",
+        "text": "As Ollie carried Tommy up the long winding steps,  [target]  legs dangled.",
+        "target": "[target]",
+        "options": {
+            "A": "Tommy",
+            "B": "Ollie"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-243",
+        "text": "The father carried the sleeping boy in  [target]  arms",
+        "target": "[target]",
+        "options": {
+            "A": "The father",
+            "B": "The boy"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-244",
+        "text": "The father carried the sleeping boy in  [target]  bassinet.",
+        "target": "[target]",
+        "options": {
+            "A": "The boy",
+            "B": "The father"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-245",
+        "text": "The woman held the girl against  [target] chest",
+        "target": "[target]",
+        "options": {
+            "A": "The woman",
+            "B": "The girl"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-246",
+        "text": "The woman held the girl against  [target]  will.",
+        "target": "[target]",
+        "options": {
+            "A": "The girl",
+            "B": "The woman"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-247",
+        "text": "Pam's parents came home and found her having sex with her boyfriend, Paul.  [target]  were furious about it.",
+        "target": "[target]",
+        "options": {
+            "A": "Pam's parents",
+            "B": "Pam and Paul"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-248",
+        "text": "Pam's parents came home and found her having sex with her boyfriend, Paul.  [target]  were embarrassed about it.",
+        "target": "[target]",
+        "options": {
+            "A": "Pam and Paul",
+            "B": "Pam's parents"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-249",
+        "text": "Dr. Adams informed Kate that  [target]  had retired and presented several options for future treatment.",
+        "target": "[target]",
+        "options": {
+            "A": "Dr. Adams",
+            "B": "Kate"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-250",
+        "text": "Dr. Adams informed Kate that  [target]  had cancer and presented several options for future treatment.",
+        "target": "[target]",
+        "options": {
+            "A": "Kate",
+            "B": "Dr. Adams"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-251",
+        "text": "Dan had to stop Bill from toying with the injured bird.  [target]  is very compassionate.",
+        "target": "[target]",
+        "options": {
+            "A": "Dan",
+            "B": "Bill"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-252",
+        "text": "Dan had to stop Bill from toying with the injured bird.  [target]  is very cruel.",
+        "target": "[target]",
+        "options": {
+            "A": "Bill",
+            "B": "Dan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-253",
+        "text": "George got free tickets to the play, but he gave them to Eric, even though  [target]  was particularly eager to see it.",
+        "target": "[target]",
+        "options": {
+            "A": "George",
+            "B": "Eric"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-254",
+        "text": "George got free tickets to the play, but he gave them to Eric, because  [target]  was particularly eager to see it.",
+        "target": "[target]",
+        "options": {
+            "A": "Eric",
+            "B": "George"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-255",
+        "text": "George got free tickets to the play, but he gave them to Eric, because  [target]  was not particularly eager to see it.",
+        "target": "[target]",
+        "options": {
+            "A": "George",
+            "B": "Eric"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-256",
+        "text": "Jane gave Joan candy because  [target]  wasn't hungry.",
+        "target": "[target]",
+        "options": {
+            "A": "Jane",
+            "B": "Joan"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-257",
+        "text": "Jane gave Joan candy because  [target]  was hungry.",
+        "target": "[target]",
+        "options": {
+            "A": "Joan",
+            "B": "Jane"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-258",
+        "text": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but  [target]  came out looking more like light bulbs.",
+        "target": "[target]",
+        "options": {
+            "A": "lemons",
+            "B": "lemon trees"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-259",
+        "text": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but  [target]  came out looking more like telephone poles.",
+        "target": "[target]",
+        "options": {
+            "A": "lemon trees",
+            "B": "lemons"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-260",
+        "text": "James asked Robert for a favor but  [target]  was refused.",
+        "target": "[target]",
+        "options": {
+            "A": "James",
+            "B": "Robert"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-261",
+        "text": "James asked Robert for a favor but  [target]  refused.",
+        "target": "[target]",
+        "options": {
+            "A": "Robert",
+            "B": "James"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-262",
+        "text": "Kirilov ceded the presidency to Shatov because  [target]  was less popular.",
+        "target": "[target]",
+        "options": {
+            "A": "Kirilov",
+            "B": "Shatov"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-263",
+        "text": "Kirilov ceded the presidency to Shatov because  [target]  was more popular.",
+        "target": "[target]",
+        "options": {
+            "A": "Shatov",
+            "B": "Kirilov"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-264",
+        "text": "Emma did not pass the ball to Janie although  [target]  saw that she was open.",
+        "target": "[target]",
+        "options": {
+            "A": "Emma",
+            "B": "Janie"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-265",
+        "text": "Emma did not pass the ball to Janie although  [target]  was open.",
+        "target": "[target]",
+        "options": {
+            "A": "Janie",
+            "B": "Emma"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-266",
+        "text": "I put the butterfly wing on the table and  [target]  broke.",
+        "target": "[target]",
+        "options": {
+            "A": "The butterfly wing",
+            "B": "The table"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-267",
+        "text": "I put the heavy book on the table and  [target]  broke.",
+        "target": "[target]",
+        "options": {
+            "A": "The table",
+            "B": "The heavy book"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-268",
+        "text": "Madonna fired her trainer because  [target]  couldn't stand her boyfriend.",
+        "target": "[target]",
+        "options": {
+            "A": "Madonna",
+            "B": "The trainer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-269",
+        "text": "Madonna fired her trainer because  [target]  slept with her boyfriend.",
+        "target": "[target]",
+        "options": {
+            "A": "The trainer",
+            "B": "Madonna"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-270",
+        "text": "Madonna fired her trainer because she slept with  [target]  boyfriend.",
+        "target": "[target]",
+        "options": {
+            "A": "Madonna",
+            "B": "The trainer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-271",
+        "text": "Madonna fired her trainer because she couldn't stand  [target]  boyfriend.",
+        "target": "[target]",
+        "options": {
+            "A": "The trainer",
+            "B": "Madonna"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-272",
+        "text": "Carol believed that Rebecca suspected that  [target]  had stolen the watch.",
+        "target": "[target]",
+        "options": {
+            "A": "Carol",
+            "B": "Rebecca"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": "wsc-273",
+        "text": "Carol believed that Rebecca regretted that  [target]  had stolen the watch.",
+        "target": "[target]",
+        "options": {
+            "A": "Rebecca",
+            "B": "Carol"
+        },
+        "answer": "A"
+    }
+]

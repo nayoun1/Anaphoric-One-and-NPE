@@ -1,0 +1,3002 @@
+[
+    {
+        "text_id": 1,
+        "text": "For those who manipulate the story, may your careers be extremely difficult until you tell the truth... This is not about your ratings, this is about a tragic loss... The citizens are not arming themselves against the police, there is no war between us and you cannot create one!",
+        "target": "one",
+        "options": {
+            "A": "war",
+            "B": "police"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 2,
+        "text": "Your actions let us know that they, that these officers, did not die in vain. That the people, that they were there to serve, were the ones that helped them in the end. The \"brave man\" he was thanking was Clarence Ellis, who had used his own coat to tamponade the arterial blood spurting from Sergeant Mark Dunakin's neck.",
+        "target": "ones",
+        "options": {
+            "A": "officers",
+            "B": "people"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 3,
+        "text": "Wilson later said that Knott \"was a friend of mine who wasn't a songwriter but he contributed a couple of lines. But I can't remember which ones!\"",
+        "target": "ones",
+        "options": {
+            "A": "songwriter",
+            "B": "lines"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 4,
+        "text": "Grunge was in and, you know what, that's OK, 'cause music needs to do that. It needs to change all the time. That's how it stays fresh. Alias is still Steve and I. Alias will always be Steve and I. Steve and I will do a record tomorrow if the fans need one!",
+        "target": "one",
+        "options": {
+            "A": "record",
+            "B": "fans"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 5,
+        "text": "Of the same recording, the review in American Record Guide was less effusive: \"Not my favorite reading, but a good one!\" Mike D. Brownell criticized Cooke's playing for allmusic.com, claiming that Cooke \"gets carried away musically....\"",
+        "target": "one",
+        "options": {
+            "A": "review",
+            "B": "reading"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 6,
+        "text": "The 18 minute short contained a sequence with singer Connie Boswell performing \"I Can't Give You Anything But Love\", with Carter providing accompaniment on the Hammond organ. When, at age 90, he was asked about the making of this short and if there had been any further film appearances, he responded (with mock incredulity), \"I don't remember making THIS one!\"",
+        "target": "one",
+        "options": {
+            "A": "film appearances",
+            "B": "short"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 7,
+        "text": "Schauman left the shooting range, satisfied with his ability to hit the target with his Browning FN M1900. Ellman asked him why he had chosen such a peculiar target, to which Schauman replied: \"An enemy that stays still when being shot is not a good one!\"",
+        "target": "one",
+        "options": {
+            "A": "enemy",
+            "B": "target"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 8,
+        "text": "The real significance of that was that when he came back to the pits he told me what happened and said \"I'm sure that the wall moved!\" And even though I've heard every excuse every driver has ever made, I certainly hadn't heard of that one! But Ayrton being Ayrton, with his incredible belief in himself, the absolute conviction, he then talked me into going with him after the race to have a look at the place where he had crashed.",
+        "target": "one",
+        "options": {
+            "A": "excuse",
+            "B": "driver"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 9,
+        "text": "Boris's attempts at killing \"moose and squirrel\" (as he refers to them) also always end in failure, usually by his own scheme backfiring on him. \"Of course, I've got plan!\" he says. \"I've always got plan! They don't ever work, but I've always got one!\" As Boris expresses his plight in one promo: \"I send in lady spy with package which is really bomb. Door gets locked, she can't get out, who gets blown up? Me!\"",
+        "target": "one",
+        "options": {
+            "A": "plan",
+            "B": "scheme"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 10,
+        "text": "In 2014 she released \"The Funambulist\" (Ugly Cat Music), a concept album about life in between two continents and cultures. \"The Funambulist\" was enthusiastically received by audience and critics. Dave Marsh said about her: “The best and scariest thing about Giulia Millanta is not just that she is truly a tightrope walker herself but that she continually pulls you out there with her... with melodies, singing, stories, imagery. No matter what language her lyrics may be in... and I’ve lost count of how many her lyrics use here... she’s always understandable because her music is, like any fine art, universally recognizable. I can’t wait for her next one!”",
+        "target": "one",
+        "options": {
+            "A": "art",
+            "B": "album"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 11,
+        "text": "A request to repeat a performance, as in Encore!, lit. 'again'; also used to describe additional songs played at the end of a gig. Francophones would say «Une autre!» ('Another one!') or «Bis!» to request «un rappel» or «un bis».",
+        "target": "one",
+        "options": {
+            "A": "gig",
+            "B": "performance"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 12,
+        "text": "(Intransitive, \"to be robbed\") Used humorously in exclamations when a shot that looks like it would work did not, as in \"Oh! You got robbed on that one!\"",
+        "target": "one",
+        "options": {
+            "A": "exclamations",
+            "B": "shot"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 13,
+        "text": "In 1985, he appeared in the rock music band Marillion's music video for its single release \"Heart of Lothian\", in which he played a barman, and starred in a popular TV commercial for McVitie's rich tea biscuits as \"Jacko\", saying, \"Yeah, I'll make a statement. A drink's too wet without one!\"",
+        "target": "one",
+        "options": {
+            "A": "statement",
+            "B": "biscuits"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 14,
+        "text": "It can also be an alternative to owning multiple cars for households with more than one driver. A long-term study of City CarShare members found that 30 percent of households that joined sold a car; others delayed purchasing one. Transit use, bicycling, and walking also increased among members.",
+        "target": "one",
+        "options": {
+            "A": "car",
+            "B": "households"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 15,
+        "text": "By June 1982, Gorgon had sold 23,000 copies, making it one of the best-selling computer games at the time. Bill Kunkel of Electronic Games called the game \"another winner from ace designer Nasir\" and \"fine home version\" of Defender, only criticizing the Apple II's lack of joystick support at the time. BYTE stated that Gorgon \"is well programmed and much more enjoyable than the arcade version [and] should provide many hours of enjoyment ... Rest assured that you Nasir Gebelli fans will not be disappointed by this one!\"",
+        "target": "one",
+        "options": {
+            "A": "game",
+            "B": "enjoyment"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 16,
+        "text": "Clifford's special blue blanket is falling apart, so it's time for a new one!",
+        "target": "one",
+        "options": {
+            "A": "blanket",
+            "B": "time"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 17,
+        "text": "Emily Elizabeth decides to help Clifford by making him a new blanket to replace his old one.",
+        "target": "one",
+        "options": {
+            "A": "Clifford",
+            "B": "blanket"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 18,
+        "text": "As reported by Colonel Voinescu, the conservative memoirist, the \"ridiculous parody\" was entirely organized by \"a Greek man, namely C. Aristia\". Voinescu muses: \"What should we call such an act? Which nation has ever set fire to its own laws before even making herself some new ones! but there is some consolation in the knowledge that the chief leader of this display was a Greek.\"",
+        "target": "ones",
+        "options": {
+            "A": "fire",
+            "B": "laws"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 19,
+        "text": "Bulat, the main character, demobilizes and comes back to his loved Kazakhstan. Bulat loves the vast steppe, dusks and dawns. He loves this whole world. He is a former sailor who served with the Pacific Fleet, and he wishes to become a shepherd. And he will become one! But there is a problem: in order to get the flock of sheep he must be married. And there is only one girl around for many kilometers. But what a girl she is! And her name is Tulpan.",
+        "target": "one",
+        "options": {
+            "A": "shepherd",
+            "B": "sailor"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 20,
+        "text": "At Christmas 1894, the Munshi sent Lord Elgin a sentimental greeting card, which to Victoria's dismay went unacknowledged. Through Frederick Ponsonby, she complained to Elgin, who replied that he did \"not imagine that any acknowledgement was necessary, or that the Queen would expect him to send one\", pointing out \"how impossible it would be for an Indian Viceroy to enter into correspondence of this kind\". Frederick wrote to Elgin in January 1895 that Karim was deeply unpopular in the Household, and that he occupied \"very much the same position as John Brown used to\". ",
+        "target": "one",
+        "options": {
+            "A": "acknowledgement",
+            "B": "Queen"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 21,
+        "text": "Prime Minister David Ben-Gurion had decided on the importance of renaming in the area earlier in the year, writing in his diary in July: \"We must give Hebrew names to these places – ancient names, if there are, and if not, new ones!\"; he subsequently established the committee's objectives with a letter to the chairman of the committee.",
+        "target": "ones",
+        "options": {
+            "A": "names",
+            "B": "places"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 22,
+        "text": "On 12 February 1917, Kroll was awarded the Iron Cross First Class. It was about this time that Kroll wrote about the difficulty of confirming victories: \"It is difficult to get confirmation of a victory–especially the first one! It must be confirmed by our own ground troops ... this is even more difficult if hazy conditions prevail.\"",
+        "target": "one",
+        "options": {
+            "A": "victory",
+            "B": "confirmation"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 23,
+        "text": "Maybe it's time to go public with the 'great and the good' who caused heartache and misery to so many gay people? … I am sick to death of RTE now being the benign channel of acceptance of homosexuality when it was a bastion of creaking, ancient codes. It was fine to be a woman Director at RTE….just not a GAY one! Once they found out I was a big Gayer, RTE wasn't that happy about having me on screen or on public forums ….",
+        "target": "one",
+        "options": {
+            "A": "Director",
+            "B": "codes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 24,
+        "text": "From there, the masks went into a vulcanization oven where they would be baked and come out hard. But I dug my nails into the nose-pieces while they were still soft, so that when they came out, nobody would be able to breathe while wearing one! For that I was sentenced to the bunker: the prison within the concentration camp.",
+        "target": "one",
+        "options": {
+            "A": "nails",
+            "B": "nose-pieces"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 25,
+        "text": "After moving to Hong Kong, she began an affair with Charles Boxer, the local head of British army intelligence. According to a December 1944 Time article, Hahn decided that she needed the steadying influence of a baby, but doubted if she could have one.",
+        "target": "one",
+        "options": {
+            "A": "influence ",
+            "B": "baby "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 26,
+        "text": "\"High Fidelity\" was released as the second single from Get Happy!! after \"I Can't Stand Up for Falling Down.\" The single's B-side featured a version of Betty Everett's \"Getting Mighty Crowded\" recorded during the Get Happy!! sessions as well as an early, slower version of \"Clowntime Is Over.\" The release of the single was accompanied by a music video, of which Costello said, \"Nice dance routine with this one!\" The single was a modest commercial success in the UK, reaching number 30 on the UK Singles Chart over a stay of five weeks. ",
+        "target": "one",
+        "options": {
+            "A": "routine",
+            "B": "single"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 27,
+        "text": "Notable features included a windowing system allowing multiple simultaneous 3d views - including exterior views of the aircraft itself - and (on the Amiga and Atari ST) modem play. Info gave the Amiga version five out of five, describing it as the \"finest incarnation\". Praising the \"superb\" graphics, the magazine advised to \"BEGIN your game collection with this one!\"",
+        "target": "one",
+        "options": {
+            "A": "game collection",
+            "B": "Amiga version"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 28,
+        "text": "Game five was most of the way across the country in East Lansing, Michigan. The Beavers' opponent was the Michigan Aggies, who had pummeled the Michigan Wolverines 24–0 in Ann Arbor the week before. Coupled with a train ride spanning two-thirds of the country without the ability to practice, the odds of a Beaver victory seemed slim. Roscoe Fawcett of Portland's Morning Oregonian set the odds at around zero, when he wrote, \"One thing is very certain, and that is the Corvallis boys are due for a trimming...and a bad one!\"",
+        "target": "one",
+        "options": {
+            "A": "boys",
+            "B": "trimming"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 29,
+        "text": "Empress Dowager was pleased and made him a censor. On one occasion, she was set to award a house to Hou that was seized from a person accused of treason. Hou declined and stated, \"I hate treasonous individuals, and I do not want a house from one!\" She was further impressed.",
+        "target": "one",
+        "options": {
+            "A": "treasonous individuals",
+            "B": "house"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 30,
+        "text": "On 31 March 2010, Teresa Jusino of Popmatters expressed the view that English-speaking music fans no longer remember Selena's name, saying that on playing \"Dreaming of You\" or \"I Could Fall in Love\", many would say \"I remember that song!\" or \"I love that one!\". Randi Bergman of Fashion magazine, called the number an \"epic ballad\".",
+        "target": "one",
+        "options": {
+            "A": "song",
+            "B": "name"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 31,
+        "text": "Gaurav Malani of IndiaTimes rated the movie 3/5 and said, \"If you hate love stories this one's certainly not for you. Which means this ends up being another love story and that too a dull one!” Nikhat Kazmi of Times of India also praised the lead performances, but found the plot predictable and rated the movie 3/5 saying, \"Thematically, I Hate Luv Storys is extremely simplistic, uni-layered and terribly predictable.\"",
+        "target": "one",
+        "options": {
+            "A": "love story",
+            "B": "movie"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 32,
+        "text": "In a small town of the Russian Empire during the 19th century reign mores typical of that time. The mayor and the other officials take bribes, embezzle public money, drink and play cards, while idly discussing the latest town gossip. But soon alarming news arrives – a stern government inspector from St. Petersburg has been sent to the city, and even worse, a plain-clothed one!",
+        "target": "one",
+        "options": {
+            "A": "inspector",
+            "B": "city  "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 33,
+        "text": "The people rushed to arms. Now I have to trudge there through the snow with [lac.] cohorts. You’ll remark that the Domitii are coming to grief all along the line. Well, I could wish our scion of Venus had shown as much spirit in dealing with your Domitius as Psecas' offspring showed with this one!",
+        "target": "one",
+        "options": {
+            "A": "Domitius",
+            "B": "offspring"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 34,
+        "text": "Based upon their ages, heightened responsibilities and increased level of maturity, the group had a slightly different perspective than the norm for typical fraternity members. It was this perspective from which they established the Fraternity's purpose, \"The development and perpetuation of Scholarship, Leadership, Citizenship, Fidelity, and Brotherhood among Men.\" Additionally, they conceived the Fraternity's motto, \"Building a Tradition, Not Resting Upon One!\". While the Greek mythological creature, the Centaur, has a well known public meaning, a beloved alternate description of the Centaur is known only by initiated members of the fraternity.",
+        "target": "one",
+        "options": {
+            "A": "motto",
+            "B": "Tradition"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 35,
+        "text": "Proceed at reduced speed (30 km/h) and with caution towards a buffer stop, an occupied track, or a red signal at abnormally reduced distance (350–600 meters). Unlike other \"reduced speed\" aspects, this signal is always preceded by a single yellow signal and not a \"reduce to 30 km/h\" one!",
+        "target": "one",
+        "options": {
+            "A": "aspects",
+            "B": "signal"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 36,
+        "text": "In social policy, Durnovo's tenure in office saw a reduction of working hours in 1897. Durnovo was not known, however, for his innovations, but rather for following his predecessor's policies. His abilities were summarized by his staff in a pun, \"Не нашли хорошего, назначили Дурново\" (They could not find a good minister, so they have appointed a bad [durnogo = Durnovo] one!\"). Durnovo was blamed by later researchers for failing to take decisive actions to handle the Russian famine of 1891–92.",
+        "target": "one",
+        "options": {
+            "A": "pun",
+            "B": "minister"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 37,
+        "text": "Brownsword was later controversially dismissed from his coaching role at the club prior to the 1973–74 Fourth Division campaign, however. \"I did feel a bit bitter when I got the bullet. Nobody ever told me why I was sacked, but my understanding was that a coach had written to the club asking if there were any vacancies and I created one! I was exceptionally disappointed that I was dispensed with in this way after all the service.\"",
+        "target": "one",
+        "options": {
+            "A": "club",
+            "B": "vacancies"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 38,
+        "text": "Ball 3, strike 1 on Cunningham... Here's the pitch... Strike 2! (Wrigley Field crowd roars) ... Cunningham's arguing now... he's back here barkin' at Tony Venzon, the plate umpire... he's really sore... he is really peeved at that strike two, that was called... One more pitch could end it... You know what kind of a pitch we're hopin' for: The dark one! Blow it past him Don! ...",
+        "target": "one",
+        "options": {
+            "A": "umpire",
+            "B": "pitch"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 39,
+        "text": "Chennai Online wrote \"The problem with the film is that the director doesn't seem to have quite made up his mind whether his narrative style should be a light-hearted one or serious. So it meanders somewhere between the two and ends in a confused amalgam of emotions, with neither the humour nor the intensity really touching one!\"",
+        "target": "one",
+        "options": {
+            "A": "mind",
+            "B": "narrative style"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 40,
+        "text": "After two years of working for U.T., Truchard realized that there was little room for promotion unless one of his coworkers retired. As he often remarks, he \"didn't see a job I wanted [in Austin] - so I created one!\" Working with colleagues Jeff Kodosky and Bill Nowlin, Truchard was part of a project conducting research for the U.S. Navy that allowed them to use early computer technology to collect and analyze data.",
+        "target": "one",
+        "options": {
+            "A": "coworkers",
+            "B": "job"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 41,
+        "text": "The film released on 19 May 2017. Reza Noorani of Times Of India rated movie with 1 star. He writes \"The film is two hours of loud gags with a handful of preachy messages. Watch at your own risk, this one!\". Firstpost criticized the movie saying \"Star rating: * — because there is just one star, Gurmeet Ram Rahim Singh Insaan\".",
+        "target": "one",
+        "options": {
+            "A": "risk",
+            "B": "film"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 42,
+        "text": "Many successful software development projects use timeboxing, especially smaller ones. Adopting timeboxing more than tripled developer productivity at DuPont in the '80s. In some cases, applications were completely delivered within the time estimated to complete just a specification.",
+        "target": "ones",
+        "options": {
+            "A": "timeboxing",
+            "B": "projects "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 43,
+        "text": "On yet another occasion, he was instructed not to win a selling race by more than a neck, so that connections could buy the horse back cheaply. He won by six lengths, and told an intermediary, \"thou tell him he ought to think himself lucky to win at all, as I saw five winning posts and didn't know which was the right one!” The effect on him was such that he once vowed he would give £5,000 to be able to stop.",
+        "target": "one",
+        "options": {
+            "A": "posts",
+            "B": "intermediary"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 44,
+        "text": "The band chose the image since it was a strong, historic symbol of England. When they presented it to an agent from their American distributor, Epic Records, the executive responded: \"It looks like a duck! If you want a horse, we'll get our artists to draw one!\" The company then offered the group illustrations of a mustang, a bronco, and one of a person in a cartoon caricature of an English village.",
+        "target": "one",
+        "options": {
+            "A": "horse",
+            "B": "artists"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 45,
+        "text": "One night after the arrival of the mail we were in his (Buford's) room, when Buford said in his slow and deliberate way \"I got a letter from the Governor of Kentucky. He sent me word to come to Kentucky at once and I shall have anything I want.\" With a good deal of anxiety, I (Gibbon) asked \"What did you answer, John?\" And my relief was great when he replied \"I sent him word I was a Captain in the United States Army and I intended to remain one!\"",
+        "target": "one",
+        "options": {
+            "A": "Captain",
+            "B": "Army"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 46,
+        "text": "When Carlson continued to press Stewart on the Kerry issue, Stewart said, \"You're on CNN! The show that leads into me is puppets making crank phone calls! What is wrong with you?\" In response to prods from Carlson, \"Come on. Be funny.\" Stewart said, \"No, I'm not going to be your monkey.\" Later in the show when Carlson jibed, \"I do think you're more fun on your show\", Stewart retorted, \"You're as big a dick on your show as you are on any show.\" In response to Stewart's criticisms, Carlson said, \"You need to get a job at a journalism school\", to which Stewart responded, \"You need to go to one!\"",
+        "target": "one",
+        "options": {
+            "A": "journalism school",
+            "B": "job"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 47,
+        "text": "Archer concluded that while the gameplay \"is not quite intensive or compulsive enough\", Jurassic Park \"sure as hell makes a fine change from the turgid and unimaginative stuff we are used to getting from big licenses. Even Spielberg has said he likes it, and that's a man who knows a success when he sees one!\"",
+        "target": "one",
+        "options": {
+            "A": "success ",
+            "B": "man"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 48,
+        "text": "Sify wrote \"To conclude, comparing to Samy's earlier ventures, Kangaroo is a better, family-friendly movie but in general perspective, it's a middling one!\". Deccan Chronicle wrote \"The plot seems interesting, but the way it unfolds in 80s style with mushy melodrama and insipid comedy, the pace suffers during the first half. However, post interval the momentum picks up with few unexpected twists and turns.\"",
+        "target": "one",
+        "options": {
+            "A": "movie",
+            "B": "perspective"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 49,
+        "text": "Surabhi Redkar form Koimoi gave the film 3.5 stars and mentioned, \"Kapoor And Sons is a modern-age family drama. It does not shy away from being emotionally soppy yet convincingly lovable. You could laugh, cry and smile through this one!\". Redkar praised the characters' realistic nature.",
+        "target": "one",
+        "options": {
+            "A": "drama",
+            "B": "film"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 50,
+        "text": "Rather than requiring users to come to the machine to use it, the calculator was provided with three remote keyboards, at various places in the building, in the form of teletypes. Only one could be used at a time, and the output was automatically displayed on the same one. On 9 September 1940, a teletype was set up at a Dartmouth College in Hanover, New Hampshire, with a connection to New York, and those attending the conference could use the machine remotely.",
+        "target": "one",
+        "options": {
+            "A": "teletypes",
+            "B": "output"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 51,
+        "text": "The Governor of the BoG said the impact of COVID-19 on Ghana's economy would be significant for the year 2020 as the disease was a global one. A mining company donated hygiene products to some schools to help keep the teachers and students safe from the coronavirus in the Amansie West and South districts in the Ashanti region.",
+        "target": "one",
+        "options": {
+            "A": "disease",
+            "B": "impact"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 52,
+        "text": "According to them, Argentine GDP shrank 2.9% in the last quarter of 2008, 1.6% in the first quarter of 2009, and 0.6% in the second one. It's widely known in Argentina that the official statistics office in charge of producing this information, INDEC, is not very reliable for trustworthy statistical information, due to the government's mismanagement of the office.",
+        "target": "one",
+        "options": {
+            "A": "quarter of 2009",
+            "B": "Argentine GDP "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 53,
+        "text": "Claire Edgley of Computer and Video Games gave the arcade game a positive review in March 1985. She was positively surprised by the \"hard-hitting\" action, the \"very fast\" and \"breath-taking\" pace, and large number of enemies. She also praised the controls, referring to Thomas as \"a whirling, kicking, jumping, fighting machine\" controlled by an eight-way joystick and two buttons, the \"energy levels\" which allow the player to \"absorb a large number of hits\" from enemies, the smooth \"lifelike\" picturesque graphics, and the catchy music jingles. She concluded that if \"you thought that Karate Champ was good — wait 'til you try this one!\"",
+        "target": "one",
+        "options": {
+            "A": "arcade game",
+            "B": "music jingles"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 54,
+        "text": "After the United Kingdom recognised the Franco's regime in 1938, Gibraltar had two Spanish Consulates, a Republican one and a Nationalistic one. Several incidents took place during the Spanish Civil War which affected Gibraltar. In May 1937, HMS Arethusa had to tow HMS Hunter into port after Hunter hit a mine off Almeria that killed and wounded several British sailors.",
+        "target": "one",
+        "options": {
+            "A": "Spanish Consulates",
+            "B": "Franco's regime "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 55,
+        "text": "Elvira accompanied by her slave Zulma regrets the loss of the love of her husband, the Turkish Bey Mustafà. Left alone with Haly (since the Italian 'h' is silent, this corresponds to the name Ali, more familiar in the English-speaking world), Captain of the Corsairs, Mustafà reveals his plan to marry Elvira off to Lindoro, his Italian slave. The Bey is bored with his submissive harem, desiring a new challenge to his virility: he wants an Italian girl, and Haly must find one!",
+        "target": "one",
+        "options": {
+            "A": "an Italian girl",
+            "B": "a new challenge"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 56,
+        "text": "“Time Machine is a backup utility, not an archival utility, it is not intended as offline storage. Time Machine captures the most recent state of your data on your disk. As snapshots age, they are prioritized progressively lower compared to your more recent ones.”",
+        "target": "ones",
+        "options": {
+            "A": "snapshots",
+            "B": "disk"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 57,
+        "text": "Dr Otter is a very gentle medical children's programme that focuses far more on Flybread's attitude and learning about the community, and each episode deals with a minor moral dilemma, rather than a medical one! ",
+        "target": "one",
+        "options": {
+            "A": "dilemma",
+            "B": "episode"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 58,
+        "text": "The pair were asked if they would ever consider writing an episode with a happy ending. Shearsmith responded by saying \"Yes, because that would be the biggest surprise of all ... But last year we had the Last Gasp, and that had quite a happy ending - and people hated that one!\" Similarly, Pemberton suggested that \"people are disappointed if we don't deliver something horrible\".",
+        "target": "one",
+        "options": {
+            "A": "happy ending ",
+            "B": "people"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 59,
+        "text": "40 Trips Around the Sun contains 14 tracks from 1978 to 1993, and three previously unreleased recordings (\"Spanish Sea\", \"Alone\" and \"Struck by Lightning\"). \"Spanish Sea\" was recorded during the sessions for Isolation (1984), and was re-written with a new chorus. Steve Lukather said of the song: \"Thanks to modern tech we were able to play once again with not only our 20 something selves but with our dear brothers Jeff and Mike Porcaro reminding us just how deep their groove was. Bittersweet... Many stories, laughs and a few tears on this one\".",
+        "target": "one",
+        "options": {
+            "A": "song",
+            "B": "tears"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 60,
+        "text": "Coincidentally, this occurred at the same time Lucy kicked Linus out of the house, leading her to cry in dismay, to which she said, \"A 'new' baby brother? But I just got rid of the 'old' one!\" She then let him back in stating, \"You can't shovel water with a pitchfork!\" The irony was not lost on Linus, who foolishly mocked her behavior until she gagged him with his own security blanket.",
+        "target": "one",
+        "options": {
+            "A": "baby brother",
+            "B": "house "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 61,
+        "text": "At the time, the actor had not heard whether his character would be returning, though he later appeared in the first-season finale and five fourth season episodes. Harris described his character as an \"anti-hero who is fighting for the just cause\" and the episode as \"a page-turner... When I read it, I said, 'Ah, this is a fantastic one. I can't wait to see it.' It's directed with a lot of energy, a lot of tension. It's a good one, a really good one\". The episode featured the first of many guest appearances by actor Clark Middleton as the rare bookseller Edward Markham.",
+        "target": "one",
+        "options": {
+            "A": "episode ",
+            "B": "page-turner"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 62,
+        "text": "Weissberg also said that \"without the warmth and ironic self-awareness that Paz brings to Miranda, the pic might have been a lesser vehicle, or at least a less absorbing one\". Las Horas Muertas was screened during the 2013 Morelia International Film Festival, where Paz was named Best Actress.",
+        "target": "one",
+        "options": {
+            "A": "pic",
+            "B": "vehicle"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 63,
+        "text": "As a normal day of school progresses, Gao and the gang notice something strange going on with Zanya. He is actually talking to girls and dating one! Its gotten to a point that he wants to marry this girl and retire from Buddyfighting?! Is Zanya growing up, or is there another force at play?!",
+        "target": "one",
+        "options": {
+            "A": "progresses",
+            "B": "girls"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 64,
+        "text": "Diego and Alicia are far away from home for the first time ever! They are on a trip doing some research and animal help in Antarctica, and this trip proves to be a busy one! A little penguin and his name is Pepito the Emperor Penguin and he is lost and cannot find his way to his new school. Diego must help him find where his new school is, and how to get there.",
+        "target": "one",
+        "options": {
+            "A": "help",
+            "B": "trip "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 65,
+        "text": "Buddy is going all out for this brunch bonanza with Italian French Toast, Basil Omelet's and Roasted Rosemary Potatoes with Pancetta. Hit the snooze button, because there's no reason for breakfast with a brunch menu like this one!",
+        "target": "one",
+        "options": {
+            "A": "breakfast",
+            "B": "brunch menu "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 66,
+        "text": "Maria will do anything, and does practically everything, to find her younger brother Tino – a lazy klutz whose only interests are girls and Gilligan's Island– a job at the mall. Because he keeps botching the interviews (even wearing jeans and a red T-shirt to one!), she has to do all the work for him. Even that doesn't help because, if there's a way to get himself fired, he always finds it before the day is up.",
+        "target": "one",
+        "options": {
+            "A": "T-shirt",
+            "B": "interviews "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 67,
+        "text": "When Wild Card creates evil clones of the Guardians, the public no longer trusts the real ones! Can the Guardians defeat the clones and earn back the public’s trust?",
+        "target": "ones",
+        "options": {
+            "A": "public",
+            "B": "Guardians"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 68,
+        "text": "Daisy's friend Petunia needs some help making a city garden because she doesn't know how to build one.",
+        "target": "one",
+        "options": {
+            "A": "help",
+            "B": "city garden "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 69,
+        "text": "TV Week's Jackie Bryel revealed that the man Carmel sets her sights on is Susan's ex-husband, Karl. Shortly after her arrival, Carmel reveals that she has separated from her husband, Robert, and is ready to find a new relationship. Child told Brygel \"Carmel just breezes in and thinks she'll come and stay with Susan to start a new life in Erinsborough. She gives Susan a little bit of a shock, and not an entirely pleasant one! Carmel is very outgoing, and I don't think she's overly sensitive to the feelings of others.\"",
+        "target": "one",
+        "options": {
+            "A": "life ",
+            "B": "shock"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 70,
+        "text": "Harris described his character as an \"anti-hero who is fighting for the just cause\" and the episode as \"a page-turner... When I read it, I said, 'Ah, this is a fantastic one. I can't wait to see it.' It's directed with a lot of energy, a lot of tension. It's a good one, a really good one\". The episode featured the first of many guest appearances by actor Clark Middleton as the rare bookseller Edward Markham.",
+        "target": "one",
+        "options": {
+            "A": "tension",
+            "B": "episode"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 71,
+        "text": "Sweep has an obsession with helicopters and fails miserably to build a model one and fails again when playing with little ones. He is given the opportunity of a lifetime though when he is invited to go up in one! Mathew writes a story at the end of the day and reads it to the guys.",
+        "target": "one",
+        "options": {
+            "A": "opportunity",
+            "B": "helicopters "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 72,
+        "text": "Since the Sliders never determined which Arturo they took in \"Post Traumatic Slide Syndrome,\" it is possible the original Arturo from Earth Prime is still alive, as Rembrandt said at the end of the episode, \"We've got an Arturo and we don't even know which one!\".",
+        "target": "one",
+        "options": {
+            "A": "episode",
+            "B": "Arturo"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 73,
+        "text": "Sweep has an obsession with helicopters and fails miserably to build a model one and fails again when playing with little ones. He is given the opportunity of a lifetime though when he is invited to go up in one! Mathew writes a story at the end of the day and reads it to the guys.",
+        "target": "one",
+        "options": {
+            "A": "obsession ",
+            "B": "helicopters"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 74,
+        "text": "Appalled by the conditions the creature is being kept in, he decides to set it free. But imagine his surprise when he discovers that the \"lug\" is actually a transformed human - and that the money-hungry owners of the truck stop have turned him into a Lug to replace the old one! When the monkey team look for Chiro, he turned. Can they ever get back to normal?",
+        "target": "one",
+        "options": {
+            "A": "truck",
+            "B": "Lug"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 75,
+        "text": "At approximately 9 p.m., the two drove to Butts' Lakewood apartment as Bonin informed Munro that he, Butts, and others had committed many of the \"Freeway Killer\" murders. At Butts' apartment, the trio engaged in brief conversation before Bonin invited Butts to view Wells' body with the enticement: \"We got it in the van; it's a good one. Come on out and see it.\"",
+        "target": "one",
+        "options": {
+            "A": "van",
+            "B": "body"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 76,
+        "text": "In 1993, Bidelman provided data on 177 known and possible asymptotic giant branch stars, saying he was confident many would \"prove to be interesting and important. Unfortunately, I don't know which ones!” Bidelman's list of high Strömgren c1 index high galactic latitude stars included promising post-AGB candidates to lead to finds of similar objects to better understand the post-AGB sub-groups of stars.",
+        "target": "ones",
+        "options": {
+            "A": "data",
+            "B": "asymptotic giant branch stars"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 77,
+        "text": "In DC Comics Presents #41, (January 1982), on page 7 of the special Wonder Woman insert, a character identified as \"Liz\" on the previous page, who states that she is a representative of an organization called the Wonder Woman Foundation, explains \"We've been promised full financial backing to promote equality for women everywhere, if we can use your name...and if you'll just wear this charming top from now on, instead of your old one!\"",
+        "target": "one",
+        "options": {
+            "A": "name ",
+            "B": "top"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 78,
+        "text": "In Spanish, the words sí 'yes' and no 'no' are unambiguously classified as adverbs: serving as answers to questions and also modifying verbs. The affirmative sí can replace the verb after a negation (Yo no tengo coche, pero él sí = I don't own a car, but he does) or intensify it (I don't believe he owns a car. / He does own one! = No creo que él tenga coche. / ¡Sí lo tiene!). The word no is the standard adverb placed next to a verb to negate it (Yo no tengo coche = I don't own a car).",
+        "target": "one",
+        "options": {
+            "A": "a negation",
+            "B": "a car"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 79,
+        "text": "The episode received generally positive reviews from critics. The Indiana Daily Student's Brian Welk called the episode \"fairly enjoyable,\" joking that his Facebook status would say that he \"hopes the 200th episode [of South Park] is as good as the Facebook one!\" Tucker of Entertainment Weekly said \"The half-hour was shrewdly precise in its targets: The older audience that communes on Facebook (such as parents and grandparents) as well as lonely kids; as usual, \"South Park\" is merciless when it smells a baby-boomer-adopted trend.\" ",
+        "target": "one",
+        "options": {
+            "A": "Park",
+            "B": "episode"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 80,
+        "text": "We wondered how many intervals there were in an octave and decided to check it out with these glide tones. They're spread over a long time because we were trying to pick out individual notes. When the duo came across an intriguing interval, they would look at another and comment, \"Hey, listen to that one!\"",
+        "target": "one",
+        "options": {
+            "A": "individual notes",
+            "B": "intriguing interval"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 81,
+        "text": "She's somebody who's a bit off-kilter, who sees the world through a prism most others don't understand. At first Leia thinks she's pleasant but weird, but as time goes on, it becomes apparent that there's much more to Holdo than you might guess when you first met her. We don't really have a lot of true oddballs in Star Wars, so it was fun to introduce one!",
+        "target": "one",
+        "options": {
+            "A": "Star Wars",
+            "B": "true oddballs"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 82,
+        "text": "The show featured many, often acclaimed, one-off sketches, like Waitress (popularly known as Two Soups), where Julie Walters plays an elderly deaf waitress who takes an incredibly long time to take an order for two bowls of soup. In 2004, British television network Channel 4 (in a poll conducted on its website) awarded it \"27th Best Comedy Sketch Of All Time\". Walters said \"she [Wood] knows I like playing old women. Why? Because I am one! I love the shape of them.\"",
+        "target": "one",
+        "options": {
+            "A": "deaf waitress",
+            "B": "old women"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 83,
+        "text": "Chris Martin once said that the plagiarism allegations were inspiring him and added: \"If everyone's trying to take away our best song, then we'd better write 25 better ones!\"",
+        "target": "ones",
+        "options": {
+            "A": "allegations",
+            "B": "song"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 84,
+        "text": "Will Champion has also talked about the accusation saying, \"For some reason, God only knows why, the successful songs seem to be the ones that are accused of being stolen.\"",
+        "target": "ones",
+        "options": {
+            "A": "reason",
+            "B": "songs"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 85,
+        "text": "Michael Specter, in a piece for The New York Times in the same year, said Zhirinovsky's \"party is not liberal, not democratic, and these days not much of a party.\" A 1995 BBC documentary showed Zhirinovsky telling the crowd at a campaign rally: \"Help us, and you'll never have to vote again! I'm not saying, 'Vote for us and maybe in 20 years' time somebody will do something.' No, these will be the last elections! The last ones!\"",
+        "target": "ones",
+        "options": {
+            "A": "campaign",
+            "B": "elections"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 86,
+        "text": "Producer Alex Gordon wanted Peter Lorre who again refused to work with him and then called George Zucco, the star of Voodoo Man, who was too ill to work. With the shooting date drawing near, Tom Conway was chosen, who like Marla English and Paul Dubov, had also been in The She-Creature. Publicity for the film declared \"Not since he starred in The Cat People and I Walked with a Zombie has Tom had a role like his current one!\".",
+        "target": "one",
+        "options": {
+            "A": "film",
+            "B": "role"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 87,
+        "text": "The opening line of Under the North Star, \"In the beginning there were the swamp, the hoe – and Jussi\", is recognized by most Finns as well as Rokka's famous exclamation, \"Where do you need a real good man, here you have one!\", from The Unknown Soldier. Showcasing the value of his legacy, Linna was pictured on the 20 markkabanknote which was in use from 1993 to the introduction of the Euro.",
+        "target": "one",
+        "options": {
+            "A": "famous exclamation",
+            "B": "real good man"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 88,
+        "text": "In 1964, he paid the last of several visits to his beloved Italy. When, in the month of his death, he was given a bedside message from Premier David Brand, announcing that the state government was to name its second university after him, he was able to send an appreciative acceptance. He added, sotto voce, \"it had better be a good one!\" Murdoch died on 30 July 1970, aged 95.",
+        "target": "one",
+        "options": {
+            "A": "acceptance",
+            "B": "university"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 89,
+        "text": "Dave Brock: \"There was some good stuff on that album. I think we peaked then, in 1974/75.\" Simon King: \"I suppose I’m two-thirds happy with this one. For me that’s not bad as I was only half happy with the last one! Warriors is a different musical thing because it’s Simon House’s first real contribution: on Mountain Grill he was too new to be able to have that much influence, and now, of course we’ve got Alan as a second drummer, which has meant a lot of changes.\"",
+        "target": "one",
+        "options": {
+            "A": "King",
+            "B": "album"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 90,
+        "text": "Their second album, Old Grooves for New Streets (2007), received five star reviews in Australia, and a review by America's All About Jazz said, \"Certainly a candidate for Best Release of the Year – I hope lots of ears hear this one!\". In 2009 the group won the Bell Award for Australian Jazz Ensemble of the year. The Sydney Morning Herald observed, \"That these exotic sounds blend so well with jazz is a mysterious Melbourne alchemy\".",
+        "target": "one",
+        "options": {
+            "A": "ears",
+            "B": "album"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 91,
+        "text": "Hysteria Lives! awarded the film 2/5 stars: \"All-in-all TO ALL A GOOD NIGHT is the kind of slasher movie the Surrealists would have made if they had been around in the early 80’s; confounding, nonsensical, by turns grindingly dull and startlingly wiggy\". Ian Jane from DVD Talk called the film \"a moderately entertaining low budget horror picture with some fun performances (and some bad ones!) and a decent twist\".",
+        "target": "ones",
+        "options": {
+            "A": "picture",
+            "B": "performances"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 92,
+        "text": "Aldrich later reflected, \"When you've had a big, big success, people who should know better lose their perspective about your infallibility. Right away it's 'Let's make another one!' Let's go back and buy the first novel of some guy who, ten novels later, wrote a hit. That's ludicrous. You may have better projects, but you can't sell the better projects, you really can't.\" ",
+        "target": "one",
+        "options": {
+            "A": "infallibility",
+            "B": "success"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 93,
+        "text": "So it meanders somewhere between the two and ends in a confused amalgam of emotions, with neither the humour nor the intensity really touching one!",
+        "target": "one",
+        "options": {
+            "A": " intensity",
+            "B": "emotions"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 94,
+        "text": "It's never less than interesting but seldom more than that. A reviewer of Dusty Groove stated: Cassandra Wilson's tribute to Miles Davis – a pretty brave and ambitious move, writing lyrics to classic Miles compositions – and a winning one! Wilson produced the record, too, and her genuine love of the material makes it worth – as does her fairly earthy, timeless production.",
+        "target": "one",
+        "options": {
+            "A": "compositions",
+            "B": "move"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 95,
+        "text": "Praising Mammootty's acting, the review concluded: \"It is Mammootty who unleashes a brilliant display of subtle acting. He is not really healthy, not much confident and is scared, as he gets into the shoes of the character of Mani sir. He needs to be applauded for his dedicated performance ... If you are a fan of Mammootty, here is one of his finest performances. Watch this one!\" Neelima Menon wrote for HuffPost that \"Mammootty’s Kind, Vulnerable Policeman Is A Delight.\"",
+        "target": "one",
+        "options": {
+            "A": "fan",
+            "B": "performance"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 96,
+        "text": "In 2018, Brooke and Taylor engage in a food fight at Hope Logan's (Annika Noelle) wedding to Liam Spencer (Scott Clifton), Steffy's ex-husband. Tylo stated, \"In the past, Taylor’s tried to play into Brooke’s psychology to find any kind of guilty conscious (...) Now, Taylor realizes Brooke doesn’t have one! There’s no trying to get to her because she doesn’t listen to reason. Taylor’s been letting stuff sit and stew for years. She’s not happy and, now, she’s got to vent!\"",
+        "target": "one",
+        "options": {
+            "A": "psychology",
+            "B": "guilty conscious"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 97,
+        "text": "Gaurav Malani of IndiaTimes rated the movie 3/5 and said, If you hate love stories this one's certainly not for you.",
+        "target": "one",
+        "options": {
+            "A": "stories",
+            "B": "movie"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 98,
+        "text": "The 2015 release in the Tekno and Friends line was a scorpion. Features a sting in the tail (a pretend one!), this aggressive little character has an added level of electronic interaction. Comes with a clever IR hand controller that straps to the users hand, waving movements are translated into 360˚ movements on the Scorpion. Multi-channel operation means that two or more of these fearsome characters can fight each other and battle for victory using their giant pincer hands.",
+        "target": "one",
+        "options": {
+            "A": "tail",
+            "B": "sting"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 99,
+        "text": "Snakepit Magazine called it an improvement over the debut: \"... this album by the Alabama-based bunch simply blows away their previous one!\". Heaven's Metal magazine describes the remastered Overlord album as \"... an album that ranks up with the BEST of them\".",
+        "target": "one",
+        "options": {
+            "A": "bunch",
+            "B": "album"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 100,
+        "text": "We weren't actually fond of the hard, garage, underground, chemical elements or funeral-like names, so we thought that the best we could do was to choose a name that would've express the idea of free spirit, in all of its aspects, which is why Amsterdams came up really naturally. The is because people had to know that we were those Amsterdams... The only ones!",
+        "target": "ones",
+        "options": {
+            "A": "people",
+            "B": "Amsterdams"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 101,
+        "text": "When the order is ignored, Finlander runs over the snorkel. Munceford and Schrepke protest that Finlander is forcing the sub to fight, and Finlander orders Ralston to arm an anti-submarine rocket. He reassures Munceford and Schrepke that he will not fire first, but when he says that \"if he fires one, I'll fire one\", the fatigued Ralston just hears \"fire one\" and launches the rocket.",
+        "target": "one",
+        "options": {
+            "A": "sub",
+            "B": "anti-submarine rocket"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 102,
+        "text": "Pauline Kael of The New Yorker wrote \"If the film wants to be taken as a cautionary fable—another one!—about the ever-present dangers of Nazism, then it should leave viewers with a sense of menace that Mengele's 'boys from Brazil' constitute. Instead, we get Lieberman's fuddy-duddy humanism and vague assurances that the boys are not really dangerous. And this is supposed to be a movie.\"",
+        "target": "one",
+        "options": {
+            "A": "film",
+            "B": "cautionary fable"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 103,
+        "text": "The worm, having seen none of this, appears from his hole and walks off carefree - until he comes face to beak with the bird. He runs away and attempts to jump back into his home; the bird is waiting in the hole, mouth open. A chase ensues. They pass a billboard advertising the film, \"Mrs. Minimum\" (Mrs. Miniver) and its accompanying cartoon, the very one the bird and the worm are in. The bird says, \"Hey, I hear that's a pretty funny cartoon.\" The worm replies, \"Well, I hope it's funnier than this one!\" The chase resumes.",
+        "target": "one",
+        "options": {
+            "A": "worm",
+            "B": "cartoon"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 104,
+        "text": "Reviewing the C64 version for Electronic Games, Ted Salamone wrote, \"it doesn't have any great moments. It doesn't even have any good ones!\" He called out the visuals as \"so substandard that they are an insult, display an incredible lack of detail and imagination,\" and also that \"poorly executed collision detection routines result in many an untimely death.”",
+        "target": "ones",
+        "options": {
+            "A": "Games",
+            "B": "moments"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 105,
+        "text": "Levant intersperses his reminisces about Hollywood in its heyday with one-liners and pithy quotes by himself and others. When asked about writing a book on Victor Herbert by a publisher, for example, Levant remarked \"I wouldn't even read one!\" Dorothy Parker, when Levant asked her if she ever took sleeping pills, supposedly answered, \"In a big bowl with sugar and cream.\"",
+        "target": "one",
+        "options": {
+            "A": "publisher",
+            "B": "a book on Victor Herbert"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 106,
+        "text": "Einstein, now free and with the team outside the castle, tells Evy he's got the formula. Colin and Imhotep think they have the answer, as Einstein had left an answer on the blackboard. They don't know that the answer is just the opposite of the real one! Einstein has been a teacher long enough to know that he should never put the real answers where anyone can read them! Einstein gives them the coordinates and they're off!",
+        "target": "one",
+        "options": {
+            "A": "opposite",
+            "B": "answer"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 107,
+        "text": "Directors Ernst Laemmle and Frank McCormick reshot a little less than half of the picture with sound during August 1929. The footage reused from the original film was scored with music arranged by Joseph Cherniavsky, and sound effects. Mary Philbin and Norman Kerry reprised their roles for the sound reshoot, and Edward Martindel, George B. Williams, Phillips Smalley, Ray Holderness, and Edward Davis were added to the cast to replace actors who were unavailable. Universal was contractually unable to loop Chaney's dialogue, so another character was introduced who acts as a messenger for the Phantom in some scenes. Because Chaney's talkie debut was eagerly anticipated by filmgoers, advertisements emphasized, \"Lon Chaney's portrayal is a silent one!\"",
+        "target": "one",
+        "options": {
+            "A": "advertisements",
+            "B": "portrayal "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 108,
+        "text": "I feel that the new Firewind album is yet another step up in our career – musically speaking. Once again we aimed for a highly variable effort as I really don't like those albums where you've listened to the first song and it's like you heard them all! This doesn't happen on a Firewind album and certainly not on the new one!",
+        "target": "one",
+        "options": {
+            "A": "first song",
+            "B": "Firewind album"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 109,
+        "text": "The film had mixed responses from critics but positive response from audience. Filmibeat gave it a rating of 4.5 stars out of 5. Sify rated the film 4.5/5 and given the verdict for the film as An Engaging Thriller. It stated that \"The Priest may not be perfect but manages to keep the viewers glued on to the screen for sure. Try this one!.\" International Business Times rated the film 3.5/5 and given the verdict for the film as A classic horror crime thriller.",
+        "target": "one",
+        "options": {
+            "A": "screen",
+            "B": "film"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 110,
+        "text": "Also a sketch of a 30 square canvas representing the house and its setting under a sulphur sun under a pure cobalt sky. The theme is a hard one! But that is exactly why I want to conquer it. Because it is fantastic, these yellow houses in the sun and also the incomparable freshness of the blue. All the ground is yellow too. I will soon send you a better drawing of it than this sketch out of my head.",
+        "target": "one",
+        "options": {
+            "A": "theme",
+            "B": "sky"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 111,
+        "text": "In his biography and analysis of Tchaikovsky's music, Roland John Wiley likens the five-movement format to a divertimento and questions whether Tchaikovsky wanted to allude in this work to the 18th century. Rosa Newmarch mentions the 3rd Symphony in D is a work altogether different in style to his two earlier ones, and totally western in character. Such a move would not be unique or unprecedented in Tchaikovsky's work; David Brown points out in the 1980 edition of the New Grove that the composer occasionally wrote in a form of Mozartian pastiche throughout his career.",
+        "target": "one ",
+        "options": {
+            "A": "Symphony",
+            "B": "style"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 112,
+        "text": "One of the Kelly brothers (most likely Dan, as he and Hart were friends and had likely met in gaol at some point) came to his property and asked him to help them pan for gold. This prompted Hart's most famous quote, \"Here's to a short life and a merry one!\" as he rode off to Bullock Creek to help the Kelly brothers and their friend Joe Byrne pan for gold.",
+        "target": "one",
+        "options": {
+            "A": "life ",
+            "B": "quote"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 113,
+        "text": "Dave Brock: \"There was some good stuff on that album. I think we peaked then, in 1974/75.\" Simon King: \"I suppose I’m two-thirds happy with this one. For me that’s not bad as I was only half happy with the last one! Warriors is a different musical thing because it’s Simon House’s first real contribution: on Mountain Grill he was too new to be able to have that much influence, and now, of course we’ve got Alan as a second drummer, which has meant a lot of changes.\"",
+        "target": "one",
+        "options": {
+            "A": "King",
+            "B": "stuff "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 114,
+        "text": "This is shown in the Lilo & Stitch: The Series episode \"Kixx\", where Lilo and Stitch are watching Keoni skateboard, then Stitch looks in Keoni's rucksack and eats Keoni's shoe, Keoni replies by saying \"Hey, my shoes!\" in which Lilo says, \"He only eats the left ones!\"); but since he has a personality of his own (a fact that only Lilo truly understands), he also has the choice, even will, not to do so.",
+        "target": "ones",
+        "options": {
+            "A": "shoes",
+            "B": "rucksack"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 115,
+        "text": "Sykronior has kidnapped a representative from each island to steal their knowledge and create the ultimate Sykronian soldier, Superior! Nothing can stop the Sykronian invasion now. Our heroes come to rescue the prisoners and will have to find the super warrior's weakness... If it has one!",
+        "target": "one",
+        "options": {
+            "A": "weakness",
+            "B": "prisoners"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 116,
+        "text": "Compared to the bands' debut, this release features a refined sound. Attributed to experience and having spent almost three months on production, vocalist Matt Morginsky joked that \"we play in tempo and in tune on this one!\" The music contains harder guitars and begins to show diverse influences, like surf and R&B.",
+        "target": "one",
+        "options": {
+            "A": "release",
+            "B": "tune"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 117,
+        "text": "(The Variations on a Rococo Theme for cello and orchestra, which Wiley suggests by Tchaikovsky's use of the word Rococo in the title is his \"first nominal gesture toward 18th century music,\" is in fact a near-contemporary of the symphony.) Musicologist Richard Taruskin made a similar statement by calling the Third Symphony “the first 'typical' [Tchaikovsky] symphony (and the first Mozartean one!) in the sense that it is the first to be thoroughly dominated by the dance.\"",
+        "target": "one",
+        "options": {
+            "A": "symphony",
+            "B": " statement"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 118,
+        "text": "Talaash: The Answer Lies Within is not a flawless film, but it is a fascinating tale that compels one to look beyond that which is evident. You can’t miss this one! Saibal Chatterjee Of NDTV rated the film 3.5 out of 5 stars, noting By no means is Talaash: The Answer Lies Withinthe end of your search for the perfect whodunit.",
+        "target": "one",
+        "options": {
+            "A": "film",
+            "B": "tale"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 119,
+        "text": "At the beginning of the song, when the Commander tells the kids, \"it's time to sing that song we learned today\", the children all shout in unison, \"Sell Out!\", to which the Commander replies, \"No, not that song, the other one!\" The song appeared on Take Warning, an Operation Ivy tribute album which also included a cover of \"Unity\" by Reel Big Fish.",
+        "target": "one",
+        "options": {
+            "A": "song",
+            "B": "Commander"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 120,
+        "text": "The initial version of the \"March of the Soviet Youth\" contained the following words: \"Our youth carry love for their Great Leader in their hearts! Stalin is leading us into the future! The path he has chosen for us is the right one!\" After Nikita Khrushchev's \"de-Stalinization\" campaign in 1956, these words were duly replaced.",
+        "target": "one",
+        "options": {
+            "A": "path",
+            "B": "future"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 121,
+        "text": "He is the world's principal exponent of Gospel Magic, that is, the use of magic for cathetical purposes. Silvio Mantelli presented a magic wand to the Pope John Paul II in 2002 and petitioned the Pope to proclaim St. Don Bosco the Patron of Stage Magicians to which the Pope responded \"You'll need a lot of magic wands to change our world; but let's make a start with this one!\"",
+        "target": "one",
+        "options": {
+            "A": "magic wands",
+            "B": "world"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 122,
+        "text": "In the final scene, where Moe and Larry were breaking rocks over Curly's head, Larry picks up what seems to be a rather heavy rock. Curly notices the rock and replies, \"Hey, wait a minute! That's a real one! I'm no fool.\" Curly then chuckles, while Larry and Moe smile. Often regarded as an unscripted moment, it was later determined that exchange was scripted in advance, as it appeared in director Jules White's final shooting script.",
+        "target": "one",
+        "options": {
+            "A": "rock",
+            "B": "minute"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 123,
+        "text": "So it was quite a jigsaw puzzle to edit. It was a solvable problem, but it was not like any other film I’ve ever made, and I don’t think I’ve ever made a film as fast as this one! Even my first picture, which was made in 10 days, was a breeze compared to this, because it was so labour intensive.",
+        "target": "one",
+        "options": {
+            "A": "film",
+            "B": "problem"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 124,
+        "text": "By refusing to carry out Ceaușescu's orders (he was still technically commander-in-chief of the army), Stănculescu played a central role in the overthrow of the dictatorship. \"I had the prospect of two execution squads: Ceaușescu's and the revolutionary one!\" confessed Stănculescu later. In the afternoon, Stănculescu \"chose\" Ion Iliescu's political group from among others that were striving for power in the aftermath of the recent events.",
+        "target": "one",
+        "options": {
+            "A": "execution squads",
+            "B": "dictatorship"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 125,
+        "text": "SJean Lorrain praised L'Animale (1893) purely for its grand depravity. Jules Barbey d’Aurevilly is said to have declared, \"A pornographer, yes, she is, but such a distinguished one!\" (This might have been in response to Monsieur Vénus, a defense of her in polite company, or a remark upon first meeting her.) Paul Verlaine congratulated her on the creativity of her perversion: \"Ah! My dear child, if you've invented an extra vice, you'll be a benefactor of humanity!\"",
+        "target": "one",
+        "options": {
+            "A": "pornographer",
+            "B": "depravity"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 126,
+        "text": "Felix had an incident with future hall of famer Bill Russell in Russell's rookie season, when after Russell felt Felix had been trying to intimidate him, he knocked Felix unconscious with a punch to the head.Toward the end of his career, after having several of his shots blocked by Russell, Felix took the ball then flung it off the side of the backboard, saying to Russell, smiling, \"You didn't get that one!\"",
+        "target": "one",
+        "options": {
+            "A": "ball",
+            "B": "backboard"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 127,
+        "text": "Steve Barton of Dread Central wrote \"Danny Trejo and Vinnie Jones. If ever there were a magic pairing of violence and machismo in cinema, this is it. Putting these two together is a no-brainer, and now thanks to this new film, appropriately titled Reaper, that’s just what we’re getting!\". Ryan Miller of JoBlo.com wrote: \" We can't possibly ignore the fact that two of cinemas most badass mother f*ckers will be sharing the screen together now can we!\" Matt Wavish of Horror Cult Films wrote: \"Now here is a damn fine paring (sic) up of movie hardmen if ever there was one!\"",
+        "target": "one",
+        "options": {
+            "A": "paring (sic) up of movie hardmen",
+            "B": "Horror Cult Films"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 128,
+        "text": "Millions of television viewers saw an orange, brown, and white version of Five, one of Indiana's 1965 Numbers series, featured in an episode of The Mary Tyler Moore Show during the 1971–1972 season, in which Rhoda Morgenstern redecorates Lou Grant's dated living room. Lou, evidently not a fan of pop art, complains to Mary, \"I bet she went through four other paintings before choosing this one!\"",
+        "target": "one",
+        "options": {
+            "A": "paintings",
+            "B": "pop art"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 129,
+        "text": "In March 1969, Judy Garland held the wedding reception for her marriage to Mickey Deans, her fifth, at Quaglino's. The reception was reported to have been poorly attended, with more waiters than guests; even Garland's daughter Liza Minnelli failed to attend, saying \"I can't make it Mamma but I promise I'll come to your next one!\".",
+        "target": "one",
+        "options": {
+            "A": "reception",
+            "B": "daughter"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 130,
+        "text": "The social priorities did not, despite the revolutionary nature of the government, include any meaningful attempt to reform the social order. Cromwell declared, \"A nobleman, a gentleman, a yeoman; the distinction of these: that is a good interest of the nation, and a great one!\" Small-scale reform such as that carried out on the judicial system were outweighed by attempts to restore order to English politics.",
+        "target": "one",
+        "options": {
+            "A": "interest",
+            "B": "nation"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 131,
+        "text": "Swansea's Home Front magazine wrote, \"Renaissance is really superb. Tracks include 'Casta Diva' [from the opera Norma], 'Pie Jesu,' 'Clair de Lune', and Stephen Sondheim's 'Send in the Clowns'.... If you only buy one classical album, buy this one!\" The Opera Babes' 2006 \"Renaissance\" concert toured songs from both of their albums performed with multi-media special effects and visuals, as well as dancers costumed by designer Elizabeth Emanuel.",
+        "target": "one",
+        "options": {
+            "A": "classical album",
+            "B": "Tracks"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 132,
+        "text": "Stung by his words, the three older writers hypothesize what would happen should a real-life murder be committed as it is in their books, with outré touches and cryptic clues. Conceivably, it would spark a renaissance of \"Golden Age\" whodunits—perhaps even motivate people to buy their books again. Fired with enthusiasm at the prospect, they resolve to turn their hypothesis into reality: instead of merely writing a fictional murder, they'll commit a real one!",
+        "target": "one",
+        "options": {
+            "A": "murder",
+            "B": "reality"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 133,
+        "text": "When Dan, Troll and Amanda’s camping excursion is threatened by Iron Bay’s voracious stinging insects, Dan thinks he has the solution: a bug spray package. Unfortunately, the spray doesn’t just repel insects – it also turns you into one! Dan and Amanda are transformed and drawn to the glowing lighthouse, where Copernicus’s flypaper traps them. It’s up to Troll solo to get the antidote before Copernicus can spray the whole town.",
+        "target": "one",
+        "options": {
+            "A": "insects",
+            "B": "spray"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 134,
+        "text": "Faith married New Zealand chef Rian Haynes in 2005, though they separated after eight months and were divorced in 2009. She later said of the marriage, \"It was just a young, frivolous thing. We were in our early twenties and we did something quickly and realised it was a mistake. But we're still close. I am still friends with him. All my other relationships were the ones that screwed me up, not that one!\"",
+        "target": "ones",
+        "options": {
+            "A": "relationships",
+            "B": "friends"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 135,
+        "text": "Faith married New Zealand chef Rian Haynes in 2005, though they separated after eight months and were divorced in 2009. She later said of the marriage, \"It was just a young, frivolous thing. We were in our early twenties and we did something quickly and realised it was a mistake. But we're still close. I am still friends with him. All my other relationships were the ones that screwed me up, not that one!\"",
+        "target": "one",
+        "options": {
+            "A": "relationships",
+            "B": "friends"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 136,
+        "text": "The anime character that [Kōji Moromoto] made for the music video is of a girl that he made to really look like me. When I first looked at it, Mr. Morimoto kept drawing girl's faces that I thought looked different from my own, but on the way he must have changed it. I got an explanation out of him, and he said that he only noticed it that moment. I mean, I don't think I'm cute, but I thought he made my image into a really cute one! ... I was really happy about it though!",
+        "target": "one",
+        "options": {
+            "A": "image",
+            "B": "moment "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 137,
+        "text": "Anupama Subramanian from Deccan Chronicle gave the film 3/5 stars, while labelling it as a \"feel-good film with a larger message and a brilliant feat by Vijay which makes the film a not-to-be-missed one!\" Venkateswaran Narayanan from Times of India noted several anachronisms in the film (such as YouTube being used in 2002 when it was actually launched in 2005) but wrote: \"Such minor cribbing apart, all is well with Nanban because Shankar's retelling of 3 Idiots retains its soul and has its heart in the right place\".",
+        "target": "one",
+        "options": {
+            "A": "film",
+            "B": "feat"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 138,
+        "text": "In 1999, Merle Brown from the Daily Record expressed her dislike of the new version sung by Norton and Stapleton, saying \"all I want to say about Neighbours is where did they get that new theme tune? Unbelievably it's worse than the original one!\" Fans of the show disliked the version of the theme tune introduced in 2013. Ben Pobjie from The Age also disliked that version, saying Barry Crocker must be scandalised. His beloved and iconic interpretation of the theme to Neighbours has been mauled beyond all recognition.",
+        "target": "one",
+        "options": {
+            "A": "theme tune",
+            "B": "new version"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 139,
+        "text": "One of the Canadian Indians, hearing the name of Stoner, pulled out his scalping knife and boasted of the nine notches indicating scalps taken during the Revolution. He pointed to one, cut deeper than the others, and said that this \"was the scalp of old Stoner!\" (Nicholas' father) Hearing this Stoner grabbed a red-hot andiron and threw it at the Indian, yelling \"You never will scalp another one!\" The iron burned a brand across the Indian's neck and knocked him unconscious, at the cost of severe burns to Stoner's own hand.",
+        "target": "one",
+        "options": {
+            "A": "scalp ",
+            "B": "andiron"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 140,
+        "text": "It is something that you will want to put on when you're in the mood to lie on your couch, dim the lights, and light all your candles and incense. Just vibe out to this hypnotic variety of music, and enjoy the pictures that will be painted in your mind. This is a very visual record, so for sure the visuals will come. Don't be surprised if it triggers some deep emotions within you based on your own life situations. Either way, enjoy the ride, it's a beautiful one!!",
+        "target": "one",
+        "options": {
+            "A": "ride",
+            "B": "situations"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 141,
+        "text": "The Japanese magazine Famitsu gave it a score of 28 out of 40. The game received some praise and criticism in the August 1991 issue of German magazine Power Play. The review praised the game for its attention to detail and challenge and noted players need to master certain gameplay skills to move on. Criticisms included a \"lack of variety\" and dullness in gameplay which was compared to a \"visit to the tax office\". The PC Engine version was briefly mentioned in the December 1991 issue of Electronic Gaming Monthly as part of a review of games that had been released outside the U.S. They noted the faithful translation from the NES version as well as the revamped and more detailed graphics, saying \"PC Engine owners should not miss this one!\"",
+        "target": "one",
+        "options": {
+            "A": "game",
+            "B": "owners"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 142,
+        "text": "In March 1992, Ninja Gaiden III received three nominations in the \"Nintendo Power Awards '91\" in the following NES-related categories: \"Best Graphics and Sound\", \"Best Challenge\", and \"Best Overall\". It won in the \"Best Challenge\" category; the magazine commented that \"the game-playing public knows a challenging game when they see one!\" It placed second in the \"Best Graphics and Sound\" category, finishing behind Battletoads for the top spot. It was the ranked as the third \"Best Overall\" NES title for 1991, finishing close behind Tecmo Super Bowl.",
+        "target": "one",
+        "options": {
+            "A": "challenging game",
+            "B": "public"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 143,
+        "text": "Changes announced include a new taste (\"extensively researched with consumers\"), a larger 500 mL can, and a change of packaging colour from aluminium to black and red, the colour of the drink from yellow to green, along with a A$3 million marketing campaign. The primary focus of both the campaign and the new packaging is the reformulated taste of the drink, proclaimed on the packaging as 'New - tastes nothing like the old one!'.",
+        "target": "one",
+        "options": {
+            "A": "packaging",
+            "B": "taste"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 144,
+        "text": "Shot largely with a handheld camera (dubbed 'Otto' by Young), Muddy Track documents a difficult tour of Europe, plagued by poor weather, dwindling ticket sales, backstage arguments and audience riots. In an interview with MOJO in 1995 Young claimed that Muddy Track was among the favourite of all his films: \"It’s dark as hell. God, it’s a heavy one! [...] But it’s funky\".",
+        "target": "one",
+        "options": {
+            "A": "hell",
+            "B": "films"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 145,
+        "text": "Archbishop Manning in the chair was flanked by two Protestant bishops right and left; on my right was Hutton, editor of the Spectator, an Arian; then came Father Dalgairns, a very able Roman Catholic priest; opposite him Lord A. Russell, a Deist; then two Scotch metaphysical writers, Freethinkers; then Knowles, the very broad editor of the Contemporary; then, dressed as a layman and looking like a country squire, was Ward, formerly Rev. Ward, and earliest of the perverts to Rome; then Greg, author of The Creed of Christendom, a Deist; then Froude, the historian, once a deacon in our Church, now a Deist; then Roden Noël, an actual Atheist and red republican, and looking very like one! Lastly Ruskin, who read a paper on miracles, which we discussed for an hour and a half!",
+        "target": "one",
+        "options": {
+            "A": "deacon in our Church",
+            "B": "actual Atheist and red republican"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 146,
+        "text": "At the entrance to the Legislative Assembly of the State of Acre (ALEAC) there is a statue of Gálvez and behind him the flag of the Independent State of Acre. In it, it is written “If the Homeland does not want us, we create another one! Long live the Independent State of Acre!”, A phrase that was uttered by Galvez on 14 July 1899 , during the declaration of the Republic of Acre to the population that lived there.",
+        "target": "one",
+        "options": {
+            "A": "flag",
+            "B": "Homeland"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 147,
+        "text": "On the song's release day, Keys tweeted: \"You have your roller skates ready? I’ve been dying for you to hear this one!!\". In an interview with Entertainment Weekly, Keys described the song as \"a zone — it's such a vibration and frequency that you can't help but just feel good”.",
+        "target": "one",
+        "options": {
+            "A": "skates",
+            "B": "song"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 148,
+        "text": "According to Comic book Roundup, Issue 49 received an Average review of 7.5 out of 10 based on 13 reviews. Jimmy Hayes from Comic Watch wrote \"An issue that's truly worthy of its epic numbering (#850). You're gonna have a great time reading this one!!\"",
+        "target": "one",
+        "options": {
+            "A": "time ",
+            "B": "issue"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 149,
+        "text": "When Berg's new opera Lulu was banned as Entartete Musik (degenerate music) Kleiber resigned from his post at the State Opera. He was outraged when Berg – a close friend – assumed that he had joined or would join the Nazi Party to safeguard his career. He wrote to Berg, \"I was never a member of the NSDAP – and never had any intention of becoming one!!! Despite several requests!\"",
+        "target": "one",
+        "options": {
+            "A": "intention",
+            "B": "member of the NSDAP"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 150,
+        "text": "I'm calling the record The Best Dam Thing, and the first single is called \"Girlfriend\", the single comes out February and the record in April. I promise you guys will love this record, it is my favorite one!!! And I can't wait! It is really fast, fun, young, bratty, aggressive, confident, cocky in a playful way [...] all the good stuff.",
+        "target": "one",
+        "options": {
+            "A": "guys",
+            "B": "record"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 151,
+        "text": "Varney also starred as Ernest in a series of commercials that ran in the New Orleans area (and throughout the Gulf South) as a spokesman for natural gas utilities. In one, he is seen kneeling down in front of Vern's desk under a lamp hanging from the ceiling, stating, \"Natural gas, Vern; it's hot, fast, and cheap. Hot, fast, cheap; kinda like your first wife, Vern, you know, the pretty one!?\" Vern then knocks the lamp into Ernest's head, knocking him down.",
+        "target": "one",
+        "options": {
+            "A": "gas",
+            "B": "wife"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 152,
+        "text": "The Nintendo DS version of 101-in-1 Explosive Megamix received mixed to negative reviews. Lukasz Balicki of Nintendo World Report game the game a 3/10 and commented \"101-in-1 Explosive Megamix is the definitive bad budget title. Some of the mini-games are remotely fun, but others feel like a chore. With so many poor and forgettable games on the compilation, it's hard to recommend this one\". Dan Pearson of Eurogamer gave the game a 4/10 and stated \"There is so little replay potential here, so little urge to top high scores or perfect shoddy make-do attempts, that completing each task feels more of a relief than an achievement.\"",
+        "target": "one",
+        "options": {
+            "A": "compilation",
+            "B": "game"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 153,
+        "text": "Jonathan Broxton of Movie Music UK gave a favourable review and called the score an \"unconventional one\". He also praised Rahman for his ability to score in multiple genres. Director Shekhar Kapur, after a special screening of the movie, commented through Twitter that \"Rahman's score adds depth to Danny Boyle's deft and energetic direction in 127 hours. Rahman certainly deserves another Oscar for 127 hours, Danny Boyle and Rahman are proving to be a great combination.\"",
+        "target": "one",
+        "options": {
+            "A": "review",
+            "B": "score"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 154,
+        "text": "The chapter is a meditation on how to maintain a watchful eye on, and cherish, life's small redeemable qualities (i.e., to \"pet a cat when you encounter one\"). It also outlines a practical way to deal with hardship: to shorten one's temporal scope of responsibility (e.g., focusing on the next minute rather than the next three months).",
+        "target": "one",
+        "options": {
+            "A": "qualities",
+            "B": "cat"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 155,
+        "text": "In neighboring Austria-Hungary, the Romanian-language newspaper Telegrafulu Romanu noted during the late stages of the tally that, in the Second College, \"of 33 senators only 10 are old ones\" (as in: incumbents or senior senators); in the First College, \"it would appear [...] that incumbents from the previous senate are in the minority.\" The few solid wins for the \"Whites\" included Ilfov's First College, which went to the arch-conservative Ioan Manu. He defeated Nicolae Nicolescu 39 votes to 8(other counts have 38 to 10).",
+        "target": "ones",
+        "options": {
+            "A": "stages",
+            "B": "senators"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 156,
+        "text": "Angus MacKinnon opened the scoring from a Weir corner before, five minutes later, McNeil ran forward and set up Highet for 2–0. Shortly before full time, Billy McKinnon sealed the win with a fine shot. Edinburgh newspaper The Scotsman reported after the game that the match was \"an exceptionally rough one\" with \"charging which seems to be the speciality of the Renton men\".",
+        "target": "one",
+        "options": {
+            "A": "game ",
+            "B": "match"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 157,
+        "text": "Although there is no record of St. Mary's having any full-time professional players, they were able to attract the best players from the area. William Pickford, the secretary of the Hampshire F.A. (and later the President of the Football Association) writing some years later said: \"It may or may not be that there were \"inducements\", though without doubt the honour of playing with a brilliantly successful side was itself no inconsiderable one\".",
+        "target": "one",
+        "options": {
+            "A": "side",
+            "B": "honour"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 158,
+        "text": "The New South Wales Rugby Union selected 25 players to represent the colony on tour. However according to Sydney's Evening News although \"the names of some really first-class players are included in the team it cannot be called a thoroughly representative one\" due to the absence of a number of players.",
+        "target": "one",
+        "options": {
+            "A": "players",
+            "B": "team"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 159,
+        "text": "During his CBS Radio broadcast in 1996, Vin Scully made another memorable call in the third inning of Game 1, when 19-year-old rookie outfielder Andruw Jones became the first National League player to hit two home runs in his first two at-bats in a World Series. Jones hits this one to left field, wa-a-ay back, the kid has hit another one!",
+        "target": "one",
+        "options": {
+            "A": "at-bats",
+            "B": "home runs "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 160,
+        "text": "Hopkin Morris was an uncompromising adherent of traditional Liberalism. He was unsympathetic to David Lloyd George. As Hopkin Morris said in 1924, \"I am not a follower of Mr Lloyd George and I have no intention of being one\". He voted against Lloyd George being Liberal leader in 1926 and was the only Liberal MP to vote against Lloyd George's re-election as leader in 1929.",
+        "target": "one",
+        "options": {
+            "A": "intention",
+            "B": "a follower of Mr Lloyd George"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 161,
+        "text": "The leader of the Labour Party, the pacifist George Lansbury met with Hitler in April 1937. Also, Lord Halifax, later foreign secretary, visited to do so, at Göring's invitation, the following month. Halifax's trip was \"ostensibly ... a social one\",but it was also an opportunity for the British government to initiate talks with Hitler, according to the modern historian Lois G. Schwoerer.",
+        "target": "one",
+        "options": {
+            "A": "invitation",
+            "B": "trip"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 162,
+        "text": "George VI is said to have been horrified by his brother's entry into European political affairs at such a delicate time. George wrote to Edward's political advisor, Walter Monckton, that the Duke's plan was \"a bombshell, and a bad one\". George took particular umbrage because on abdication, Edward had said that he intended to avoid public appearances. The royal biographer Sarah Bradford suggests that the visit indicated that Windsor had no intention of retiring: rather, he intended to behave independently of the King's and the government's wishes.",
+        "target": "one",
+        "options": {
+            "A": "bombshell",
+            "B": "plan"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 163,
+        "text": "During his CBS Radio broadcast in 1996, Vin Scully made another memorable call in the third inning of Game 1, when 19-year-old rookie outfielder Andruw Jones became the first National League player to hit two home runs in his first two at-bats in a World Series. Jones hits this one to left field, wa-a-ay back, the kid has hit another one!",
+        "target": "one",
+        "options": {
+            "A": "at-bats",
+            "B": "home runs"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 164,
+        "text": "After Iowa missed a field goal attempt to bring the game within 6, Michigan State would add yet another field goal to their score on their next possession, with Michael Geiger converting his fourth field goal attempt, this one going for 45 yards. The score was now 26–14 Michigan State.",
+        "target": "one",
+        "options": {
+            "A": "possession",
+            "B": "field goal"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 165,
+        "text": "Colonel Alparslan Türkeş was among the officers who led the coup. He was a member of the junta(National Unity Committee) and had been among the first 16 officers trained by the United States in 1948 to form a stay-behind counter-guerrilla. As such, he explicitly stated his anticommunism and his faith and allegiance to NATO and CENTO in his short address to nation, but he remained vague on the reasons of the coup. On the morning of May 27, Türkeş declared the coup over radio, which ultimately announced \"the end of one period in Turkish history, and usher in a new one\"",
+        "target": "one",
+        "options": {
+            "A": "coup",
+            "B": "period in Turkish history"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 166,
+        "text": "The exhausted Meredith, in an emotion-choked voice, expressed pride in his teammates' play, and said, in a figurative sense, that he felt the Cowboys did not really lose the game because the effort expended was its own reward. Gifford wrote that the interview attracted considerable attention, and that Meredith's forthcoming and introspective responses played a part in his selection for ABC's Monday Night Football telecasts three years later. Defensive tackle Bob Lilly took a different view, telling reporters that the Cowboys were a great team except that they could not win the \"big one\". Wide receiver Lance Rentzel later remarked that on the team plane home from Green Bay to Dallas' Love Field, \"not one word was spoken the entire flight.\"",
+        "target": "one",
+        "options": {
+            "A": "team",
+            "B": "game"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 167,
+        "text": "While the relay was largely successful it was marred by problems when exchanging the flame from one torch to another. Runners in Barcelona and Medinaceli were burned by small explosions as a lit torch came into contact with an unlit one.",
+        "target": "one",
+        "options": {
+            "A": "contact",
+            "B": "torch"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 168,
+        "text": "The torch used as a fuel source a compressed mix of nitrates, sulphur, alkaline metal carbonates, resins and silicones. It burned with a red-yellow flame. Problems with the torch occurred in Barcelona and then again in Medinaceli which saw minor explosions burn some torch-bearers. The cause was investigated and then attributed to \"the too-rapid contact of a lighted torch with an unlighted one\". Precautions were put in place to prevent further incidents.",
+        "target": "one",
+        "options": {
+            "A": "cause",
+            "B": "torch"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 169,
+        "text": "The New York Jets were said to have offered their fourth-overall draft pick, plus any player on their roster other than Richard Todd. Tight end was considered to be the Buccaneers’ single greatest need, with Ken MacAfee of Notre Dame often mentioned as a likely draft target. According to Don Shula, \"With John McKay's type of offense, an outstanding tight end is absolutely essential. It cannot go without one\". This happened to be one of the positions hit hardest by injury in 1977.",
+        "target": "one",
+        "options": {
+            "A": "an outstanding tight end ",
+            "B": "John McKay's type of offense"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 170,
+        "text": "Later protests by Mexico against the re-dive and by East Germany that their Falk Hoffmann wanted to re-dive after allegedly being disturbed by photographic flashlights were both turned down by FINA. FINA President Javier Ostas stated that the decision taken by the Swedish referee was the \"correct one\". FINA assessed all the Olympic diving events and considers the judging to have been objective. Portnov remained the winner, with Giron taking silver and Cagnatto of Italy bronze.",
+        "target": "one",
+        "options": {
+            "A": "decision",
+            "B": "referee"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 171,
+        "text": "Police noted before election day that \"there hasn’t been an election campaign in Israel as violent as the present one\". A reason for the violence may have been that this was the first elections in which the public believed both sides had a chance of winning, causing unrest and agitation.",
+        "target": "one",
+        "options": {
+            "A": "election campaign",
+            "B": "day"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 172,
+        "text": "The final version of \"1984\" was faster and funkier than the medley and, as described by Bowie encyclopedist Nicholas Pegg, \"an obvious single if there ever was one\". However, it was released as a single (PB 10026) only in America, Japan and New Zealand, where it failed to chart. The track generally opened the Diamond Dogs concerts in 1974 but was not performed live after the soul tour in 1975.",
+        "target": "one",
+        "options": {
+            "A": "an obvious single ",
+            "B": "Bowie encyclopedist"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 173,
+        "text": "An article in the American Journal of International Law argued in 1987 that \"the course of the American warships indicated on a map published in Izvestiia confirms that the passage of the vessels was a lateral one\" and that \"at no time did they take a course that could be construed as expressing an intention to enter the internal waters or ports of the USSR\".",
+        "target": "one",
+        "options": {
+            "A": "passage of the vessels ",
+            "B": "the American warships"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 174,
+        "text": "Farooq Abdullah was elected Chief Minister and formed a coalition government. However, the Government lacked legitimacy in the eyes of the people in the Valley. Rebels branded the election as a \"thoroughly made one\". The Valley sank into a \"morass of frustration and radicalisation\", states scholar Sumantra Bose.",
+        "target": "one",
+        "options": {
+            "A": "election",
+            "B": "Valley"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 175,
+        "text": "This was the third straight season that the Cowboys and 49ers met in the NFC Championship Game, with Dallas winning the first two conference title games. San Francisco quarterback Steve Young still faced the pressure of \"never being able to win the big ones\", while Dallas quarterback Troy Aikman entered the game with a 7–0 win–loss record as a starter in the playoffs.",
+        "target": "ones",
+        "options": {
+            "A": "games",
+            "B": "pressure"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 176,
+        "text": "He speaks, \"as in Romans 4:1, from his national consciousness, which was shared in by his Jewish readers, and well understood by his Gentile ones\". Paul emphasises that all of \"our fathers\" had the blessing of the divine presence: πάντες (pantes, \"all\") has strong emphasis, and is repeated four times.",
+        "target": "ones",
+        "options": {
+            "A": "readers",
+            "B": "consciousness"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 177,
+        "text": "The top three drivers appeared on the podium to collect their trophies and spoke to the media in a later press conference. Michael Schumacher called his battle with Montoya \"an interesting one\" and \"a bit back and forward\", adding \"I think as well that the tyres played a little bit of a role in that; initially I struggled to get the temperature in where these guys seemed to get faster on top of temperatures but then it went the other way around, their tyres went off and my one came in so I had a nice chance to battle a little bit and finally got first position for us, which was ideal.\"",
+        "target": "one",
+        "options": {
+            "A": "battle",
+            "B": "conference"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 178,
+        "text": "The song has been described as psychedelic rock, psychedelic soul and acid rock, and features a fuzz guitar twinned with a clean one. Various other effects were employed in its recording and production, including the alternate striking of two cow bells producing a \"tick-tock\" sound, warped throughout most of the song by reverb, echo and changes in tempo.",
+        "target": "one",
+        "options": {
+            "A": "guitar",
+            "B": "rock"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 179,
+        "text": "That charge of dishonesty led to intensifying calls for Ryan's withdrawal, though Topinka, who was considering running herself, said after the June 25 withdrawal that Ryan's \"decision was a personal one\" and that the state GOP had not pressured Ryan to drop out. Ryan's campaign ended less than a week after the custody records were opened, and Ryan officially filed the documentation to withdraw on July 29, 2004. Obama was left without an opponent.",
+        "target": "one",
+        "options": {
+            "A": "decision",
+            "B": "withdrawal"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 180,
+        "text": "When the player reaches the correct time period, the player must then fight through the end of the level and defeat the level boss to rescue the captured soldier. Unlimited continues are available on all levels except the last one. In the Sega Master System port however, continues are limited to three continues per player.",
+        "target": "one",
+        "options": {
+            "A": "levels",
+            "B": "continues"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 181,
+        "text": "The Labour Party obtained a result that brought it back into the position of \"the largest Norwegian party, not just the largest of many middle-sized ones\". The Progress Party obtained its best result ever, surpassing the Conservatives by a large margin and becoming almost as large as the parties in the Bondevik government combined.",
+        "target": "ones",
+        "options": {
+            "A": "Norwegian party",
+            "B": "position"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 182,
+        "text": "Sahawa supporters accused the IIP of adding 100,000 fraudulent ballot papers and threatened a violent reaction if it was confirmed. Sheikh Ahmed Abu Risha threatened to \"transfer our entity from a political to a military one\" and \"to fight the Islamic Party and the [Electoral] commission\". The IIP condemned the threats of violence saying this behaviour would \"take us back to the Middle Ages\"",
+        "target": "one",
+        "options": {
+            "A": "entity",
+            "B": "reaction"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 183,
+        "text": "Another leader, Mohammad al-Hindi, called for an end to the Palestinian Authority, and said, \"Jihad is the fate of this nation. There is no other option but this one\". Other Islamic Jihad officials said the turnout was a \"referendum by the Palestinian people rejecting peace-making with Israel.\"",
+        "target": "one",
+        "options": {
+            "A": "option",
+            "B": "nation"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 184,
+        "text": "Faced with criticism over the morality of hosting a race in a developing nation, Mercedes GP team principal Ross Brawn praised the circuit, describing the decision to host a race in India as \"the right one\" and pointing out the benefits the sport would bring to the country. Brawn also relayed the positive response to the circuit layout from teams and drivers.",
+        "target": "one",
+        "options": {
+            "A": "decision",
+            "B": "race"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 185,
+        "text": "Outgoing Scottish Conservative leader Annabel Goldie also offered congratulations, stating her confidence that \"[Davidson] is more than equal\" to challenging Alex Salmond.\" Murdo Fraser conceded defeat, saying he was \"disappointed that I was not able to persuade more of our members that my vision for the future is the correct one\", but pledged to support Davidson as leader.",
+        "target": "one",
+        "options": {
+            "A": "vision ",
+            "B": "future"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 186,
+        "text": "A spokesman for Clarke denied this, but bookmaker Ladbrokes paid out on bets at 16/1 that Clarke would drop off during the speech. Robert Peston, the BBC's business editor, suggested that the Chancellor would be seen to have chosen \"a principled Budget rather than a crowd-pleasing one\". The Confederation of British Industry and other business groups welcomed the Budget, saying that it would create jobs.",
+        "target": "one",
+        "options": {
+            "A": "Budget",
+            "B": "Chancellor"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 187,
+        "text": "Davis, the winning manager, recalled his chairman's instruction after taking over in November 2011: \"Get us out of the bottom six. Just get us safe.\" His counterpart Yates was proud of his side: \"They've been brilliant ... Today was just one step too far.\" Speaking of Powell's goal, he said: \"It was a wonder strike from a prodigious talent and we couldn't do much about that one\". Powell signed for Manchester United two weeks after the final. The defeat was Cheltenham's first in the play-offs, having won five and drawn three of their previous post-season matches.",
+        "target": "one",
+        "options": {
+            "A": "wonder strike",
+            "B": "prodigious talent"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 188,
+        "text": "In mechanical time clocks, this was accomplished by inserting a heavy paper card, called a time card, into a slot on the time clock. When the time card hit a contact at the rear of the slot, the machine would print day and time information (a timestamp) on the card. One or more time cards could serve as a timesheet or provide the data to fill one. This allowed a timekeeper to have an official record of the hours an employee worked to calculate the pay owed an employee.",
+        "target": "one",
+        "options": {
+            "A": "timesheet",
+            "B": "data"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 189,
+        "text": "That day, talking about a possible solution of the conflict, Hovannisian also stated that the solution \"should be a complex, integral, immediate and guaranteed\" one \"that I will be able to report to the people to end this standoff.\" His request to put up a tent was rejected by the police.",
+        "target": "one",
+        "options": {
+            "A": "solution",
+            "B": "conflict"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 190,
+        "text": "We are not the answer to all problems and we are definitely not the reason for such a crisis. We are just part of what Brazil is doing for the next 20 years....the light FIFA is being shown in here, is the wrong one. He also reaffirmed that the protests had not caused FIFA to consider moving the 2014 World Cup away from Brazil.",
+        "target": "one",
+        "options": {
+            "A": "light",
+            "B": "years"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 191,
+        "text": "Sidya Touré of the Union of Republican Forces, an opposition party, denounced the decision as \"a political delay, not a technical one\"; he also claimed that the government was unwilling to finance CENI and was inhibiting CENI's work. Touré warned against any further delay, saying that it would \"lead to further despair and fresh protests\".",
+        "target": "one",
+        "options": {
+            "A": "delay",
+            "B": "decision"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 192,
+        "text": "Italian Deputy Prime Minister Angelino Alfano stated that the incident highlighted the need for European assistance to handle the continuing influx of refugees, declaring the shipwreck \"a European tragedy, not just an Italian one[...] The toll is unfortunately a tragic one\". A national day of mourning was also announced in Italy.",
+        "target": "one",
+        "options": {
+            "A": "tragedy",
+            "B": "shipwreck"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 193,
+        "text": "Italian Deputy Prime Minister Angelino Alfano stated that the incident highlighted the need for European assistance to handle the continuing influx of refugees, declaring the shipwreck \"a European tragedy, not just an Italian one[...] The toll is unfortunately a tragic one\". A national day of mourning was also announced in Italy.",
+        "target": "one",
+        "options": {
+            "A": "toll ",
+            "B": "shipwreck"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 194,
+        "text": "In the 4th quarter, with it only being a 6-point game, Mark Dantonio called a fake punt on 4th and 4 as punter Mike Sadler ran for 25 yards to the Iowa 38 yard line to pick up the first down. As with most Spartan trick plays, coach Dantonio coined this one \"Hey diddle, diddle, send Sadler up the middle\". Michigan State would add another field goal, as Michael Geiger made his 3rd kick of the day, this time from 49 yards, to make the score 23–14.",
+        "target": "one",
+        "options": {
+            "A": "Spartan trick plays",
+            "B": "coach"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 195,
+        "text": "It is perhaps the easiest to understand TDI devices by contrast with more well-known types of CCD sensors. The best known is the staring array one. In it, there are hundreds or thousands of adjacent rows of specially engineered semiconductor which react to light by accumulating charge, and slightly separated in depth from it by insulation, a tightly spaced array of gate electrodes, whose electric field can be used to drive the accumulated charge around in a predictable and almost lossless fashion.",
+        "target": "one",
+        "options": {
+            "A": "sensors",
+            "B": "devices"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 196,
+        "text": "Then, the readout speed from the sensor is adjusted so that the charge packets in the imaging plane track the object, accumulating charge over time. This is effectively the same as spinning the spacecraft or other platform to match the viewing angle towards an object; it yields time integration in the digital domain, instead of the physical one. Physical tracking and superimposition of images can be applied in addition, as more traditional forms of TDI.",
+        "target": "one",
+        "options": {
+            "A": "domain",
+            "B": "integration"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 197,
+        "text": "It follows Secretary-General Ban Ki-moon's comments four days earlier expressing regret over a failure to elect a new president and calling for a new one \"without delay.\" Similarly, the International Support Group for Lebanon (ISGL) called for strong work amongst national leaders to quickly elect a new president, while also saying the Tammam Salam government needed to remain functional.",
+        "target": "one",
+        "options": {
+            "A": "president",
+            "B": "failure"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 198,
+        "text": "U.N. Special Coordinator for Lebanon Derek Plumbly said: \"We underline again that there is no international impediment to [holding the presidential election]. On the contrary, while the process must remain a purely Lebanese one, Lebanon’s friends within the international community stand ready to offer Lebanon every possible encouragement and support at this time.\"",
+        "target": "one",
+        "options": {
+            "A": "process",
+            "B": "election "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 199,
+        "text": "In victory lane, Johnson stated that the result said \"a lot of good things\" and he was \"just so excited that the guys could understand...so, this new team could understand what I was complaining about and things I didn't like about my race car\". Harvick explained that he \"had one bad restart there where I spun the tires on the outside and we just never recovered from that one\" but stated that he had \"to thank everybody on this car for everything they do\".",
+        "target": "one",
+        "options": {
+            "A": "bad restart",
+            "B": "tires"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 200,
+        "text": "President François Hollande called the plane incident \"a serious one\" and said that Turkey is providing information to NATO to investigate the circumstances. He also called for the prevention of any escalation of the situation.",
+        "target": "one",
+        "options": {
+            "A": "incident",
+            "B": "plane"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 201,
+        "text": "The Liberal Democrats said that they would talk first to whichever party won the most seats. They later campaigned on being a stabilising influence should either the Conservatives or Labour fall short of a majority, with the slogan \"We will bring a heart to a Conservative Government and a brain to a Labour one\".",
+        "target": "one",
+        "options": {
+            "A": "Government",
+            "B": "brain"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 202,
+        "text": "Previously on 5 March, Rajoy had staged what was regarded as his first pre-election rally, asking Sánchez to abstain and let his party govern \"as the most-voted one\", but acknowledging that the PSOE was unwilling to \"come to terms\" with him and that he had lost the key support from C's. As a result, political pundits started to point out that the PP was gearing up itself for a new election campaign.",
+        "target": "one",
+        "options": {
+            "A": "party",
+            "B": "pre-election"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 203,
+        "text": "Sectors within the PP deflected making any offer until Sánchez's acceptance to enter into formal talks, while hinting at him not being the best PSOE \"interlocutor\" and preferring another person to negotiate with Rajoy so as to \"stop the recreation, theaters and games\", though it was said that Rajoy would have been willing to have Sánchez as his deputy in a grand coalition scenario. On 11 April, PSOE's spokesperson Antonio Hernando replied to this that \"Mr. Rajoy can save any offer for himself, if he had planned in making one\".",
+        "target": "one",
+        "options": {
+            "A": "any offer",
+            "B": "spokesperson"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 204,
+        "text": "In the last days of the campaign, Viktor Orbán gave numerous interviews to pro-government media to convince people of the importance of voting. On 22 September, he said to Origo.hu that \"if the referendum is valid and conclusive, its consequences are of a different nature, compared to a more stunted one\". He added that \"[opposing] the forced quota is the cause of all of the 3,200 local governments\" and also called 2 October \"3,200 local referendums at the same time\".",
+        "target": "one",
+        "options": {
+            "A": "referendum",
+            "B": "nature"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 205,
+        "text": "Several groups led by Antifa (Anti-Fascist Action) Sacramento and BAMN (By Any Means Necessary) organized a counter protest. BAMN issued a statement saying that \"collective power through mass militant direct action can shut these Nazis down and deal the fascists and white-supremacists a decisive tactical defeat\". Antifa Sacramento stated that \"fighting fascism was not a political duty, but a moral one\", and called for direct action against them.",
+        "target": "one",
+        "options": {
+            "A": "duty",
+            "B": "fascism"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 206,
+        "text": "The CEPR report said the OAS \"provided no evidence to support these statements suggesting that the quick count could be wrong\" and postulated that the irregularities they perceived were instead merely the result of normal geographic voting patterns, noting that \"later-reporting areas are often politically and demographically different from earlier ones\". The CEPR report argued that due to Morales' voter base being in more rural regions, the later-arriving results from peripheral areas were more likely to be in his favor.",
+        "target": "ones",
+        "options": {
+            "A": "reporting areas",
+            "B": "voting patterns"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 207,
+        "text": "The Satanic Temple has threatened to sue the State of Mississippi if the phrase \"In God We Trust\" is included on the flag. Americans United for Separation of Church and State declared the state's actions as trading \"a white nationalist symbol for a Christian nationalist one\". Both the American Humanist Association and Americans United for Separation of Church and State have published their own editorials in disagreement with the use of the phrase on a new flag.",
+        "target": "one",
+        "options": {
+            "A": "symbol",
+            "B": "nationalist "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 208,
+        "text": "Analysts Diego Pereira and Lucila Barbeito of JPMorgan Chase & Co described the new congress as being \"even more antagonistic to the [Vizcarra] government than the previous one\" while Americas Quarterly wrote that the four main right-wing parties of congress – Alliance for Progress, Podemos Perú, Popular Action and Union for Peru – feared Vizcarra's anti-corruption measures on campaign financing, political transparency and the participation of convicted persons in government.",
+        "target": "one",
+        "options": {
+            "A": "congress",
+            "B": "government"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 209,
+        "text": "Attackers directed victims to log into a fake internal Twitter VPN. To bypass two-factor authentication, attackers entered stolen credentials into the real Twitter VPN portal, and \"within seconds of the employees entering their info into the fake one\", asked victims for the two-factor authentication code.",
+        "target": "one",
+        "options": {
+            "A": "Twitter VPN portal",
+            "B": "info"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 210,
+        "text": "However, after examination of the amendments in question, as well as the one discounting previous presidential terms before the amendment enters into force, the Constitutional Court found no contradictions. Some consider the introduction and adoption of the amendments as being a form of self-coup or autocoup as it removed term limits on the Presidency and grants Putin more authority.",
+        "target": "one",
+        "options": {
+            "A": "amendments",
+            "B": "question"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 211,
+        "text": "The delayed implementation was criticized by UCSF scientist and COVID-19 expert Dr. Monica Gandhi who said it had no scientific rationale, while potentially causing harm by suggesting there is \"still a danger when there isn't one\". Isaac Hale, a lecturer of political science at UC Davis, said partisan politics concerning the recall may have been a factor in the decision:",
+        "target": "one",
+        "options": {
+            "A": "a danger",
+            "B": "harm"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 212,
+        "text": "Māori Party co-leader Debbie Ngarewa-Packer was \"cautiously optimistic\" about the budget, praising the government for \"accept[ing] a need to take a targeted approach rather than a universal one\". National Party and Opposition leader Judith Collins said that the Government \"lacks the plan and ambition\" in this budget and that it does not offer \"any direction for getting the country back on track to prosperity\" and that it is \"setting New Zealand up to fail\".",
+        "target": "one",
+        "options": {
+            "A": "approach",
+            "B": "government"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 213,
+        "text": "Warren Martyn and Adrian Wood, the authors of the book I Can't Believe It's a Bigger and Better Updated Unofficial Simpsons Guide, called it \"an untypical episode, and a very good one\", naming the Skinner and Chalmers story as the best. In The A.V. Club, Emily St. James praised the episode: “'22 Short Films” is fundamentally an experiment, an attempt by the series to do something different at a time when coming up with stories must have started to get exhausting.",
+        "target": "one",
+        "options": {
+            "A": "episode",
+            "B": "book"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 214,
+        "text": "John Gray of The Guardian said in his review that it \"masterfully debunked the myths of capitalism\". Sean O'Grady of The Independent argues that 23 Things They Don't Tell You About Capitalism is testament to the ability of economically poorer nations becoming more powerful over time. Writing in the Financial Times, James Crabtree describes the points of Chang's rebuttal as ranging from \"conventional left-wing claims\" to \"counter-intuitive ones\" and highlights the close relationship between the rebuttal points and criticisms following the 2008 financial crisis.",
+        "target": "ones",
+        "options": {
+            "A": "claims",
+            "B": "points"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 215,
+        "text": "In Sauter's article \"Clockwatchers and Stargazers: Time Discipline in Early Modern Berlin\", he argues that time discipline came from the streets, and was part of the rise of \"local knowledge\" as public clocks were used by public event planners. People began to learn where clocks were located and which social groups used which ones. Furthermore, Sauter argues that time discipline is not \"externally imposed\" on people, but \"a standard that is determined by people with specialized knowledge and skills\".",
+        "target": "ones",
+        "options": {
+            "A": "clocks",
+            "B": "groups"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 216,
+        "text": "Crowded House's leader, Neil Finn has indicated that, as the album began life as a solo project, its sound is generally different from Crowded House, though similar in parts, indicating that no one album by the group sounds like this one. As the album is dedicated to Hester and attends to his death, much of the album has a mournful tone, however this has been received well by critics, with some indicating that \"fortunately, Finn is a master at expressing ambiguity, (both) lyrically and musically\".",
+        "target": "one",
+        "options": {
+            "A": "album",
+            "B": "group "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 217,
+        "text": "This is the movie's undoing, but '32 aam adhyayam 23 aam vakyam' is surely a once time enjoyable watch. Muyals.com rated the movie 3.25 out of 5 and stated, \"32aam Adhyayam 23aam Vaakyam stands as a good, as well as unexpected thriller movie; with an above average first half and an unexpected take off to a higher level in the latter half.\" Chandra Mohan Gopinath of Movie Street stated, \"the movie doesn't fall flat but end up as an average one\".",
+        "target": "one",
+        "options": {
+            "A": "movie",
+            "B": "level"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 218,
+        "text": "The photo on the album's cover was shot by Maria Mochnacz in June 1993 while Harvey was touring to support the album Rid of Me. It shows Harvey in lingerie and sunglasses, raising her arm and exposing her natural underarm. The picture was taken at the Watergate, in Washington, D.C. The black-and-white photo that appears on the back of the album (also by Mochnacz) depicts Harvey naked and wrapped in plastic sheeting. When speaking about the picture, Mochnacz remarked \"I suggested Polly was now a product so we wrapped her up like one\".",
+        "target": "one",
+        "options": {
+            "A": "a product ",
+            "B": "the picture"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 219,
+        "text": "In a study, participants consistently provided answers that fit this model when asked about time perception at 1/4 of their age, but were less consistent for 1/2 of their age. Their answers suggest that this model is more accurate than the previous one. A consequence of this model is that the fraction of subjective life remaining is always less than the fraction of real life remaining, but it is always more than one half of real life remaining.",
+        "target": "one",
+        "options": {
+            "A": "model",
+            "B": "answers"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 220,
+        "text": "The German Defence Minister Ursula von der Leyen delivered the opening speech. In her speech, she explained Germany's willingness to assume international leadership responsibilities. It consisted of \"leadership from the centre\", the minister explained, and not one \"with Pickelhaube\" - which could also imply \"fighting together\". Based on German history, von der Leyen derived the commitment of her country to defend human rights but added however that the German population was \"cautious\" on this issue.",
+        "target": "one",
+        "options": {
+            "A": "leadership",
+            "B": "minister"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 221,
+        "text": "It is disputed whether the use of these signatures makes metric relationships clearer or more obscure to the musician; it is always possible to write a passage using non-irrational signatures by specifying a relationship between some note length in the previous bar and some other in the succeeding one. Sometimes, successive metric relationships between bars are so convoluted that the pure use of irrational signatures would quickly render the notation extremely hard to penetrate.",
+        "target": "one",
+        "options": {
+            "A": "bar",
+            "B": "length"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 222,
+        "text": "Aoki also noted that the plot is basically the same as Parasyte. Writing for Anime News Network, Carlo Santos described the manga as a \"modern polish and hard-hitting action\". He also commented that, in the end, \"Hikaru's quest as the Everyday Teenager Who Miraculously Discovers Special Abilities And Must Now Save The World is just like all the other ones\".",
+        "target": "ones",
+        "options": {
+            "A": "quest ",
+            "B": "Abilities"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 223,
+        "text": "In The John W. Campbell Letters, Campbell says, \"The son-of-a-gun gets hold of you in the first paragraph, ties a knot around you, and keeps it tied in every paragraph thereafter—including the ultimate last one\". Harlan Ellison (who had begun reading van Vogt as a teenager) wrote, \"Van was the first writer to shine light on the restricted ways in which I had been taught to view the universe and the human condition\".",
+        "target": "one",
+        "options": {
+            "A": "paragraph",
+            "B": "knot"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 224,
+        "text": "M. R. James praised Burrage's book Some Ghost Stories, saying that the book \"keeps on the right side of the line and, if about half his ghosts are amiable, the rest have their terrors, and no mean ones\". James later included Burrage among a list of contemporary writers who had \"best realized\" the possibilities of the ghost story. E. F. Bleiler has described Burrage's work thus: \"The best stories in Some Ghost Stories and Someone in the Room are intelligent, well crafted and imaginative.\"",
+        "target": "ones",
+        "options": {
+            "A": "ghosts",
+            "B": "terrors"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 225,
+        "text": "According to the show's prop master, this was because Andy and Michael failed to pick up the original waitresses, and settled for \"less attractive ones\". However, at Paley Fest 2007, Greg Daniels admitted that the women they cast were \"too good-looking\", which led to the joke failing since the original script specifically called for Andy and Michael's dates to be unattractive.",
+        "target": "ones",
+        "options": {
+            "A": "waitresses",
+            "B": "master "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 226,
+        "text": "A Cry in the Night was made for Jaguar, Alan Ladd's production company, despite Ladd not appearing in the cast. It was based on the novel All Through the Night by \"Whit Masterson\" (Robert Wade and Bill Miller) which had appeared in Cosmopolitan magazine. The New York Times described it as \"an intensely compact book... and an unusually rich one\" later saying it was one of the best films of the year.",
+        "target": "one",
+        "options": {
+            "A": "book",
+            "B": "magazine"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 227,
+        "text": "In 1807, the LMS instructed Morrison to sail to Guangzhou (then known as \"Canton\") and continue studying until he had \"accomplished [his] great object of acquiring the language\", whereupon he would \"turn this attainment into a direction which may be of extensive use to the world: perhaps you may have the honour of forming a Chinese Dictionary, more comprehensive and correct than any preceding one\", as well as translating the Bible into Chinese.",
+        "target": "one",
+        "options": {
+            "A": "Chinese Dictionary",
+            "B": "honour"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 228,
+        "text": "Chilton's subsequent solo career on small labels drew an intense following among indie and alternative rock musicians. According to The New York Times, George-Warren's biography addresses questions about Chilton's \"wildly different incarnations as a cult figure\" whose life and career confounded even the people closest to him, resulting in \"a fascinating story, but also an exceptionally knotty one\".",
+        "target": "one",
+        "options": {
+            "A": "story",
+            "B": "people"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 229,
+        "text": "Writing in the Los Angeles Times, reviewer Michael Wilmington characterized the film as \"...not quite a great war movie but certainly a sensitive, bright and supremely moral one\" and added that \"At its best, it's a barely muted cry against war's stupidity and injustice. With a clear eye, the movie shows us midnight.\"",
+        "target": "one",
+        "options": {
+            "A": "war movie",
+            "B": "reviewer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 230,
+        "text": "The Telegraph considered that the book's metafictional elements make it \"more than a compendium of enjoyably sick jokes\", and felt that the Wolf narrative \"succeeds as an excellent example of pulp fiction in its own right, with a plot of Chandleresque over-complication\". In The Guardian, Adam Roberts called it \"a shocking book as well as a rather brilliant one\", and \"a twisted masterpiece\", noting that the Shomer sections \"save the novel from becoming simply ludicrous by anchoring it in the reality of suffering\".",
+        "target": "one",
+        "options": {
+            "A": "book ",
+            "B": "masterpiece"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 231,
+        "text": "In the DVD special features, actor Joshua Jackson explained the second season begins less than a day after the previous season's finale, \"so the characters have only just barely had a chance to catch their breath from all the madness in the first season, and launch right back into the second one\". Co-executive producer Jeff Pinkner considered beginning the second season directly after first season's final scene between Olivia and William Bell, but changed his mind because he thought it would be more interesting to show how Olivia's disappearance and reappearance affected the Fringe team, as well as the rest of the season.",
+        "target": "one",
+        "options": {
+            "A": "season",
+            "B": "madness"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 232,
+        "text": "In an interview with Vogue magazine in 1986, Carr described this novel as his \"best one\" and \"a novel written with passion\". The publishers paid an advance of £125. The novel is now published by The Quince Tree Press, which was established by Carr in 1966 to publish his illustrated maps and small books.",
+        "target": "one",
+        "options": {
+            "A": "novel",
+            "B": "magazine"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 233,
+        "text": "Thomas's comments were echoed by Truth's Bernard Levin, who noted that the show had been \"hailed in many quarters as not only the funniest thing that has ever been seen on television, but as the first programmes to exploit the full resources of the newest medium in a manner which owes nothing to the methods of any older one\".",
+        "target": "one",
+        "options": {
+            "A": "medium",
+            "B": "methods"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 234,
+        "text": "Rise sold over 10,000 copies in its first week of release, leaving Jagmin to comment that the album had \"caught on faster than the other ones\". In March–April 2014 they were a supporting act on the Memphis May Fire \"The Unconditional Tour\". They also announced that they would once again be performing on Warped Tour for the 2014 season.",
+        "target": "ones",
+        "options": {
+            "A": "album ",
+            "B": "release"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 235,
+        "text": "As Clandfield says, her \"integration into long narratives whose full complexity probably cannot be conveyed in an essay such as this one\" prevents her from being a merely noir—or merely Black—protagonist. In Snowball she finally confronts her parents' assimilationist hopes for her and finds her own way of reconciling herself with them.",
+        "target": "one",
+        "options": {
+            "A": "essay",
+            "B": "complexity"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 236,
+        "text": "Writing for the Los Angeles Times, Kevin Thomas said that \"Oliveira establishes a sense of timelessness only to catch his audience up short with a film that ultimately could scarcely be a more timely comment on the world in which we live\". And in a review for Variety, Deborah Young said that the film was \"A film destined to divide Manoel de Oliveira's fans but also to win him new ones\". According to Manohla Dargis of The New York Times, \"The Portuguese director Manoel de Oliveira again shows himself to be a master of the medium with this sharply cut gem of a film about a mother and daughter sailing the Mediterranean\".",
+        "target": "ones",
+        "options": {
+            "A": "fans ",
+            "B": "film "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 237,
+        "text": "Glenda Jackson revealed that she was approached by the director Melvin Frank after appearing on the comedy sketch and variety program The Morecambe & Wise Show on the BBC in the United Kingdom in 1971, in the \"Antony and Cleopatra\" sketch. After her role in this film won her an Oscar, Eric Morecambe sent her a telegram reading, \"Stick with us and we will get you another one\".",
+        "target": "one",
+        "options": {
+            "A": "Oscar",
+            "B": "telegram"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 238,
+        "text": "Thiagarajan Kumararaja said that his inspiration behind making a gangster film was revealed to be The Godfather as well as the thought of \"how someone becomes a gangster and continues to be one\", clarifying that Aaranya Kaandamwas not a biography or history of a gangster but \"a page out of the life of a gangster\". The film's poster was inspired by a panel in Akira, a widely popular Japanese post-apocalyptic cyber-punk manga series.",
+        "target": "one",
+        "options": {
+            "A": "inspiration",
+            "B": "a gangster"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 239,
+        "text": "Rediff gave 3 out of 5 stars and noted that Lakshmy Ramakrishnan \"may have made her film more like a fictionalised documentary, and stumbled at a few places, but by and large, the message she delivers is a valid one\". Haricharan Pudipeddi from nowrunning.com cited: \"If you miss Aarohanam, then you may have missed most likely the best Tamil film of the year\".",
+        "target": "one",
+        "options": {
+            "A": "places",
+            "B": "message"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 240,
+        "text": "However, some variations allow different universes to interact. This concept is most often used in science-fiction, but some physicists such as David Deutsch have suggested that a time traveler should end up in a different history than the one he started from.",
+        "target": "one",
+        "options": {
+            "A": "traveler",
+            "B": "history"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 241,
+        "text": "On the other hand, Stephen Hawking has argued that even if the MWI is correct, we should expect each time traveler to experience a single self-consistent history, so that time travelers remain within their own world rather than traveling to a different one. The physicist Allen Everett argued that Deutsch's approach \"involves modifying fundamental principles of quantum mechanics; it certainly goes beyond simply adopting the MWI\".",
+        "target": "one",
+        "options": {
+            "A": "history",
+            "B": "world"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 242,
+        "text": "Andrew Carlssin was supposedly arrested in March 2003 for SEC violations for making 126 high-risk stock trades and being successful on every one. As reported, Carlssin started with an initial investment of $800 and ended with over $350,000,000 which drew the attention of the SEC. Later reports suggest that after his arrest, he submitted a four-hour confession wherein he claimed to be a time traveler from 200 years in the future.",
+        "target": "one",
+        "options": {
+            "A": "SEC violations",
+            "B": "high-risk stock trades"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 243,
+        "text": "In Oneida II, the four dissenting justices would have applied laches to dismiss the claim. Although the majority did not reach the issue (which the defendants had not preserved on appeal), it noted that \"it is far from clear that this defense is available in suits such as this one\" and that the \"application of the equitable defense of laches in an action at law would be novel indeed.\" A footnote in the majority also quoted Ewert v. Bluejacket (1922), which held that laches \"cannot properly have application to give vitality to a void deed and to bar the rights of Indian wards in lands subject to statutory restrictions.\"",
+        "target": "one",
+        "options": {
+            "A": "defense",
+            "B": "suits"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 244,
+        "text": "On 1 May, Diaby suffered a severe ankle fracture after being on the receiving end of a tackle, described by the media as \"horrendous\", from Sunderland defender Dan Smith. After the match, Wenger described the tackle as \"a bad kick and an unnecessary one\" and also criticised his competitors' over-physicality, while interim Sunderland manager Kevin Ball defended Smith stating \"Smith is not a malicious, dirty player and I think it's unfair to make that call on him and say he deliberately went to do it. Dan went for the ball, unfortunately Diaby was quicker than him\". ",
+        "target": "one",
+        "options": {
+            "A": "tackle",
+            "B": "kick "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 245,
+        "text": "Absolute Software rejected the claims made in the research, stating that \"the presence of the Computrace module in no way weakens the security of the BIOS\". Another independent analyst confirmed the flaws, noted that a malware hijacking attack would be a \"highly exotic one\", and suggested that the larger concern was that savvy thieves could disable the phone home feature. Later, Core Security Technologies proved the researcher's finding by making publicly available several proofs of concept, videos, and utilities on its webpage.",
+        "target": "one",
+        "options": {
+            "A": "flaws",
+            "B": "attack "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 246,
+        "text": "Abzû was nominated at The Game Awards 2016 in the \"Best Art Direction\" category; at the Golden Joystick Awards in the \"Best Original Game\", \"Best Visual Design\" and \"PlayStation Game of the Year\" categories; and at the 2017 BAFTA Games Awards in the \"Artistic Achievement\" category. Martin Gaston of Eurogamer called it \"a mechanically simple game, but a pleasurable one\"—while finding early sections barren and the camera awkward at times, he enjoyed the gameplay's simplicity. Scott Butterworth of GameSpot found the gameplay lacking in variety, but otherwise praised the game's immersive qualities.",
+        "target": "one",
+        "options": {
+            "A": "Eurogamer",
+            "B": "game"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 247,
+        "text": "Here, Drake anchors opposite this 1 ½ mile long cove instead of sailing directly into it. In the morning of the 19th, crew members go ashore to look for water. They take two large pigs and several small ones. At 1:00 that afternoon, they are attacked by the Spaniards. Da Silva records the number of horsemen as 250 and Fletcher estimates 100. Following the horsemen are 200 indigenous men on foot.",
+        "target": "ones",
+        "options": {
+            "A": "water",
+            "B": " pigs"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 248,
+        "text": "Achimota School has two student magazines, \"The Achimotan\" and the more recent one \"The Motowner\" both published periodically. Two newsletters also exist on campus: The Blueprint (Originally a publication of Guggisberg House)and The Motown Express.",
+        "target": "one",
+        "options": {
+            "A": "The Achimotan",
+            "B": "student magazines"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 249,
+        "text": "\"Fever and dysentery\": The Pulpit Commentary noted about this verse that \"the terms here used are all professional ones\". The word Greek: πυρετοῖς, pyretois, \"fevers\" in the plural, is frequently found in the ancient medical writings of Hippocrates, Aretaeus, and Galen, but elsewhere by other writers in the New Testament always in the singular πυρετός.",
+        "target": "ones",
+        "options": {
+            "A": "verse",
+            "B": "terms "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 250,
+        "text": "Diocletian reorganises the provinces of Hispania, creating some new ones. Of interest, Gallaecia is split from the Tarraconensis province. Gallaecia includes the North of Portugal (starting with Portus Cale/Oporto) and extending to the North of Spain (Galicia). Bracara Augusta (Braga) is the administrative centre of Conventus Bracarensis, one of the three conventus of Gallaecia.",
+        "target": "ones",
+        "options": {
+            "A": "Hispania",
+            "B": "provinces"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 251,
+        "text": "Idah was born in Cork to a Nigerian father and Irish mother. He has been a youth international for Ireland. Following Idah's hat-trick for Norwich City against Preston North End on 4 January 2020, Republic of Ireland manager Mick McCarthy hinted that Idah may soon earn a full cap, commenting \"He might have just got himself one\", while working as a pundit for BT Sport's coverage of the match. On 24 August 2020, Idah was named in the Republic of Ireland senior squad for the first time for the UEFA Nations League games against Bulgaria and Finland, in what was his manager at under 21 level, Stephen Kenny's first squad as senior manager.",
+        "target": "one",
+        "options": {
+            "A": "manager",
+            "B": "a full cap"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 252,
+        "text": "The sarafan is a long, shapeless pinafore-type jumper dress, a part of the traditional Russian folk costume worn by women and girls. Sarafans could be of single piece construction with thin shoulder straps over which a corset is sometimes worn, giving the shape of the body of a smaller triangle over a larger one. It comes in different styles such as the simpler black, flower- or check-patterned versions formerly used for everyday wear, or elaborate brocade versions formerly reserved for special occasions.",
+        "target": "one",
+        "options": {
+            "A": "body",
+            "B": "triangle "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 253,
+        "text": "In an interview with TV Guide Canada, former executive producer and head writer Maria Arena Bell stated that while she would not comment on Engen's decision, she was \"saddened that they had to recast because Engen was really gelling in the role\", but added that she had \"no doubt\" that Muhney would make Adam his own. In another interview, Eileen Davidson, who portrayed Ashley Abbott, said that she \"couldn't judge\" Engen's decision since it was a \"personal one\". Davidson said, \"Everybody has his or her own demons—and makes their own choices due to their creative process.\"",
+        "target": "one",
+        "options": {
+            "A": "decision",
+            "B": "interview "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 254,
+        "text": "The production ran for four months at King's Head Theatre, garnishing critical notice from Fiona Maddocks in The Observer, \"Madam Butterfly has been updated to Bangkok Butterfly to chilling effect... full of promise and musically intelligent.\" and Michael Tanner in The Spectator, \"Beautiful and sexy... the evening was a powerful one\".",
+        "target": "one",
+        "options": {
+            "A": "evening",
+            "B": "promise"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 255,
+        "text": "He was able to read the signs of the times and show that “Christ’s message offers a valid and beautiful answer to all questions, even the thorny ones”, and that “all the daily events are grounded in eternity”. He spread his ideas primarily in the form of sermons: he was known as being a skillful, stirring and excellent preacher, “mighty in word” (comp. Lk 24,19).",
+        "target": "ones",
+        "options": {
+            "A": "questions",
+            "B": "answer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 256,
+        "text": "The reviews of the new orchestra were enthusiastic. The Times wrote of its \"virtuosity\" and of Boult's \"superb\" conducting. The Musical Times commented, \"The boast of the B.B.C. that it intended to get together a first-class orchestra was not an idle one\" and spoke of \"exhilaration\" at the playing. The Observer called the playing \"altogether magnificent\" and said that Boult \"deserves an instrument of this fine calibre to work on, and the orchestra deserves a conductor of his efficiency and insight.\"",
+        "target": "one",
+        "options": {
+            "A": "boast",
+            "B": "orchestra"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 257,
+        "text": "His candidates revived the proposal of a territorial development of the Commonwealth, also recycling the term \"permanent union\" when referring to this proposal. This shattered the ties that the party had created with other movements and factions, particularly the more liberal ones. With the conservative wing regaining control of the Government Board, Héctor Ferrer, who has publicly expressed his aversion towards free association, was selected as the party's president.",
+        "target": "ones",
+        "options": {
+            "A": "movements and factions",
+            "B": "the party"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 258,
+        "text": "In an interview with The Indian Express, Rao mentioned she was surprised to be labelled as the voice of Aishwarya Rai Bachchan. She called the song \"not an easy one\", \"seamless\" and did take some time to get into it. While recording, it was difficult for her to keep that composure and flow. The song was composed in Sufi genre. Upon its release, the key riff in the song was noted reminiscent of Papa Roach's 2000 single Last Resort.",
+        "target": "one",
+        "options": {
+            "A": "song ",
+            "B": "voice"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 259,
+        "text": "Next Generation reviewed the Neo-Geo version of the game, stating that \"players with any skill will beat the game on the easy or normal level in under an hour. The higher levels offer more challenges, but not new ones\". Hobby Consolas's Manuel del Campo praised the graphical design of stages and enemies despite the small size of the player's plane, music, playability and ship variety but criticized the lack of variety with sound design and \"wow factor\".",
+        "target": "ones",
+        "options": {
+            "A": "challenges",
+            "B": "levels"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 260,
+        "text": "Sherilyn Connelly in her review for The Village Voice said, \"[The film is] a shaggy dog story, but an intriguing and frequently beautiful one\" and singularly praised Wright by saying that \"the picture fumbles the ending, sliding into a Gravity-esque soapy backstory while suggesting that supporting actress Bonnie Wright might have been a stronger female lead.\" Nicolas Rapold of The New York Times called it \"both smugly clever and at times distastefully clueless.\"",
+        "target": "one",
+        "options": {
+            "A": "story",
+            "B": "film "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 261,
+        "text": "Gary Giddins penned an angrily dismissive review of Agharta in The Village Voice, in which he charged Davis with failing to assert his musical presence on what he said is not \"just a bad record\" but also \"a sad one\". In Giddins' mind, the trumpeter \"doesn't exploit the backbeat, he succumbs to it, and the worst consequence is not the ensuing monotony, which theoretically a soloist could turn to his advantage.\"",
+        "target": "one",
+        "options": {
+            "A": "record",
+            "B": "presence"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 262,
+        "text": "Pochin wrote in 1855 a frequently overlooked work. John Chapman published her work titled \"The Right of Women to Exercise the Elective Franchise\". She argues for not only equal voting rights but also equality with respect to education, divorce, ambition or social aspiration. She wrote that \"Women's life in the middle classes is, and has been rendered a dull one\". It was signed \"Justitia\", and it was not published under her name until 1873.",
+        "target": "one",
+        "options": {
+            "A": "life ",
+            "B": "classes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 263,
+        "text": "Antonio Mampaso, a Spanish astrophysicist and one of Agora's scientific advisors, stated in an interview that \"We know that Hypatia lived in Alexandria in the IV and V centuries CE, until her death in 415. Only three primary sources mention Hypatia of Alexandria, apart from other secondary ones\". He added that none of Hypatia's work has survived but it is thought, from secondary sources, that her main fields of study and work were geometry and astronomy.",
+        "target": "ones",
+        "options": {
+            "A": "sources ",
+            "B": "Hypatia of Alexandria"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 264,
+        "text": "Compute!'s Gazette noted that Airborne Ranger was an unusual game for MicroProse's developers given their history of publishing simulations, writing \"they have created an arcade game, and a darned good one\". Compute! stated that \"Airborne Ranger is an excellent game from beginning to end\", but cautioned that \"the violence and action are graphic and highly realistic\".",
+        "target": "one",
+        "options": {
+            "A": "arcade game",
+            "B": "publishing simulations"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 265,
+        "text": "Amanda Petrusich wrote in Pitchfork that the album is \"as much a jazz record as a pop one\", while Ben Ratliff from The New York Times said it \"created a new standard for the relationship between jazz and rock, one that was basically irreproducible, by Steely Dan or anyone else […] a progressive jazz record with backbeats, a '70s hipster's extension of what had been Gil Evans's vision two decades earlier.\"",
+        "target": "one",
+        "options": {
+            "A": "record",
+            "B": "album"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 266,
+        "text": "Ran's costume designer, Emi Wada, won the movie's only Oscar. Kagemusha and Ran, particularly the latter, are often considered to be among Kurosawa's finest works. After Ran's release, Kurosawa would point to it as his best film, a major change of attitude for the director who, when asked which of his works was his best, had always previously answered \"my next one\".",
+        "target": "one",
+        "options": {
+            "A": "works",
+            "B": "director"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 267,
+        "text": "The German explorer in Danish service, Carsten Niebuhr, visited Yemen in 1762–1763 at the head of a scientific expedition. He met al-Mahdi Abbas whom he described in racialist terms: \"Had it not been for some negro traits, his countenance might have been thought a good one\". The imam wore green robes with flowing sleeves, embroidered with gold lace. On his head he wore a large turban. Niebuhr and the other Europeans were permitted to kiss his hand and robe.",
+        "target": "one",
+        "options": {
+            "A": "countenance",
+            "B": "traits"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 268,
+        "text": "The British invasion, which started with The Beatles, swept through Australia with many British acts being considered alternatives to the American ones. When the Beatles toured Australia in 1964, there were fans running to meet them everywhere. They performed to sell-out crowds in Sydney, Melbourne, Brisbane, Adelaide and Perth. The Rolling Stones also toured Australia in 1965, again to sellout crowds. But American singers still came to Australia for tours - Bob Dylan in 1966. The mid-1960s saw the 'mod' fad, which had been popular in Britain, come and go.",
+        "target": "ones",
+        "options": {
+            "A": "acts",
+            "B": "alternatives"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 269,
+        "text": "The Casablanca agreement was in fact a compromise, brokered largely by Brooke's old friend Field Marshal Sir John Dill, Chief of the British Joint Staff Mission in Washington, D.C. \"I owe him [Dill] an unbounded debt of gratitude for his help on that occasion and in many other similar ones\", Brooke wrote after the war. The post of CIGS was less rewarding than command in an important theatre of war but the CIGS chose the generals who commanded those theatres and decided what men and munitions they should have.",
+        "target": "ones",
+        "options": {
+            "A": "occasion",
+            "B": "generals"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 270,
+        "text": "A Gallic tribe named Alauni (Αλαυνοί) is also attested in Noricum, and linguist Xavier Delamarre has argued that the root alǝ-, meaning 'to wander', \"would suit river names as much as ethnic ones\". In this view, *Alamnos may be compared with the Celtic stem *alamo- ('herd'; cf. Old Irish alam, Welsh alaf), and the ethnonym Alauni rendered as the 'errants' or the 'nomads', contrasting with the name of the Anauni ('the Staying Ones').",
+        "target": "ones",
+        "options": {
+            "A": "names",
+            "B": "river"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 271,
+        "text": "Following the Inter-island match Albert Laing was selected in the first test team for New Zealand to play England. It was said that the “New Zealand selectors have placed a big responsibility on Laing, the youthful fullback. The Auckland custodian has given good displays in club matches, but he lacks experience in comparison to Sullivan, who is likely to make Laing’s task a more difficult one”.",
+        "target": "one",
+        "options": {
+            "A": "task",
+            "B": "experience"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 272,
+        "text": "Overall for Sunderland, he made 123 league appearances without a goal. In March 1914 Albert was given a benefit game by the Black Cats before he joined Swindon Town in May of the same year. Despite the transfer fee paid by Swindon being \"a very large one\" after just twelve months he left the club to return to the Sunderland area with the onset of war.",
+        "target": "one",
+        "options": {
+            "A": "transfer fee",
+            "B": "Swindon"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 273,
+        "text": "Since its discovery, it has been found to have infected more than two dozen major banking institutions in the United States, including TD Bank, Chase, HSBC, Wells Fargo, PNC and Bank of America. Tiny Banker Trojan uses HTTP injection to force the user's computer to believe that it is on the bank's website. This spoof page will look and function just as the real one. The user then enters their information to log on, at which point Tinba can launch the bank webpage's \"incorrect login information\" return, and redirect the user to the real website.",
+        "target": "one",
+        "options": {
+            "A": "page",
+            "B": "website"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 274,
+        "text": "As a result of having no state open container laws, under the federal Transportation Equity Act for the 21st century of 1999, a percentage of Missouri's federal highway funds is transferred instead to alcohol education programs each year. Since 1999, the Missouri General Assembly has considered several bills which would have created open container regimens satisfying the federal law, but each one \"failed due to weak legislative support.\" Anheuser-Busch leads opposition to enacting a passenger open container law.",
+        "target": "one",
+        "options": {
+            "A": "bills",
+            "B": "law"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 275,
+        "text": "Aleksandr Ryazantsev took little persuading to join Zenit Saint Petersburg on a free transfer from Rubin Kazan, saying the league leaders' offer \"was the most interesting one\". Players who have this terrible cannonball said he was happy to be joining with Zenit. Ryazantsev signed for Zenit Saint Petersburg. On 30 January 2014 Ryazantsev played a friendly match Zenit Saint Petersburg vs Shakhtar Donetsk, he scored with a penalty kick and brought Rubin Kazan Win 1-0 at Donbass Arena.",
+        "target": "one",
+        "options": {
+            "A": "offer",
+            "B": " transfer "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 276,
+        "text": "Robert Potts in The Times Literary Supplement praised the book as a \"very well-researched narrative\" that was \"widely sourced\", commenting that “The story of how such an other-worldly figure became leader of the party simply by being himself is an oddly electrifying one”. Stephen Bush of the New Statesman wrote that \"Corbyn is at last given a wholly sympathetic hearing\", the work being \"the most authoritative yet published on his rise\", but criticised it for a \"lack of fluency around the animating issues of the Labour right\".",
+        "target": "one",
+        "options": {
+            "A": "story",
+            "B": "party"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 277,
+        "text": "At first, it was intended that Grant would rebuild Fort James, but the lack of room on the island led to Grant being asked to explore other options. Lieutenant Colonel Thomas Brereton, the Governor of Senegal, approved the sandy pit at the extreme point of Banjulo, \"probably more from a strategic view than a sanitary one\" as it was battered by the Atlantic waves, had a mangrove swamp behind it, but also commanded the mouth of the Gambia River.",
+        "target": "one",
+        "options": {
+            "A": "view",
+            "B": "point "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 278,
+        "text": "In 1772 Jardine returned from Gibraltar to Woolwich where he wrote to fellow officer Captain Edward Williams, proposing the formation of a Military Society at Woolwich, noting that \"We have already in this country all kinds of Societies except a military one\". This voluntary organisation, though the exchange of essays and ideas between the members, would give \"an acquaintance to a fixed degree, with Geometry, Algebra, Mechanics, Fortification, Natural Philosophy, History, Law and Politics...\".",
+        "target": "one",
+        "options": {
+            "A": "Societies",
+            "B": "country"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 279,
+        "text": "He mathematically develops Ampère's law describing the magnetic force between two electric currents. His mathematical theory explains known electromagnetic phenomena and predicts new ones. His laws of electrodynamics include the facts that parallel conductors currying current in the same direction attract and those carrying currents in the opposite directions repel one another.",
+        "target": "ones",
+        "options": {
+            "A": "electromagnetic phenomena",
+            "B": "mathematical theory"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 280,
+        "text": "Navalny was arrested on 5 December. After a period of uncertainty for his supporters, Navalny appeared in court and was sentenced to the maximum 15 days \"for defying a government official\". Alexei Venediktov, editor-in-chief of Echo of Moscow radio station, called the arrest \"a political mistake: jailing Navalny transforms him from an online leader into an offline one\". After his arrest, his blog became available in English. ",
+        "target": "one",
+        "options": {
+            "A": "leader",
+            "B": "mistake"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 281,
+        "text": "Nour enlisted other negative comments from Iorga when he began writing Bessarabian notices in the Romanian daily Adevărul, which had Jewish proprietors. Iorga, an antisemite, commented: \"Mr. Alexe Nour of Chișinău assures us now that his new gazette [...] will not be a philosemitic one\". According to Iorga, Nour was given reason to \"feel sorry\" about the Adevărul collaboration.",
+        "target": "one",
+        "options": {
+            "A": "gazette",
+            "B": "antisemite"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 282,
+        "text": "There were reports of busloads of Russian citizens crossing the border into Ukraine to support pro-Russian demonstrators. At an administrative building in Kharkiv, a Russian from Moscow replaced the Ukrainian flag with a Russian one. Demonstrators supporting Russia vandalized the parliament building and beat civilians, but Reuters reported that this alienated many local ethnic Russians, who were speaking and mobilizing in support of the Ukrainian government.",
+        "target": "one",
+        "options": {
+            "A": "flag",
+            "B": "building"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 283,
+        "text": "Italian film historian Roberto Curti described Brescia as \"a hack, but a reliable one\". Curti referred to Brescia as \"one of the most prolific and versatile Italian filmmakers of the 1970s\". Brescia worked in popular film genres of their respective eras in Italy, including sword and sandal films, Westerns, war films, mondo films, gialli, erotic films, superhero films, children's films, and science fiction films.",
+        "target": "one",
+        "options": {
+            "A": "hack",
+            "B": "historian"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 284,
+        "text": "In his review, Orwell wrote that The Edge of the Abyss \"raises a real problem\" – the \"decay in the belief in absolute good and evil\", with the result that the \"rules of behaviour on which any stable society has to rest are dissolving\" and \"even the prudential reasons for common decency are being forgotten\". Indeed, in Orwell's view, Noyes \"probably even underemphasises the harm done to ordinary common sense by the cult of 'realism', with its inherent tendency to assume that the dishonest course is always the profitable one\". On the other hand, Orwell finds Noyes' suggested remedy, a return to Christianity, \"doubtful, even from the point of view of practicality\".",
+        "target": "one",
+        "options": {
+            "A": "course",
+            "B": "tendency"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 285,
+        "text": "Stephen Holden of The New York Times wrote in his review, \"What does all this have to do with Lewis Carroll? Hardly anything\" and that overall, \"It's just an excuse on which to hang two trite overbearing fables and one amusing one\". Ty Burr of The Boston Globe gave the movie 1.5 out of 4 stars and called the film, \"gaudy, loud, complacent, and vulgar.\"",
+        "target": "one",
+        "options": {
+            "A": "fables",
+            "B": "excuse"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 286,
+        "text": "As the impact of the Hong Kong National Security Law on the city became increasingly evident, and additionally in response to acts by representatives of the local and mainland governments throughout the protests, Western democracies continued to voice sharp criticism and implemented sanctions against China, with the United States imposing sanctions on 11 Hong Kong officials on 7 August. These developments supported the opinion expressed by former British Foreign Secretary Malcolm Rifkind in late June that the protests had morphed from a mostly local dispute into an international one.",
+        "target": "one",
+        "options": {
+            "A": "dispute",
+            "B": "protests"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 287,
+        "text": "Species go extinct constantly as environments change, as organisms compete for environmental niches, and as genetic mutation leads to the rise of new species from older ones. At long irregular intervals, Earth's biosphere suffers a catastrophic die-off, a mass extinction, often comprising an accumulation of smaller extinction events over a relatively brief period.",
+        "target": "ones",
+        "options": {
+            "A": "species",
+            "B": "mutation"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 288,
+        "text": "Alan Sepinwall of Rolling Stone said \"All-New Halloween Spooktacular!\" was the first episode of the series where the sitcom material did not feel \"presented in air quotes\", with the early scenes coming across as \"a more convincing recreation rather than an ironic one\". However, he was disappointed the episode did not lean harder into the sitcom material beyond the early scenes, thinking Bettany could play \"a very amusing freaked-out dad\" and the series was better equipped to imitate a show like Malcolm in the Middle than The Dick Van Dyke Show or Bewitched as done in the early episodes where \"less seemed to be more\".",
+        "target": "one",
+        "options": {
+            "A": "recreation",
+            "B": "scenes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 289,
+        "text": "This chart is the games system for overcoming one of the perceived flaws in a linearly progressive skill based game system. In a standard system, any modifier to a die roll has a greater effect on a lower skill level than a higher one. For example, a -1 modifier to a skill of 15 reduces that skill by about 7%, where a skill of 5 is reduced by 20%.",
+        "target": "one",
+        "options": {
+            "A": "skill level",
+            "B": "effect"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 290,
+        "text": "All I Feel was panned by most music critics. Steve Jones of USA Today rated this album one-and-a-half stars out of a possible five, stating that the album \"doesn’t leave much of an impression, even though Ray J tries hard to leave one\". On okayplayer, Jason Reynolds considered Ray J's sexual and drug content to be vulgar and \"forced\". Clover Hope of Billboard magazine gave this album a moderate review for the perception that Ray J \"tries too hard\" to \"prove himself\" to be grown up, \"like a wannabe rapper in singer's clothing\".",
+        "target": "one",
+        "options": {
+            "A": "an impression",
+            "B": "the album"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 291,
+        "text": "Writing for Time Out New York, Mikael Wood describes the music of \"All Matter\" as \"TV on the Radio-style art-funk\" and an example of Bilal traversing different styles throughout the album \"with the headstrong self-assurance of someone whose commercial aspirations trail his creative ones\". While Bilal's falsetto vocals are sung soulfully and in midtempo, they are arranged against beats played in an aggressive and fast manner.",
+        "target": "ones",
+        "options": {
+            "A": "aspirations",
+            "B": "self-assurance"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 292,
+        "text": "Mr Slocum and Miss Fitt had both passed comment on Maddy's bent posture. Perhaps, that is partly why they laugh: it is the best reaction to a life of unending misery in a world devoid of any God. In Happy Days, Winnie asks \"How can one better magnify the Almighty than by sniggering with him at his little jokes, particularly the poorer ones\". It is worthy of mention that \"it is Mr Tyler, rather than the Lord, who saved the preacher’s life when they were climbing together\".",
+        "target": "ones",
+        "options": {
+            "A": "jokes",
+            "B": "Almighty"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 293,
+        "text": "Writing for Allmusic, music critic Brian Downing wrote of the album \"Graham effectively and impressively showed why he not only is considered the father of the modern British folk movement, but also a real innovator in bringing world music to a traditionally Western form. And while the remakes don't completely render the originals obsolete, they do give listeners some nice alternative versions. The instrumentals, as usual, work best, as Graham's vocals are not his strongest point. Likewise, the numbers that dabble in blues, jazz, or ragtime, while adding a touch of variety, really don't impress as much as the genre-fusing ones\".",
+        "target": "ones",
+        "options": {
+            "A": "numbers",
+            "B": "variety"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 294,
+        "text": "Time displacement in sociology refers to the idea that new forms of activities may replace older ones. New activities that cause time displacement are usually technology-based, most common are the information and communication technologies such as Internet and television.",
+        "target": "ones",
+        "options": {
+            "A": "forms of activities",
+            "B": "idea"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 295,
+        "text": "Bucky explained in an interview that the original concept was to release Time to Win in two mini-LP volumes because the band wanted \"to get as much music out there as we could constantly, instead of having to wait a whole two to three years before we put another one out.\"",
+        "target": "one",
+        "options": {
+            "A": "music",
+            "B": "years"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 296,
+        "text": "Hunter also talked about some collaborations saying that the band \"got to work with some different producers than we used on the first one. We got to work with some other key people, namely Boi-1da.\"",
+        "target": "one",
+        "options": {
+            "A": "collaborations",
+            "B": "band"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 297,
+        "text": "Unlike real meerkats, Timon can walk on his hind legs, while in real life, meerkats walk on all four legs and can only stand on their hind ones.",
+        "target": "ones",
+        "options": {
+            "A": "legs",
+            "B": "meerkats"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 298,
+        "text": "A variation of Hugh Everett's many-worlds interpretation (MWI) of quantum mechanics provides a resolution to the grandfather paradox that involves the time traveler arriving in a different universe than the one they came from; it's been argued that since the traveler arrives in a different universe's history and not their own history, this is not \"genuine\" time travel.",
+        "target": "one",
+        "options": {
+            "A": "traveler",
+            "B": "universe"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 299,
+        "text": "During the process of transmutation the light-coloured starting material is transformed to a darker and more reddish one.",
+        "target": "one",
+        "options": {
+            "A": "transmutation",
+            "B": "starting material"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 300,
+        "text": "Distorted Sound stated that \"Sometimes it's just nice to hear a band at the height of their powers doing what they do best. Either way, Timeless marks a solid first entry to OF MICE &MEN's 2021 trilogy, and a record that should have listeners eagerly looking to the next one.\"",
+        "target": "one",
+        "options": {
+            "A": "record",
+            "B": "listeners"
+        },
+        "answer": "A"
+    }
+]

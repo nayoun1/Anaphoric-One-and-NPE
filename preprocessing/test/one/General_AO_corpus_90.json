@@ -1,0 +1,902 @@
+[
+    {
+        "text_id": 211,
+        "text": "The delayed implementation was criticized by UCSF scientist and COVID-19 expert Dr. Monica Gandhi who said it had no scientific rationale, while potentially causing harm by suggesting there is \"still a danger when there isn't one\". Isaac Hale, a lecturer of political science at UC Davis, said partisan politics concerning the recall may have been a factor in the decision:",
+        "target": "one",
+        "options": {
+            "A": "a danger",
+            "B": "harm"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 212,
+        "text": "Māori Party co-leader Debbie Ngarewa-Packer was \"cautiously optimistic\" about the budget, praising the government for \"accept[ing] a need to take a targeted approach rather than a universal one\". National Party and Opposition leader Judith Collins said that the Government \"lacks the plan and ambition\" in this budget and that it does not offer \"any direction for getting the country back on track to prosperity\" and that it is \"setting New Zealand up to fail\".",
+        "target": "one",
+        "options": {
+            "A": "approach",
+            "B": "government"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 213,
+        "text": "Warren Martyn and Adrian Wood, the authors of the book I Can't Believe It's a Bigger and Better Updated Unofficial Simpsons Guide, called it \"an untypical episode, and a very good one\", naming the Skinner and Chalmers story as the best. In The A.V. Club, Emily St. James praised the episode: “'22 Short Films” is fundamentally an experiment, an attempt by the series to do something different at a time when coming up with stories must have started to get exhausting.",
+        "target": "one",
+        "options": {
+            "A": "episode",
+            "B": "book"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 214,
+        "text": "John Gray of The Guardian said in his review that it \"masterfully debunked the myths of capitalism\". Sean O'Grady of The Independent argues that 23 Things They Don't Tell You About Capitalism is testament to the ability of economically poorer nations becoming more powerful over time. Writing in the Financial Times, James Crabtree describes the points of Chang's rebuttal as ranging from \"conventional left-wing claims\" to \"counter-intuitive ones\" and highlights the close relationship between the rebuttal points and criticisms following the 2008 financial crisis.",
+        "target": "ones",
+        "options": {
+            "A": "claims",
+            "B": "points"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 215,
+        "text": "In Sauter's article \"Clockwatchers and Stargazers: Time Discipline in Early Modern Berlin\", he argues that time discipline came from the streets, and was part of the rise of \"local knowledge\" as public clocks were used by public event planners. People began to learn where clocks were located and which social groups used which ones. Furthermore, Sauter argues that time discipline is not \"externally imposed\" on people, but \"a standard that is determined by people with specialized knowledge and skills\".",
+        "target": "ones",
+        "options": {
+            "A": "clocks",
+            "B": "groups"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 216,
+        "text": "Crowded House's leader, Neil Finn has indicated that, as the album began life as a solo project, its sound is generally different from Crowded House, though similar in parts, indicating that no one album by the group sounds like this one. As the album is dedicated to Hester and attends to his death, much of the album has a mournful tone, however this has been received well by critics, with some indicating that \"fortunately, Finn is a master at expressing ambiguity, (both) lyrically and musically\".",
+        "target": "one",
+        "options": {
+            "A": "album",
+            "B": "group "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 217,
+        "text": "This is the movie's undoing, but '32 aam adhyayam 23 aam vakyam' is surely a once time enjoyable watch. Muyals.com rated the movie 3.25 out of 5 and stated, \"32aam Adhyayam 23aam Vaakyam stands as a good, as well as unexpected thriller movie; with an above average first half and an unexpected take off to a higher level in the latter half.\" Chandra Mohan Gopinath of Movie Street stated, \"the movie doesn't fall flat but end up as an average one\".",
+        "target": "one",
+        "options": {
+            "A": "movie",
+            "B": "level"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 218,
+        "text": "The photo on the album's cover was shot by Maria Mochnacz in June 1993 while Harvey was touring to support the album Rid of Me. It shows Harvey in lingerie and sunglasses, raising her arm and exposing her natural underarm. The picture was taken at the Watergate, in Washington, D.C. The black-and-white photo that appears on the back of the album (also by Mochnacz) depicts Harvey naked and wrapped in plastic sheeting. When speaking about the picture, Mochnacz remarked \"I suggested Polly was now a product so we wrapped her up like one\".",
+        "target": "one",
+        "options": {
+            "A": "a product ",
+            "B": "the picture"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 219,
+        "text": "In a study, participants consistently provided answers that fit this model when asked about time perception at 1/4 of their age, but were less consistent for 1/2 of their age. Their answers suggest that this model is more accurate than the previous one. A consequence of this model is that the fraction of subjective life remaining is always less than the fraction of real life remaining, but it is always more than one half of real life remaining.",
+        "target": "one",
+        "options": {
+            "A": "model",
+            "B": "answers"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 220,
+        "text": "The German Defence Minister Ursula von der Leyen delivered the opening speech. In her speech, she explained Germany's willingness to assume international leadership responsibilities. It consisted of \"leadership from the centre\", the minister explained, and not one \"with Pickelhaube\" - which could also imply \"fighting together\". Based on German history, von der Leyen derived the commitment of her country to defend human rights but added however that the German population was \"cautious\" on this issue.",
+        "target": "one",
+        "options": {
+            "A": "leadership",
+            "B": "minister"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 221,
+        "text": "It is disputed whether the use of these signatures makes metric relationships clearer or more obscure to the musician; it is always possible to write a passage using non-irrational signatures by specifying a relationship between some note length in the previous bar and some other in the succeeding one. Sometimes, successive metric relationships between bars are so convoluted that the pure use of irrational signatures would quickly render the notation extremely hard to penetrate.",
+        "target": "one",
+        "options": {
+            "A": "bar",
+            "B": "length"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 222,
+        "text": "Aoki also noted that the plot is basically the same as Parasyte. Writing for Anime News Network, Carlo Santos described the manga as a \"modern polish and hard-hitting action\". He also commented that, in the end, \"Hikaru's quest as the Everyday Teenager Who Miraculously Discovers Special Abilities And Must Now Save The World is just like all the other ones\".",
+        "target": "ones",
+        "options": {
+            "A": "quest ",
+            "B": "Abilities"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 223,
+        "text": "In The John W. Campbell Letters, Campbell says, \"The son-of-a-gun gets hold of you in the first paragraph, ties a knot around you, and keeps it tied in every paragraph thereafter—including the ultimate last one\". Harlan Ellison (who had begun reading van Vogt as a teenager) wrote, \"Van was the first writer to shine light on the restricted ways in which I had been taught to view the universe and the human condition\".",
+        "target": "one",
+        "options": {
+            "A": "paragraph",
+            "B": "knot"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 224,
+        "text": "M. R. James praised Burrage's book Some Ghost Stories, saying that the book \"keeps on the right side of the line and, if about half his ghosts are amiable, the rest have their terrors, and no mean ones\". James later included Burrage among a list of contemporary writers who had \"best realized\" the possibilities of the ghost story. E. F. Bleiler has described Burrage's work thus: \"The best stories in Some Ghost Stories and Someone in the Room are intelligent, well crafted and imaginative.\"",
+        "target": "ones",
+        "options": {
+            "A": "ghosts",
+            "B": "terrors"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 225,
+        "text": "According to the show's prop master, this was because Andy and Michael failed to pick up the original waitresses, and settled for \"less attractive ones\". However, at Paley Fest 2007, Greg Daniels admitted that the women they cast were \"too good-looking\", which led to the joke failing since the original script specifically called for Andy and Michael's dates to be unattractive.",
+        "target": "ones",
+        "options": {
+            "A": "waitresses",
+            "B": "master "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 226,
+        "text": "A Cry in the Night was made for Jaguar, Alan Ladd's production company, despite Ladd not appearing in the cast. It was based on the novel All Through the Night by \"Whit Masterson\" (Robert Wade and Bill Miller) which had appeared in Cosmopolitan magazine. The New York Times described it as \"an intensely compact book... and an unusually rich one\" later saying it was one of the best films of the year.",
+        "target": "one",
+        "options": {
+            "A": "book",
+            "B": "magazine"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 227,
+        "text": "In 1807, the LMS instructed Morrison to sail to Guangzhou (then known as \"Canton\") and continue studying until he had \"accomplished [his] great object of acquiring the language\", whereupon he would \"turn this attainment into a direction which may be of extensive use to the world: perhaps you may have the honour of forming a Chinese Dictionary, more comprehensive and correct than any preceding one\", as well as translating the Bible into Chinese.",
+        "target": "one",
+        "options": {
+            "A": "Chinese Dictionary",
+            "B": "honour"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 228,
+        "text": "Chilton's subsequent solo career on small labels drew an intense following among indie and alternative rock musicians. According to The New York Times, George-Warren's biography addresses questions about Chilton's \"wildly different incarnations as a cult figure\" whose life and career confounded even the people closest to him, resulting in \"a fascinating story, but also an exceptionally knotty one\".",
+        "target": "one",
+        "options": {
+            "A": "story",
+            "B": "people"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 229,
+        "text": "Writing in the Los Angeles Times, reviewer Michael Wilmington characterized the film as \"...not quite a great war movie but certainly a sensitive, bright and supremely moral one\" and added that \"At its best, it's a barely muted cry against war's stupidity and injustice. With a clear eye, the movie shows us midnight.\"",
+        "target": "one",
+        "options": {
+            "A": "war movie",
+            "B": "reviewer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 230,
+        "text": "The Telegraph considered that the book's metafictional elements make it \"more than a compendium of enjoyably sick jokes\", and felt that the Wolf narrative \"succeeds as an excellent example of pulp fiction in its own right, with a plot of Chandleresque over-complication\". In The Guardian, Adam Roberts called it \"a shocking book as well as a rather brilliant one\", and \"a twisted masterpiece\", noting that the Shomer sections \"save the novel from becoming simply ludicrous by anchoring it in the reality of suffering\".",
+        "target": "one",
+        "options": {
+            "A": "book ",
+            "B": "masterpiece"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 231,
+        "text": "In the DVD special features, actor Joshua Jackson explained the second season begins less than a day after the previous season's finale, \"so the characters have only just barely had a chance to catch their breath from all the madness in the first season, and launch right back into the second one\". Co-executive producer Jeff Pinkner considered beginning the second season directly after first season's final scene between Olivia and William Bell, but changed his mind because he thought it would be more interesting to show how Olivia's disappearance and reappearance affected the Fringe team, as well as the rest of the season.",
+        "target": "one",
+        "options": {
+            "A": "season",
+            "B": "madness"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 232,
+        "text": "In an interview with Vogue magazine in 1986, Carr described this novel as his \"best one\" and \"a novel written with passion\". The publishers paid an advance of £125. The novel is now published by The Quince Tree Press, which was established by Carr in 1966 to publish his illustrated maps and small books.",
+        "target": "one",
+        "options": {
+            "A": "novel",
+            "B": "magazine"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 233,
+        "text": "Thomas's comments were echoed by Truth's Bernard Levin, who noted that the show had been \"hailed in many quarters as not only the funniest thing that has ever been seen on television, but as the first programmes to exploit the full resources of the newest medium in a manner which owes nothing to the methods of any older one\".",
+        "target": "one",
+        "options": {
+            "A": "medium",
+            "B": "methods"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 234,
+        "text": "Rise sold over 10,000 copies in its first week of release, leaving Jagmin to comment that the album had \"caught on faster than the other ones\". In March–April 2014 they were a supporting act on the Memphis May Fire \"The Unconditional Tour\". They also announced that they would once again be performing on Warped Tour for the 2014 season.",
+        "target": "ones",
+        "options": {
+            "A": "album ",
+            "B": "release"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 235,
+        "text": "As Clandfield says, her \"integration into long narratives whose full complexity probably cannot be conveyed in an essay such as this one\" prevents her from being a merely noir—or merely Black—protagonist. In Snowball she finally confronts her parents' assimilationist hopes for her and finds her own way of reconciling herself with them.",
+        "target": "one",
+        "options": {
+            "A": "essay",
+            "B": "complexity"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 236,
+        "text": "Writing for the Los Angeles Times, Kevin Thomas said that \"Oliveira establishes a sense of timelessness only to catch his audience up short with a film that ultimately could scarcely be a more timely comment on the world in which we live\". And in a review for Variety, Deborah Young said that the film was \"A film destined to divide Manoel de Oliveira's fans but also to win him new ones\". According to Manohla Dargis of The New York Times, \"The Portuguese director Manoel de Oliveira again shows himself to be a master of the medium with this sharply cut gem of a film about a mother and daughter sailing the Mediterranean\".",
+        "target": "ones",
+        "options": {
+            "A": "fans ",
+            "B": "film "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 237,
+        "text": "Glenda Jackson revealed that she was approached by the director Melvin Frank after appearing on the comedy sketch and variety program The Morecambe & Wise Show on the BBC in the United Kingdom in 1971, in the \"Antony and Cleopatra\" sketch. After her role in this film won her an Oscar, Eric Morecambe sent her a telegram reading, \"Stick with us and we will get you another one\".",
+        "target": "one",
+        "options": {
+            "A": "Oscar",
+            "B": "telegram"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 238,
+        "text": "Thiagarajan Kumararaja said that his inspiration behind making a gangster film was revealed to be The Godfather as well as the thought of \"how someone becomes a gangster and continues to be one\", clarifying that Aaranya Kaandamwas not a biography or history of a gangster but \"a page out of the life of a gangster\". The film's poster was inspired by a panel in Akira, a widely popular Japanese post-apocalyptic cyber-punk manga series.",
+        "target": "one",
+        "options": {
+            "A": "inspiration",
+            "B": "a gangster"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 239,
+        "text": "Rediff gave 3 out of 5 stars and noted that Lakshmy Ramakrishnan \"may have made her film more like a fictionalised documentary, and stumbled at a few places, but by and large, the message she delivers is a valid one\". Haricharan Pudipeddi from nowrunning.com cited: \"If you miss Aarohanam, then you may have missed most likely the best Tamil film of the year\".",
+        "target": "one",
+        "options": {
+            "A": "places",
+            "B": "message"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 240,
+        "text": "However, some variations allow different universes to interact. This concept is most often used in science-fiction, but some physicists such as David Deutsch have suggested that a time traveler should end up in a different history than the one he started from.",
+        "target": "one",
+        "options": {
+            "A": "traveler",
+            "B": "history"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 241,
+        "text": "On the other hand, Stephen Hawking has argued that even if the MWI is correct, we should expect each time traveler to experience a single self-consistent history, so that time travelers remain within their own world rather than traveling to a different one. The physicist Allen Everett argued that Deutsch's approach \"involves modifying fundamental principles of quantum mechanics; it certainly goes beyond simply adopting the MWI\".",
+        "target": "one",
+        "options": {
+            "A": "history",
+            "B": "world"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 242,
+        "text": "Andrew Carlssin was supposedly arrested in March 2003 for SEC violations for making 126 high-risk stock trades and being successful on every one. As reported, Carlssin started with an initial investment of $800 and ended with over $350,000,000 which drew the attention of the SEC. Later reports suggest that after his arrest, he submitted a four-hour confession wherein he claimed to be a time traveler from 200 years in the future.",
+        "target": "one",
+        "options": {
+            "A": "SEC violations",
+            "B": "high-risk stock trades"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 243,
+        "text": "In Oneida II, the four dissenting justices would have applied laches to dismiss the claim. Although the majority did not reach the issue (which the defendants had not preserved on appeal), it noted that \"it is far from clear that this defense is available in suits such as this one\" and that the \"application of the equitable defense of laches in an action at law would be novel indeed.\" A footnote in the majority also quoted Ewert v. Bluejacket (1922), which held that laches \"cannot properly have application to give vitality to a void deed and to bar the rights of Indian wards in lands subject to statutory restrictions.\"",
+        "target": "one",
+        "options": {
+            "A": "defense",
+            "B": "suits"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 244,
+        "text": "On 1 May, Diaby suffered a severe ankle fracture after being on the receiving end of a tackle, described by the media as \"horrendous\", from Sunderland defender Dan Smith. After the match, Wenger described the tackle as \"a bad kick and an unnecessary one\" and also criticised his competitors' over-physicality, while interim Sunderland manager Kevin Ball defended Smith stating \"Smith is not a malicious, dirty player and I think it's unfair to make that call on him and say he deliberately went to do it. Dan went for the ball, unfortunately Diaby was quicker than him\". ",
+        "target": "one",
+        "options": {
+            "A": "tackle",
+            "B": "kick "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 245,
+        "text": "Absolute Software rejected the claims made in the research, stating that \"the presence of the Computrace module in no way weakens the security of the BIOS\". Another independent analyst confirmed the flaws, noted that a malware hijacking attack would be a \"highly exotic one\", and suggested that the larger concern was that savvy thieves could disable the phone home feature. Later, Core Security Technologies proved the researcher's finding by making publicly available several proofs of concept, videos, and utilities on its webpage.",
+        "target": "one",
+        "options": {
+            "A": "flaws",
+            "B": "attack "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 246,
+        "text": "Abzû was nominated at The Game Awards 2016 in the \"Best Art Direction\" category; at the Golden Joystick Awards in the \"Best Original Game\", \"Best Visual Design\" and \"PlayStation Game of the Year\" categories; and at the 2017 BAFTA Games Awards in the \"Artistic Achievement\" category. Martin Gaston of Eurogamer called it \"a mechanically simple game, but a pleasurable one\"—while finding early sections barren and the camera awkward at times, he enjoyed the gameplay's simplicity. Scott Butterworth of GameSpot found the gameplay lacking in variety, but otherwise praised the game's immersive qualities.",
+        "target": "one",
+        "options": {
+            "A": "Eurogamer",
+            "B": "game"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 247,
+        "text": "Here, Drake anchors opposite this 1 ½ mile long cove instead of sailing directly into it. In the morning of the 19th, crew members go ashore to look for water. They take two large pigs and several small ones. At 1:00 that afternoon, they are attacked by the Spaniards. Da Silva records the number of horsemen as 250 and Fletcher estimates 100. Following the horsemen are 200 indigenous men on foot.",
+        "target": "ones",
+        "options": {
+            "A": "water",
+            "B": " pigs"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 248,
+        "text": "Achimota School has two student magazines, \"The Achimotan\" and the more recent one \"The Motowner\" both published periodically. Two newsletters also exist on campus: The Blueprint (Originally a publication of Guggisberg House)and The Motown Express.",
+        "target": "one",
+        "options": {
+            "A": "The Achimotan",
+            "B": "student magazines"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 249,
+        "text": "\"Fever and dysentery\": The Pulpit Commentary noted about this verse that \"the terms here used are all professional ones\". The word Greek: πυρετοῖς, pyretois, \"fevers\" in the plural, is frequently found in the ancient medical writings of Hippocrates, Aretaeus, and Galen, but elsewhere by other writers in the New Testament always in the singular πυρετός.",
+        "target": "ones",
+        "options": {
+            "A": "verse",
+            "B": "terms "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 250,
+        "text": "Diocletian reorganises the provinces of Hispania, creating some new ones. Of interest, Gallaecia is split from the Tarraconensis province. Gallaecia includes the North of Portugal (starting with Portus Cale/Oporto) and extending to the North of Spain (Galicia). Bracara Augusta (Braga) is the administrative centre of Conventus Bracarensis, one of the three conventus of Gallaecia.",
+        "target": "ones",
+        "options": {
+            "A": "Hispania",
+            "B": "provinces"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 251,
+        "text": "Idah was born in Cork to a Nigerian father and Irish mother. He has been a youth international for Ireland. Following Idah's hat-trick for Norwich City against Preston North End on 4 January 2020, Republic of Ireland manager Mick McCarthy hinted that Idah may soon earn a full cap, commenting \"He might have just got himself one\", while working as a pundit for BT Sport's coverage of the match. On 24 August 2020, Idah was named in the Republic of Ireland senior squad for the first time for the UEFA Nations League games against Bulgaria and Finland, in what was his manager at under 21 level, Stephen Kenny's first squad as senior manager.",
+        "target": "one",
+        "options": {
+            "A": "manager",
+            "B": "a full cap"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 252,
+        "text": "The sarafan is a long, shapeless pinafore-type jumper dress, a part of the traditional Russian folk costume worn by women and girls. Sarafans could be of single piece construction with thin shoulder straps over which a corset is sometimes worn, giving the shape of the body of a smaller triangle over a larger one. It comes in different styles such as the simpler black, flower- or check-patterned versions formerly used for everyday wear, or elaborate brocade versions formerly reserved for special occasions.",
+        "target": "one",
+        "options": {
+            "A": "body",
+            "B": "triangle "
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 253,
+        "text": "In an interview with TV Guide Canada, former executive producer and head writer Maria Arena Bell stated that while she would not comment on Engen's decision, she was \"saddened that they had to recast because Engen was really gelling in the role\", but added that she had \"no doubt\" that Muhney would make Adam his own. In another interview, Eileen Davidson, who portrayed Ashley Abbott, said that she \"couldn't judge\" Engen's decision since it was a \"personal one\". Davidson said, \"Everybody has his or her own demons—and makes their own choices due to their creative process.\"",
+        "target": "one",
+        "options": {
+            "A": "decision",
+            "B": "interview "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 254,
+        "text": "The production ran for four months at King's Head Theatre, garnishing critical notice from Fiona Maddocks in The Observer, \"Madam Butterfly has been updated to Bangkok Butterfly to chilling effect... full of promise and musically intelligent.\" and Michael Tanner in The Spectator, \"Beautiful and sexy... the evening was a powerful one\".",
+        "target": "one",
+        "options": {
+            "A": "evening",
+            "B": "promise"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 255,
+        "text": "He was able to read the signs of the times and show that “Christ’s message offers a valid and beautiful answer to all questions, even the thorny ones”, and that “all the daily events are grounded in eternity”. He spread his ideas primarily in the form of sermons: he was known as being a skillful, stirring and excellent preacher, “mighty in word” (comp. Lk 24,19).",
+        "target": "ones",
+        "options": {
+            "A": "questions",
+            "B": "answer"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 256,
+        "text": "The reviews of the new orchestra were enthusiastic. The Times wrote of its \"virtuosity\" and of Boult's \"superb\" conducting. The Musical Times commented, \"The boast of the B.B.C. that it intended to get together a first-class orchestra was not an idle one\" and spoke of \"exhilaration\" at the playing. The Observer called the playing \"altogether magnificent\" and said that Boult \"deserves an instrument of this fine calibre to work on, and the orchestra deserves a conductor of his efficiency and insight.\"",
+        "target": "one",
+        "options": {
+            "A": "boast",
+            "B": "orchestra"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 257,
+        "text": "His candidates revived the proposal of a territorial development of the Commonwealth, also recycling the term \"permanent union\" when referring to this proposal. This shattered the ties that the party had created with other movements and factions, particularly the more liberal ones. With the conservative wing regaining control of the Government Board, Héctor Ferrer, who has publicly expressed his aversion towards free association, was selected as the party's president.",
+        "target": "ones",
+        "options": {
+            "A": "movements and factions",
+            "B": "the party"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 258,
+        "text": "In an interview with The Indian Express, Rao mentioned she was surprised to be labelled as the voice of Aishwarya Rai Bachchan. She called the song \"not an easy one\", \"seamless\" and did take some time to get into it. While recording, it was difficult for her to keep that composure and flow. The song was composed in Sufi genre. Upon its release, the key riff in the song was noted reminiscent of Papa Roach's 2000 single Last Resort.",
+        "target": "one",
+        "options": {
+            "A": "song ",
+            "B": "voice"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 259,
+        "text": "Next Generation reviewed the Neo-Geo version of the game, stating that \"players with any skill will beat the game on the easy or normal level in under an hour. The higher levels offer more challenges, but not new ones\". Hobby Consolas's Manuel del Campo praised the graphical design of stages and enemies despite the small size of the player's plane, music, playability and ship variety but criticized the lack of variety with sound design and \"wow factor\".",
+        "target": "ones",
+        "options": {
+            "A": "challenges",
+            "B": "levels"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 260,
+        "text": "Sherilyn Connelly in her review for The Village Voice said, \"[The film is] a shaggy dog story, but an intriguing and frequently beautiful one\" and singularly praised Wright by saying that \"the picture fumbles the ending, sliding into a Gravity-esque soapy backstory while suggesting that supporting actress Bonnie Wright might have been a stronger female lead.\" Nicolas Rapold of The New York Times called it \"both smugly clever and at times distastefully clueless.\"",
+        "target": "one",
+        "options": {
+            "A": "story",
+            "B": "film "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 261,
+        "text": "Gary Giddins penned an angrily dismissive review of Agharta in The Village Voice, in which he charged Davis with failing to assert his musical presence on what he said is not \"just a bad record\" but also \"a sad one\". In Giddins' mind, the trumpeter \"doesn't exploit the backbeat, he succumbs to it, and the worst consequence is not the ensuing monotony, which theoretically a soloist could turn to his advantage.\"",
+        "target": "one",
+        "options": {
+            "A": "record",
+            "B": "presence"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 262,
+        "text": "Pochin wrote in 1855 a frequently overlooked work. John Chapman published her work titled \"The Right of Women to Exercise the Elective Franchise\". She argues for not only equal voting rights but also equality with respect to education, divorce, ambition or social aspiration. She wrote that \"Women's life in the middle classes is, and has been rendered a dull one\". It was signed \"Justitia\", and it was not published under her name until 1873.",
+        "target": "one",
+        "options": {
+            "A": "life ",
+            "B": "classes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 263,
+        "text": "Antonio Mampaso, a Spanish astrophysicist and one of Agora's scientific advisors, stated in an interview that \"We know that Hypatia lived in Alexandria in the IV and V centuries CE, until her death in 415. Only three primary sources mention Hypatia of Alexandria, apart from other secondary ones\". He added that none of Hypatia's work has survived but it is thought, from secondary sources, that her main fields of study and work were geometry and astronomy.",
+        "target": "ones",
+        "options": {
+            "A": "sources ",
+            "B": "Hypatia of Alexandria"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 264,
+        "text": "Compute!'s Gazette noted that Airborne Ranger was an unusual game for MicroProse's developers given their history of publishing simulations, writing \"they have created an arcade game, and a darned good one\". Compute! stated that \"Airborne Ranger is an excellent game from beginning to end\", but cautioned that \"the violence and action are graphic and highly realistic\".",
+        "target": "one",
+        "options": {
+            "A": "arcade game",
+            "B": "publishing simulations"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 265,
+        "text": "Amanda Petrusich wrote in Pitchfork that the album is \"as much a jazz record as a pop one\", while Ben Ratliff from The New York Times said it \"created a new standard for the relationship between jazz and rock, one that was basically irreproducible, by Steely Dan or anyone else […] a progressive jazz record with backbeats, a '70s hipster's extension of what had been Gil Evans's vision two decades earlier.\"",
+        "target": "one",
+        "options": {
+            "A": "record",
+            "B": "album"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 266,
+        "text": "Ran's costume designer, Emi Wada, won the movie's only Oscar. Kagemusha and Ran, particularly the latter, are often considered to be among Kurosawa's finest works. After Ran's release, Kurosawa would point to it as his best film, a major change of attitude for the director who, when asked which of his works was his best, had always previously answered \"my next one\".",
+        "target": "one",
+        "options": {
+            "A": "works",
+            "B": "director"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 267,
+        "text": "The German explorer in Danish service, Carsten Niebuhr, visited Yemen in 1762–1763 at the head of a scientific expedition. He met al-Mahdi Abbas whom he described in racialist terms: \"Had it not been for some negro traits, his countenance might have been thought a good one\". The imam wore green robes with flowing sleeves, embroidered with gold lace. On his head he wore a large turban. Niebuhr and the other Europeans were permitted to kiss his hand and robe.",
+        "target": "one",
+        "options": {
+            "A": "countenance",
+            "B": "traits"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 268,
+        "text": "The British invasion, which started with The Beatles, swept through Australia with many British acts being considered alternatives to the American ones. When the Beatles toured Australia in 1964, there were fans running to meet them everywhere. They performed to sell-out crowds in Sydney, Melbourne, Brisbane, Adelaide and Perth. The Rolling Stones also toured Australia in 1965, again to sellout crowds. But American singers still came to Australia for tours - Bob Dylan in 1966. The mid-1960s saw the 'mod' fad, which had been popular in Britain, come and go.",
+        "target": "ones",
+        "options": {
+            "A": "acts",
+            "B": "alternatives"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 269,
+        "text": "The Casablanca agreement was in fact a compromise, brokered largely by Brooke's old friend Field Marshal Sir John Dill, Chief of the British Joint Staff Mission in Washington, D.C. \"I owe him [Dill] an unbounded debt of gratitude for his help on that occasion and in many other similar ones\", Brooke wrote after the war. The post of CIGS was less rewarding than command in an important theatre of war but the CIGS chose the generals who commanded those theatres and decided what men and munitions they should have.",
+        "target": "ones",
+        "options": {
+            "A": "occasion",
+            "B": "generals"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 270,
+        "text": "A Gallic tribe named Alauni (Αλαυνοί) is also attested in Noricum, and linguist Xavier Delamarre has argued that the root alǝ-, meaning 'to wander', \"would suit river names as much as ethnic ones\". In this view, *Alamnos may be compared with the Celtic stem *alamo- ('herd'; cf. Old Irish alam, Welsh alaf), and the ethnonym Alauni rendered as the 'errants' or the 'nomads', contrasting with the name of the Anauni ('the Staying Ones').",
+        "target": "ones",
+        "options": {
+            "A": "names",
+            "B": "river"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 271,
+        "text": "Following the Inter-island match Albert Laing was selected in the first test team for New Zealand to play England. It was said that the “New Zealand selectors have placed a big responsibility on Laing, the youthful fullback. The Auckland custodian has given good displays in club matches, but he lacks experience in comparison to Sullivan, who is likely to make Laing’s task a more difficult one”.",
+        "target": "one",
+        "options": {
+            "A": "task",
+            "B": "experience"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 272,
+        "text": "Overall for Sunderland, he made 123 league appearances without a goal. In March 1914 Albert was given a benefit game by the Black Cats before he joined Swindon Town in May of the same year. Despite the transfer fee paid by Swindon being \"a very large one\" after just twelve months he left the club to return to the Sunderland area with the onset of war.",
+        "target": "one",
+        "options": {
+            "A": "transfer fee",
+            "B": "Swindon"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 273,
+        "text": "Since its discovery, it has been found to have infected more than two dozen major banking institutions in the United States, including TD Bank, Chase, HSBC, Wells Fargo, PNC and Bank of America. Tiny Banker Trojan uses HTTP injection to force the user's computer to believe that it is on the bank's website. This spoof page will look and function just as the real one. The user then enters their information to log on, at which point Tinba can launch the bank webpage's \"incorrect login information\" return, and redirect the user to the real website.",
+        "target": "one",
+        "options": {
+            "A": "page",
+            "B": "website"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 274,
+        "text": "As a result of having no state open container laws, under the federal Transportation Equity Act for the 21st century of 1999, a percentage of Missouri's federal highway funds is transferred instead to alcohol education programs each year. Since 1999, the Missouri General Assembly has considered several bills which would have created open container regimens satisfying the federal law, but each one \"failed due to weak legislative support.\" Anheuser-Busch leads opposition to enacting a passenger open container law.",
+        "target": "one",
+        "options": {
+            "A": "bills",
+            "B": "law"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 275,
+        "text": "Aleksandr Ryazantsev took little persuading to join Zenit Saint Petersburg on a free transfer from Rubin Kazan, saying the league leaders' offer \"was the most interesting one\". Players who have this terrible cannonball said he was happy to be joining with Zenit. Ryazantsev signed for Zenit Saint Petersburg. On 30 January 2014 Ryazantsev played a friendly match Zenit Saint Petersburg vs Shakhtar Donetsk, he scored with a penalty kick and brought Rubin Kazan Win 1-0 at Donbass Arena.",
+        "target": "one",
+        "options": {
+            "A": "offer",
+            "B": " transfer "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 276,
+        "text": "Robert Potts in The Times Literary Supplement praised the book as a \"very well-researched narrative\" that was \"widely sourced\", commenting that “The story of how such an other-worldly figure became leader of the party simply by being himself is an oddly electrifying one”. Stephen Bush of the New Statesman wrote that \"Corbyn is at last given a wholly sympathetic hearing\", the work being \"the most authoritative yet published on his rise\", but criticised it for a \"lack of fluency around the animating issues of the Labour right\".",
+        "target": "one",
+        "options": {
+            "A": "story",
+            "B": "party"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 277,
+        "text": "At first, it was intended that Grant would rebuild Fort James, but the lack of room on the island led to Grant being asked to explore other options. Lieutenant Colonel Thomas Brereton, the Governor of Senegal, approved the sandy pit at the extreme point of Banjulo, \"probably more from a strategic view than a sanitary one\" as it was battered by the Atlantic waves, had a mangrove swamp behind it, but also commanded the mouth of the Gambia River.",
+        "target": "one",
+        "options": {
+            "A": "view",
+            "B": "point "
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 278,
+        "text": "In 1772 Jardine returned from Gibraltar to Woolwich where he wrote to fellow officer Captain Edward Williams, proposing the formation of a Military Society at Woolwich, noting that \"We have already in this country all kinds of Societies except a military one\". This voluntary organisation, though the exchange of essays and ideas between the members, would give \"an acquaintance to a fixed degree, with Geometry, Algebra, Mechanics, Fortification, Natural Philosophy, History, Law and Politics...\".",
+        "target": "one",
+        "options": {
+            "A": "Societies",
+            "B": "country"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 279,
+        "text": "He mathematically develops Ampère's law describing the magnetic force between two electric currents. His mathematical theory explains known electromagnetic phenomena and predicts new ones. His laws of electrodynamics include the facts that parallel conductors currying current in the same direction attract and those carrying currents in the opposite directions repel one another.",
+        "target": "ones",
+        "options": {
+            "A": "electromagnetic phenomena",
+            "B": "mathematical theory"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 280,
+        "text": "Navalny was arrested on 5 December. After a period of uncertainty for his supporters, Navalny appeared in court and was sentenced to the maximum 15 days \"for defying a government official\". Alexei Venediktov, editor-in-chief of Echo of Moscow radio station, called the arrest \"a political mistake: jailing Navalny transforms him from an online leader into an offline one\". After his arrest, his blog became available in English. ",
+        "target": "one",
+        "options": {
+            "A": "leader",
+            "B": "mistake"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 281,
+        "text": "Nour enlisted other negative comments from Iorga when he began writing Bessarabian notices in the Romanian daily Adevărul, which had Jewish proprietors. Iorga, an antisemite, commented: \"Mr. Alexe Nour of Chișinău assures us now that his new gazette [...] will not be a philosemitic one\". According to Iorga, Nour was given reason to \"feel sorry\" about the Adevărul collaboration.",
+        "target": "one",
+        "options": {
+            "A": "gazette",
+            "B": "antisemite"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 282,
+        "text": "There were reports of busloads of Russian citizens crossing the border into Ukraine to support pro-Russian demonstrators. At an administrative building in Kharkiv, a Russian from Moscow replaced the Ukrainian flag with a Russian one. Demonstrators supporting Russia vandalized the parliament building and beat civilians, but Reuters reported that this alienated many local ethnic Russians, who were speaking and mobilizing in support of the Ukrainian government.",
+        "target": "one",
+        "options": {
+            "A": "flag",
+            "B": "building"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 283,
+        "text": "Italian film historian Roberto Curti described Brescia as \"a hack, but a reliable one\". Curti referred to Brescia as \"one of the most prolific and versatile Italian filmmakers of the 1970s\". Brescia worked in popular film genres of their respective eras in Italy, including sword and sandal films, Westerns, war films, mondo films, gialli, erotic films, superhero films, children's films, and science fiction films.",
+        "target": "one",
+        "options": {
+            "A": "hack",
+            "B": "historian"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 284,
+        "text": "In his review, Orwell wrote that The Edge of the Abyss \"raises a real problem\" – the \"decay in the belief in absolute good and evil\", with the result that the \"rules of behaviour on which any stable society has to rest are dissolving\" and \"even the prudential reasons for common decency are being forgotten\". Indeed, in Orwell's view, Noyes \"probably even underemphasises the harm done to ordinary common sense by the cult of 'realism', with its inherent tendency to assume that the dishonest course is always the profitable one\". On the other hand, Orwell finds Noyes' suggested remedy, a return to Christianity, \"doubtful, even from the point of view of practicality\".",
+        "target": "one",
+        "options": {
+            "A": "course",
+            "B": "tendency"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 285,
+        "text": "Stephen Holden of The New York Times wrote in his review, \"What does all this have to do with Lewis Carroll? Hardly anything\" and that overall, \"It's just an excuse on which to hang two trite overbearing fables and one amusing one\". Ty Burr of The Boston Globe gave the movie 1.5 out of 4 stars and called the film, \"gaudy, loud, complacent, and vulgar.\"",
+        "target": "one",
+        "options": {
+            "A": "fables",
+            "B": "excuse"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 286,
+        "text": "As the impact of the Hong Kong National Security Law on the city became increasingly evident, and additionally in response to acts by representatives of the local and mainland governments throughout the protests, Western democracies continued to voice sharp criticism and implemented sanctions against China, with the United States imposing sanctions on 11 Hong Kong officials on 7 August. These developments supported the opinion expressed by former British Foreign Secretary Malcolm Rifkind in late June that the protests had morphed from a mostly local dispute into an international one.",
+        "target": "one",
+        "options": {
+            "A": "dispute",
+            "B": "protests"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 287,
+        "text": "Species go extinct constantly as environments change, as organisms compete for environmental niches, and as genetic mutation leads to the rise of new species from older ones. At long irregular intervals, Earth's biosphere suffers a catastrophic die-off, a mass extinction, often comprising an accumulation of smaller extinction events over a relatively brief period.",
+        "target": "ones",
+        "options": {
+            "A": "species",
+            "B": "mutation"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 288,
+        "text": "Alan Sepinwall of Rolling Stone said \"All-New Halloween Spooktacular!\" was the first episode of the series where the sitcom material did not feel \"presented in air quotes\", with the early scenes coming across as \"a more convincing recreation rather than an ironic one\". However, he was disappointed the episode did not lean harder into the sitcom material beyond the early scenes, thinking Bettany could play \"a very amusing freaked-out dad\" and the series was better equipped to imitate a show like Malcolm in the Middle than The Dick Van Dyke Show or Bewitched as done in the early episodes where \"less seemed to be more\".",
+        "target": "one",
+        "options": {
+            "A": "recreation",
+            "B": "scenes"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 289,
+        "text": "This chart is the games system for overcoming one of the perceived flaws in a linearly progressive skill based game system. In a standard system, any modifier to a die roll has a greater effect on a lower skill level than a higher one. For example, a -1 modifier to a skill of 15 reduces that skill by about 7%, where a skill of 5 is reduced by 20%.",
+        "target": "one",
+        "options": {
+            "A": "skill level",
+            "B": "effect"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 290,
+        "text": "All I Feel was panned by most music critics. Steve Jones of USA Today rated this album one-and-a-half stars out of a possible five, stating that the album \"doesn’t leave much of an impression, even though Ray J tries hard to leave one\". On okayplayer, Jason Reynolds considered Ray J's sexual and drug content to be vulgar and \"forced\". Clover Hope of Billboard magazine gave this album a moderate review for the perception that Ray J \"tries too hard\" to \"prove himself\" to be grown up, \"like a wannabe rapper in singer's clothing\".",
+        "target": "one",
+        "options": {
+            "A": "an impression",
+            "B": "the album"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 291,
+        "text": "Writing for Time Out New York, Mikael Wood describes the music of \"All Matter\" as \"TV on the Radio-style art-funk\" and an example of Bilal traversing different styles throughout the album \"with the headstrong self-assurance of someone whose commercial aspirations trail his creative ones\". While Bilal's falsetto vocals are sung soulfully and in midtempo, they are arranged against beats played in an aggressive and fast manner.",
+        "target": "ones",
+        "options": {
+            "A": "aspirations",
+            "B": "self-assurance"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 292,
+        "text": "Mr Slocum and Miss Fitt had both passed comment on Maddy's bent posture. Perhaps, that is partly why they laugh: it is the best reaction to a life of unending misery in a world devoid of any God. In Happy Days, Winnie asks \"How can one better magnify the Almighty than by sniggering with him at his little jokes, particularly the poorer ones\". It is worthy of mention that \"it is Mr Tyler, rather than the Lord, who saved the preacher’s life when they were climbing together\".",
+        "target": "ones",
+        "options": {
+            "A": "jokes",
+            "B": "Almighty"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 293,
+        "text": "Writing for Allmusic, music critic Brian Downing wrote of the album \"Graham effectively and impressively showed why he not only is considered the father of the modern British folk movement, but also a real innovator in bringing world music to a traditionally Western form. And while the remakes don't completely render the originals obsolete, they do give listeners some nice alternative versions. The instrumentals, as usual, work best, as Graham's vocals are not his strongest point. Likewise, the numbers that dabble in blues, jazz, or ragtime, while adding a touch of variety, really don't impress as much as the genre-fusing ones\".",
+        "target": "ones",
+        "options": {
+            "A": "numbers",
+            "B": "variety"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 294,
+        "text": "Time displacement in sociology refers to the idea that new forms of activities may replace older ones. New activities that cause time displacement are usually technology-based, most common are the information and communication technologies such as Internet and television.",
+        "target": "ones",
+        "options": {
+            "A": "forms of activities",
+            "B": "idea"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 295,
+        "text": "Bucky explained in an interview that the original concept was to release Time to Win in two mini-LP volumes because the band wanted \"to get as much music out there as we could constantly, instead of having to wait a whole two to three years before we put another one out.\"",
+        "target": "one",
+        "options": {
+            "A": "music",
+            "B": "years"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 296,
+        "text": "Hunter also talked about some collaborations saying that the band \"got to work with some different producers than we used on the first one. We got to work with some other key people, namely Boi-1da.\"",
+        "target": "one",
+        "options": {
+            "A": "collaborations",
+            "B": "band"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 297,
+        "text": "Unlike real meerkats, Timon can walk on his hind legs, while in real life, meerkats walk on all four legs and can only stand on their hind ones.",
+        "target": "ones",
+        "options": {
+            "A": "legs",
+            "B": "meerkats"
+        },
+        "answer": "A"
+    },
+    {
+        "text_id": 298,
+        "text": "A variation of Hugh Everett's many-worlds interpretation (MWI) of quantum mechanics provides a resolution to the grandfather paradox that involves the time traveler arriving in a different universe than the one they came from; it's been argued that since the traveler arrives in a different universe's history and not their own history, this is not \"genuine\" time travel.",
+        "target": "one",
+        "options": {
+            "A": "traveler",
+            "B": "universe"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 299,
+        "text": "During the process of transmutation the light-coloured starting material is transformed to a darker and more reddish one.",
+        "target": "one",
+        "options": {
+            "A": "transmutation",
+            "B": "starting material"
+        },
+        "answer": "B"
+    },
+    {
+        "text_id": 300,
+        "text": "Distorted Sound stated that \"Sometimes it's just nice to hear a band at the height of their powers doing what they do best. Either way, Timeless marks a solid first entry to OF MICE &MEN's 2021 trilogy, and a record that should have listeners eagerly looking to the next one.\"",
+        "target": "one",
+        "options": {
+            "A": "record",
+            "B": "listeners"
+        },
+        "answer": "A"
+    }
+]
