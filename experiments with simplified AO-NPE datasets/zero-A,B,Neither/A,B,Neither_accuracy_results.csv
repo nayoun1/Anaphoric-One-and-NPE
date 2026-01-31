@@ -1,0 +1,16 @@
+Model,Dataset,Total,Correct,Accuracy
+zero-ABNeither/GPT_zero,one_new.csv,150,143,95.33%
+zero-ABNeither/GPT_zero,npe_new.csv,150,139,92.67%
+zero-ABNeither/GPT_zero,gap-test.csv,2000,1670,83.5%
+zero-ABNeither/GPT_zero,wsc.csv,273,204,74.73%
+,,,,
+zero-ABNeither/Gemma_zero,one_new.csv,150,138,92.0%
+zero-ABNeither/Gemma_zero,npe_new.csv,150,131,87.33%
+zero-ABNeither/Gemma_zero,gap-test.csv,2000,1631,81.55%
+zero-ABNeither/Gemma_zero,wsc.csv,273,224,82.05%
+,,,,
+zero-ABNeither/LLaMA_zero,one_new.csv,150,76,50.67%
+zero-ABNeither/LLaMA_zero,npe_new.csv,150,76,50.67%
+zero-ABNeither/LLaMA_zero,gap-test.csv,2000,1267,63.35%
+zero-ABNeither/LLaMA_zero,wsc.csv,273,235,86.08%
+,,,,

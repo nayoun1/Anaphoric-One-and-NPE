@@ -1,0 +1,274 @@
+text_id,text,target,expected_answer,gpt_answer,correct
+wsc-1,The city councilmen refused the demonstrators a permit because [target]  feared violence.,[target],THE CITY COUNCILMEN,THE CITY COUNCILMEN,True
+wsc-2,The city councilmen refused the demonstrators a permit because [target]  advocated violence.,[target],THE DEMONSTRATORS,THE DEMONSTRATORS,True
+wsc-3,The trophy doesn't fit into the brown suitcase because  [target]  is too large.,[target],THE TROPHY,THE TROPHY,True
+wsc-4,The trophy doesn't fit into the brown suitcase because  [target]  is too small.,[target],THE SUITCASE,THE BROWN SUITCASE,False
+wsc-5,Joan made sure to thank Susan for all the help  [target]  had recieved.,[target],JOAN,SUSAN,False
+wsc-6,Joan made sure to thank Susan for all the help  [target]  had given.,[target],SUSAN,SUSAN,True
+wsc-7,"Paul tried to call George on the phone, but  [target]  wasn't successful.",[target],PAUL,PAUL,True
+wsc-8,"Paul tried to call George on the phone, but  [target]  wasn't available.",[target],GEORGE,GEORGE,True
+wsc-9,"The lawyer asked the witness a question, but  [target]  was reluctant to repeat it.",[target],THE LAWYER,THE WITNESS,False
+wsc-10,"The lawyer asked the witness a question, but  [target]  was reluctant to answer it.",[target],THE WITNESS,THE WITNESS,True
+wsc-11,The delivery truck zoomed by the school bus because  [target]  was going so fast.,[target],THE DELIVERY TRUCK,THE DELIVERY TRUCK,True
+wsc-12,The delivery truck zoomed by the school bus because  [target]  was going so slow.,[target],THE SCHOOL BUS,THE SCHOOL BUS,True
+wsc-13,Frank felt vindicated when his longtime rival Bill revealed that  [target]  was the winner of the competition.,[target],FRANK,FRANK,True
+wsc-14,Frank felt crushed when his longtime rival Bill revealed that  [target]  was the winner of the competition.,[target],BILL,THE COMPETITION WINNER,False
+wsc-15,The man couldn't lift his son because  [target]  was so weak.,[target],THE MAN,HIS SON,False
+wsc-16,The man couldn't lift his son because  [target]  was so heavy.,[target],THE SON,HIS SON,False
+wsc-17,The large ball crashed right through the table because  [target]  was made of steel.,[target],THE LARGE BALL,THE TABLE,False
+wsc-18,The large ball crashed right through the table because  [target]  was made of styrofoam.,[target],THE TABLE,THE TABLE,True
+wsc-19,John couldn't see the stage with Billy in front of him because  [target]  is so short.,[target],JOHN,BILLY,False
+wsc-20,John couldn't see the stage with Billy in front of him because  [target]  is so tall.,[target],BILLY,BILLY,True
+wsc-21,Tom threw his schoolbag down to Ray after  [target]  reached the top of the stairs.,[target],TOM,RAY,False
+wsc-22,Tom threw his schoolbag down to Ray after  [target]  reached the bottom of the stairs.,[target],RAY,TOM,False
+wsc-23,"Although they ran at about the same speed, Sue beat Sally because  [target]  had such a good start.",[target],SUE,SUE,True
+wsc-24,"Although they ran at about the same speed, Sue beat Sally because  [target]  had such a bad start.",[target],SALLY,SALLY,True
+wsc-25,The sculpture rolled off the shelf because  [target]  wasn't anchored.,[target],THE SCULPTure,THE SCULPTure,True
+wsc-26,The sculpture rolled off the shelf because  [target]  wasn't level.,[target],THE SHELF,THE SHELF,True
+wsc-27,Sam's drawing was hung just above Tina's and  [target]  did look much better with another one below it.,[target],SAM'S DRAWING,SAM'S DRAWING,True
+wsc-28,Sam's drawing was hung just above Tina's and  [target]  did look much better with another one above it.,[target],TINA'S DRAWING,SAM'S DRAWING,False
+wsc-29,Anna did a lot better than her good friend Lucy on the test because  [target]  had studied so hard.,[target],ANNA,ANNA,True
+wsc-30,Anna did a lot worse than her good friend Lucy on the test because  [target]  had studied so hard.,[target],LUCY,LUCY,True
+wsc-31,The firemen arrived after the police because  [target]  were coming from so far away.,[target],THE FIREMEN,THE FIREMEN,True
+wsc-32,The firemen arrived before the police because  [target]  were coming from so far away.,[target],THE POLICE,THE POLICE,True
+wsc-33,Frank was upset with Tom because the toaster  [target]  had bought from him didn't work.,[target],FRANK,TOASTER,False
+wsc-34,Frank was upset with Tom because the toaster  [target]  had sold him didn't work.,[target],TOM,TOASTER,False
+wsc-35,Jim yelled at Kevin because  [target]  was so upset.,[target],JIM,KEVIN,False
+wsc-36,Jim comforted Kevin because  [target]  was so upset.,[target],KEVIN,KEVIN,True
+wsc-37,"The sack of potatoes had been placed above the bag of flour, so  [target]  had to be moved first.",[target],THE SACK OF POTATOES,THE SACK OF POTATOES,True
+wsc-38,"The sack of potatoes had been placed below the bag of flour, so  [target]  had to be moved first.",[target],THE BAG OF FLOUR,THE SACK OF POTATOES,False
+wsc-39,Pete envies Martin although  [target]  is very successful.,[target],PETE,MARTIN,False
+wsc-40,Pete envies Martin because  [target]  is very successful.,[target],MARTIN,MARTIN,True
+wsc-41,"The older students were bullying the younger ones, so we punished  [target] .",[target],THE OLDER STUDENTS,THE OLDER STUDENTS,True
+wsc-42,"The older students were bullying the younger ones, so we rescued  [target] .",[target],THE YOUNGER STUDENTS,THE YOUNGER ONES,False
+wsc-43,I poured water from the bottle into the cup until  [target]  was empty.,[target],THE BOTTLE,THE BOTTLE,True
+wsc-44,I poured water from the bottle into the cup until  [target]  was full.,[target],THE CUP,THE CUP,True
+wsc-45,Susan knows all about Ann's personal problems because  [target]  is nosy.,[target],SUSAN,SUSAN,True
+wsc-46,Susan knows all about Ann's personal problems because  [target]  is indiscreet.,[target],ANN,SUSAN,False
+wsc-47,Sid explained his theory to Mark but  [target]  couldn't convince him.,[target],SID,SID,True
+wsc-48,Sid explained his theory to Mark but  [target]  couldn't understand him.,[target],MARK,MARK,True
+wsc-49,"Susan knew that Ann's son had been in a car accident, so  [target]  told her about it.",[target],SUSAN,SUSAN,True
+wsc-50,"Susan knew that Ann's son had been in a car accident, because  [target]  told her about it.",[target],ANN,ANN,True
+wsc-51,"Joe's uncle can still beat him at tennis, even though  [target]  is 30 years younger.",[target],JOE,JOE,True
+wsc-52,"Joe's uncle can still beat him at tennis, even though  [target]  is 30 years older.",[target],JOE'S UNCLE,JOE,False
+wsc-53,The painting in Mark's living room shows an oak tree.  [target]  is to the right of the bookcase.,[target],THE PAINTING,THE PAINTING,True
+wsc-54,The painting in Mark's living room shows an oak tree.  [target]  is to the right of a house.,[target],THE OAK TREE,THE OAK TREE,True
+wsc-55,There is a gap in the wall. You can see the garden through  [target] .,[target],THE GAP,THE GAP,True
+wsc-56,There is a gap in the wall. You can see the garden behind  [target] .,[target],THE WALL,THE WALL,True
+wsc-57,The drain is clogged with hair.  [target]  has to be cleaned.,[target],THE DRAIN,THE DRAIN,True
+wsc-58,The drain is clogged with hair.  [target]  has to be removed.,[target],THE HAIR,THE HAIR,True
+wsc-59,"My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily,  [target]  was short, so it worked out.",[target],THE MEETING,THE MEETING,True
+wsc-60,"My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily,  [target]  was delayed, so it worked out.",[target],THE TRAIN,THE TRAIN,True
+wsc-61,"There is a pillar between me and the stage, and I can't see around  [target] .",[target],THE PILLAR,THE STAGE,False
+wsc-62,"There is a pillar between me and the stage, and I can't see  [target] .",[target],THE STAGE,THE STAGE,True
+wsc-63,"They broadcast an announcement, but a subway came into the station and I couldn't hear  [target] .",[target],THE ANNOUNCEMENT,THE ANNOUNCEMENT,True
+wsc-64,"They broadcast an announcement, but a subway came into the station and I couldn't hear over  [target] .",[target],THE SUBWAY,THE SUBWAY,True
+wsc-65,"In the middle of the outdoor concert, the rain started falling, but  [target]  continued until 10.",[target],THE CONCERT,THE CONCERT,True
+wsc-66,"In the middle of the outdoor concert, the rain started falling, and  [target]  continued until 10.",[target],THE RAIN,THE RAIN,True
+wsc-67,"I used an old rag to clean the knife, and then I put  [target]  in the trash.",[target],THE RAG,THE RAG,True
+wsc-68,"I used an old rag to clean the knife, and then I put  [target]  in the drawer.",[target],THE KNIFE,THE KNIFE,True
+wsc-69,"Ann asked Mary what time the library closes, because  [target]  had forgotten.",[target],ANN,ANN,True
+wsc-70,"Ann asked Mary what time the library closes, but  [target]  had forgotten.",[target],MARY,MARY,True
+wsc-71,I took the water bottle out of the backpack so that  [target]  would be handy.,[target],THE WATER BOTTLE,THE WATER BOTTLE,True
+wsc-72,I took the water bottle out of the backpack so that  [target]  would be lighter.,[target],THE BACKPACK,THE BACKPACK,True
+wsc-73,I couldn't put the pot on the shelf because  [target]  was too tall.,[target],THE POT,THE SHELF,False
+wsc-74,I couldn't put the pot on the shelf because  [target]  was too high.,[target],THE SHELF,THE SHELF,True
+wsc-75,I'm sure that my map will show this building;  [target]  is very good.,[target],THE MAP,THE BUILDING,False
+wsc-76,I'm sure that my map will show this building;  [target]  is very famous.,[target],THE BUILDING,THE BUILDING,True
+wsc-77,Bob paid for Charlie's college education.  [target]  is very generous.,[target],BOB,BOB,True
+wsc-78,Bob paid for Charlie's college education.  [target]  is very grateful.,[target],CHARLIE,CHARLIE,True
+wsc-79,"Bob paid for Charlie's college education, but now Charlie acts as though it never happened.  [target]  is very hurt.",[target],BOB,BOB,True
+wsc-80,"Bob paid for Charlie's college education, but now Charlie acts as though it never happened.  [target]  is very ungrateful.",[target],CHARLIE,CHARLIE,True
+wsc-81,"Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck,  [target]  would have won.",[target],BOB,BOB,True
+wsc-82,"Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck,  [target]  would have lost.",[target],ADAM,BOB,False
+wsc-83,"Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time,  [target]  would be gone by this time.",[target],ADAM,ADAM,True
+wsc-84,"Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time,  [target]  would be here by this time.",[target],BOB,BOB,True
+wsc-85,"If the con artist has succeeded in fooling Sam,  [target]  would have gotten a lot of money.",[target],THE CON ARTIST,THE CON ARTIST,True
+wsc-86,"If the con artist has succeeded in fooling Sam,  [target]  would have lost a lot of money.",[target],SAM,THE CON ARTIST,False
+wsc-87,"It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because  [target]  was hot.",[target],THE DOG,THE DOG,True
+wsc-88,"It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because  [target]  was cooler.",[target],THE SPOT UNDER THE TREE,THE SHADE,False
+wsc-89,"The cat was lying by the mouse hole waiting for the mouse, but  [target]  was too impatient.",[target],THE CAT,THE CAT,True
+wsc-90,"The cat was lying by the mouse hole waiting for the mouse, but  [target]  was too cautious.",[target],THE MOUSE,THE MOUSE,True
+wsc-91,Anne gave birth to a daughter last month.  [target]  is a very charming woman.,[target],ANNE,ANNE'S DAUGHTER,False
+wsc-92,Anne gave birth to a daughter last month.  [target]  is a very charming baby.,[target],ANNE'S DAUGHTER,THE DAUGHTER,False
+wsc-93,"Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why  [target]  was behaving so strangely.",[target],ALICE,HER DAUGHTER,False
+wsc-94,"Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why  [target]  was behaving so strangely.",[target],ALICE'S DAUGHTER,THE DAUGHTER,False
+wsc-95,"I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why  [target]  was, but he looked very unhappy.",[target],JIM,JIM,True
+wsc-96,"I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who  [target]  was, but he looked very unhappy.",[target],THE GUY IN UNIFORM,THE GUY IN A MILITARY UNIFORM,False
+wsc-97,The fish ate the worm.  [target]  was hungry.,[target],THE FISH,THE FISH,True
+wsc-98,The fish ate the worm.  [target]  was tasty.,[target],THE WORM,THE WORM,True
+wsc-99,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get  [target]  in.",[target],THE KEY,THE KEY,True
+wsc-100,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get  [target]  out.",[target],THE CHEWING GUM,THE KEY,False
+wsc-101,"The dog chased the cat, which ran up a tree.  [target]  waited at the bottom.",[target],THE DOG,THE DOG,True
+wsc-102,"The dog chased the cat, which ran up a tree.  [target]  waited at the top.",[target],THE CAT,THE CAT,True
+wsc-103,"In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get  [target]  removed.",[target],THE TREE,THE TREE,True
+wsc-104,"In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get  [target]  repaired.",[target],THE ROOF,THE ROOF,True
+wsc-105,The customer walked into the bank and stabbed one of the tellers.  [target]  was immediately taken to the police station.,[target],THE CUSTOMER,THE CUSTOMER,True
+wsc-106,The customer walked into the bank and stabbed one of the tellers.  [target]  was immediately taken to the hospital.,[target],THE TELLER,THE TELLER,True
+wsc-107,John was doing research in the library when he heard a man humming and whistling.  [target]  was very annoyed.,[target],JOHN,JOHN,True
+wsc-108,John was doing research in the library when he heard a man humming and whistling.  [target]  was very annoying.,[target],THE MAN,THE HUMMING AND WHISTLING,False
+wsc-109,John was jogging through the park when he saw a man juggling watermelons.  [target]  was very impressed.,[target],JOHN,JOHN,True
+wsc-110,John was jogging through the park when he saw a man juggling watermelons.  [target]  was very impressive.,[target],THE JUGGLER,THE MAN JUGGLING WATERMELONS,False
+wsc-111,Bob collapsed on the sidewalk. Soon he saw Carl coming to help.  [target]  was very ill.,[target],BOB,BOB,True
+wsc-112,Bob collapsed on the sidewalk. Soon he saw Carl coming to help.  [target]  was very concerned.,[target],CARL,CARL,True
+wsc-113,"Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because  [target]  are fifteen.",[target],SAM AND AMY,SAM AND AMY,True
+wsc-114,"Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because  [target]  are snobs.",[target],AMY'S PARENTS,AMY'S PARENTS,True
+wsc-115,"Mark told Pete many lies about himself, which Pete included in his book.  [target]  should have been more  truthful.",[target],MARK,MARK,True
+wsc-116,"Mark told Pete many lies about himself, which Pete included in his book.  [target]  should have been more  skeptical.",[target],PETE,PETE,True
+wsc-117,Joe has sold his house and bought a new one a few miles away. He will be moving out of  [target]  on Thursday.,[target],THE OLD HOUSE,HIS HOUSE,False
+wsc-118,Joe has sold his house and bought a new one a few miles away. He will be moving into  [target]  on Thursday.,[target],THE NEW HOUSE,THE NEW ONE,False
+wsc-119,Many people start to read Paul's books and can't put them down.  [target]  are gripped because Paul writes so well.,[target],PEOPLE,READERS,False
+wsc-120,Many people start to read Paul's books and can't put them down.  [target]  are popular because Paul writes so well.,[target],PAUL'S BOOKS,PAUL'S BOOKS,True
+wsc-121,Mary took out her flute and played one of her favorite pieces. She has had  [target]  since she was a child.,[target],THE FLUTE,HER FLUTE,False
+wsc-122,Mary took out her flute and played one of her favorite pieces. She has loved  [target]  since she was a child.,[target],THE PIECE,THE FLUTE,False
+wsc-123,"Sam pulled up a chair to the piano, but  [target]  was broken, so he had to stand instead.",[target],THE CHAIR,THE CHAIR,True
+wsc-124,"Sam pulled up a chair to the piano, but  [target]  was broken, so he had to sing instead.",[target],THE PIANO,THE PIANO,True
+wsc-125,"Since it was raining, I carried the newspaper in my backpack to keep  [target]  dry.",[target],THE NEWSPAPER,THE NEWSPAPER,True
+wsc-126,"Since it was raining, I carried the newspaper over my backpack to keep  [target]  dry.",[target],THE BACKPACK,THE NEWSPAPER,False
+wsc-127,Sara borrowed the book from the library because she needs it for an article she is working on. She reads  [target]  when she gets home from work.,[target],THE BOOK,THE BOOK,True
+wsc-128,Sara borrowed the book from the library because she needs it for an article she is working on. She writes  [target]  when she gets home from work.,[target],THE ARTICLE,THE ARTICLE,True
+wsc-129,"This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked  [target]  down.",[target],THE SAND CASTLE,THE SAND CASTLE,True
+wsc-130,"This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked  [target]  down.",[target],THE FLAG,THE SAND CASTLE,False
+wsc-131,"Jane knocked on Susan's door, but there was no answer.  [target]  was disappointed.",[target],JANE,JANE,True
+wsc-132,"Jane knocked on Susan's door, but there was no answer.  [target]  was out.",[target],SUSAN,SUSAN,True
+wsc-133,"Jane knocked on the door, and Susan answered it.  [target]  invited her to come out.",[target],JANE,SUSAN,False
+wsc-134,"Jane knocked on the door, and Susan answered it.  [target]  invited her to come in.",[target],SUSAN,SUSAN,True
+wsc-135,"Sam took French classes from Adam, because  [target]  was eager to speak it fluently.",[target],SAM,SAM,True
+wsc-136,"Sam took French classes from Adam, because  [target]  was known to speak it fluently.",[target],ADAM,ADAM,True
+wsc-137,"The path to the lake was blocked, so we couldn't use  [target] .",[target],THE PATH,THE PATH,True
+wsc-138,"The path to the lake was blocked, so we couldn't reach  [target] .",[target],THE LAKE,THE LAKE,True
+wsc-139,"The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started,  [target]  was out.",[target],THE SUN,THE SUN,True
+wsc-140,"The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started,  [target]  was gone.",[target],THE CLOUD,THE THICK CLOUD,False
+wsc-141,"We went to the lake, because a shark had been seen at the ocean beach, so  [target]  was a safer place to swim.",[target],THE LAKE,THE LAKE,True
+wsc-142,"We went to the lake, because a shark had been seen at the ocean beach, so  [target]  was a dangerous place to swim.",[target],THE OCEAN BEACH,THE LAKE,False
+wsc-143,"Sam tried to paint a picture of shepherds with sheep, but  [target]  ended up looking more like golfers.",[target],THE SHEPHERDS,THE PICTure,False
+wsc-144,"Sam tried to paint a picture of shepherds with sheep, but  [target]  ended up looking more like dogs.",[target],THE SHEEP,THE PICTure,False
+wsc-145,"Mary tucked her daughter Anne into bed, so that  [target]  could work.",[target],MARY,MARY,True
+wsc-146,"Mary tucked her daughter Anne into bed, so that  [target]  could sleep.",[target],MARY'S DAUGHTER,ANNE,False
+wsc-147,"Fred and Alice had very warm down coats, but  [target]  were not prepared for the cold in Alaska.",[target],FRED AND ALICE,FRED AND ALICE,True
+wsc-148,"Fred and Alice had very warm down coats, but  [target]  were not enough for the cold in Alaska.",[target],COATS,COATS,True
+wsc-149,Thomson visited Cooper's grave in 1765. At that date  [target]  had been travelling for five years.,[target],THOMSON,COOPER,False
+wsc-150,Thomson visited Cooper's grave in 1765. At that date  [target]  had been dead for five years.,[target],COOPER,COOPER,True
+wsc-151,"Jackson was greatly influenced by Arnold, though  [target]  lived two centuries later.",[target],JACKSON,ARNOLD,False
+wsc-152,"Jackson was greatly influenced by Arnold, though  [target]  lived two centuries earlier.",[target],ARNOLD,ARNOLD,True
+wsc-153,I can't cut that tree down with that axe;  [target]  is too thick.,[target],THE TREE,THE TRUNK,False
+wsc-154,I can't cut that tree down with that axe;  [target]  is too small.,[target],THE AXE,AXE,False
+wsc-155,The foxes are getting in at night and attacking the chickens. I shall have to kill  [target] .,[target],THE FOXES,THE FOXES,True
+wsc-156,The foxes are getting in at night and attacking the chickens. I shall have to guard  [target] .,[target],THE CHICKENS,THE CHICKENS,True
+wsc-157,The foxes are getting in at night and attacking the chickens.  [target]  have gotten very bold.,[target],THE FOXES,THE FOXES,True
+wsc-158,The foxes are getting in at night and attacking the chickens.  [target]  have gotten very nervous.,[target],THE CHICKENS,THE FARMERS,False
+wsc-159,"Fred covered his eyes with his hands, because the wind was blowing sand around. He opened  [target]  when the wind stopped.",[target],HIS EYES,HIS EYES,True
+wsc-160,"Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered  [target]  when the wind stopped.",[target],HIS HANDS,HIS HANDS,True
+wsc-161,"The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured  [target]  was too hard to pronounce.",[target],TERPSICHORE,TERPSICHORE,True
+wsc-162,"The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured  [target]  was easier to pronounce.",[target],TINA,TINA,True
+wsc-163,Fred watched TV while George went out to buy groceries. After an hour  [target]  got up.,[target],FRED,FRED,True
+wsc-164,Fred watched TV while George went out to buy groceries. After an hour  [target]  got back.,[target],GEORGE,GEORGE,True
+wsc-165,"Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned  [target]  on.",[target],THE DISHWASHER,THE DISHWASHER,True
+wsc-166,"Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned  [target]  off.",[target],THE TV,THE TV,True
+wsc-167,Fred is the only man still alive who remembers my great-grandfather.  [target]  is a remarkable man.,[target],FRED,FRED,True
+wsc-168,Fred is the only man still alive who remembers my great-grandfather.  [target]  was a remarkable man.,[target],MY GREAT-GRANDFATHER,FRED,False
+wsc-169,"Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father,  [target]  was twelve years old.",[target],FRED,MY FATHER,False
+wsc-170,"Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father,  [target]  was twelve months old.",[target],MY FATHER,MY FATHER,True
+wsc-171,"In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger,  [target]  were defeated within weeks.",[target],KAMCHATKA,KAMTCHATKA,False
+wsc-172,"In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger,  [target]  were victorious within weeks.",[target],YAKUTSK,YAKUTSK'S ARMY,False
+wsc-173,Look! There is a minnow swimming right below that duck!  [target]  had better get away to safety fast!,[target],THE MINNOW,THE MINNOW,True
+wsc-174,Look! There is a shark swimming right below that duck!  [target]  had better get away to safety fast!,[target],THE DUCK,THE DUCK,True
+wsc-175,"Archaeologists have concluded that humans lived in Laputa 20,000 years ago.  [target]  hunted for evidence on the river banks.",[target],ARCHAEOLOGISTS,HUMANS,False
+wsc-176,"Archaeologists have concluded that humans lived in Laputa 20,000 years ago.  [target]  hunted for deer on the river banks.",[target],PREHISTORIC HUMANS,HUMANS,False
+wsc-177,The scientists are studying three species of fish that have recently been found living in the Indian Ocean.  [target]  began two years ago.,[target],THE SCIENTISTS,THE RESEARCH,False
+wsc-178,The scientists are studying three species of fish that have recently been found living in the Indian Ocean.  [target]  appeared two years ago.,[target],THE FISH,SPECIES OF FISH,False
+wsc-179,"The journalists interviewed the stars of the new movie.  [target]  were very persistent, so the interview lasted for a long time.",[target],THE JOURNALISTS,THE JOURNALISTS,True
+wsc-180,"The journalists interviewed the stars of the new movie.  [target]  were very cooperative, so the interview lasted for a long time.",[target],THE STARS,THE STARS,True
+wsc-181,The police arrested all of the gang members.  [target]  were trying to stop the drug trade in the neighborhood.,[target],THE POLICE,THE POLICE,True
+wsc-182,The police arrested all of the gang members.  [target]  were trying to run the drug trade in the neighborhood.,[target],THE GANG MEMBERS,THE GANG MEMBERS,True
+wsc-183,I put the cake away in the refrigerator.  [target]  has a lot of butter in it.,[target],THE CAKE,THE CAKE,True
+wsc-184,I put the cake away in the refrigerator.  [target]  has a lot of leftovers in it.,[target],THE REFRIGERATOR,THE REFRIGERATOR,True
+wsc-185,Sam broke both his ankles and he's walking with crutches. But a month or so from now  [target]  should be better.,[target],THE ANKLES,SAM,False
+wsc-186,Sam broke both his ankles and he's walking with crutches. But a month or so from now  [target]  should be unnecessary.,[target],THE CRUTCHES,CRUTCHES,False
+wsc-187,"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents.  [target]  were very much in the minority.",[target],THE SPONSORS,THE SPONSORS OF THE BILL,False
+wsc-188,"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents.  [target]  were very much in the majority.",[target],THE OPPONENTS,OPPONENTS,False
+wsc-189,"Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of  [target] .",[target],THE OATMEAL COOKIES,OATMEAL COOKIES,False
+wsc-190,"Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of  [target] .",[target],THE CHOCOLATE CHIP COOKIES,CHOCOLATE CHIP COOKIES,False
+wsc-191,"We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of  [target] .",[target],COPIES OF THE NEWSLETTER,COPIES,False
+wsc-192,"We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of  [target] .",[target],CHAIRS,THE ATTENDEES,False
+wsc-193,"I stuck a pin through a carrot. When I pulled the pin out,  [target]  left a hole.",[target],THE PIN,THE PIN,True
+wsc-194,"I stuck a pin through a carrot. When I pulled the pin out,  [target]  had a hole.",[target],THE CARROT,THE CARROT,True
+wsc-195,"I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because  [target]  got full of coffee.",[target],THE PEN,MY PEN,False
+wsc-196,"I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because  [target]  got full of ink.",[target],THE COFFEE,MY COFFEE,False
+wsc-197,Steve follows Fred's example in everything.  [target]  admires him hugely.,[target],STEVE,STEVE,True
+wsc-198,Steve follows Fred's example in everything.  [target]  influences him hugely.,[target],FRED,FRED'S EXAMPLE,False
+wsc-199,The table won't fit through the doorway because  [target]  is too wide.,[target],THE TABLE,THE TABLE,True
+wsc-200,The table won't fit through the doorway because  [target]  is too narrow.,[target],THE DOORWAY,THE DOORWAY,True
+wsc-201,Grace was happy to trade me her sweater for my jacket. She thinks  [target]  looks dowdy on her.,[target],THE SWEATER,THE SWEATER,True
+wsc-202,Grace was happy to trade me her sweater for my jacket. She thinks  [target]  looks great on her.,[target],THE JACKET,THE SWEATER,False
+wsc-203,John hired Bill to take care of  [target] .,[target],JOHN,THE JOB,False
+wsc-204,John hired himself out to Bill to take care of  [target] .,[target],BILL,BILL,True
+wsc-205,"John promised Bill to leave, so an hour later  [target]  left.",[target],JOHN,JOHN,True
+wsc-206,"John ordered Bill to leave, so an hour later  [target]  left.",[target],BILL,BILL,True
+wsc-207,Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties  [target]  faced in his research.,[target],GOODMAN,XENOPHANES,False
+wsc-208,Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties  [target]  faced in his childhood.,[target],XENOPHANES,XENOPHANES,True
+wsc-209,"Emma's mother had died long ago, and  [target]  education had been managed by an excellent woman as governess.",[target],EMMA,EMMA,True
+wsc-210,"Emma's mother had died long ago, and  [target]  place had been taken by an excellent woman as governess.",[target],EMMA'S MOTHER,HER,False
+wsc-211,Jane knocked on Susan's door but  [target]  did not get an answer.,[target],JANE,JANE,True
+wsc-212,Jane knocked on Susan's door but  [target]  did not answer.,[target],SUSAN,SUSAN,True
+wsc-213,Joe paid the detective after  [target]  received the final report on the case.,[target],JOE,THE DETECTIVE,False
+wsc-214,Joe paid the detective after  [target]  delivered the final report on the case.,[target],THE DETECTIVE,THE DETECTIVE,True
+wsc-215,"Beth didn't get angry with Sally, who had cut her off, because  [target]  stopped and counted to ten.",[target],BETH,SALLY,False
+wsc-216,"Beth didn't get angry with Sally, who had cut her off, because  [target]  stopped and apologized.",[target],SALLY,SALLY,True
+wsc-217,Jim signaled the barman and gestured toward  [target]  empty glass,[target],JIM,THE,False
+wsc-218,Jim signaled the barman and gestured toward  [target]  bathroom key.,[target],THE BARMAN,THE,False
+wsc-219,"Dan took the rear seat while Bill claimed the front because  [target]  ""Dibs!"" was slow.",[target],DAN,BILL,False
+wsc-220,"Dan took the rear seat while Bill claimed the front because  [target]  ""Dibs!"" was quicker.",[target],BILL,BILL,True
+wsc-221,"Tom said ""Check"" to Ralph as he moved  [target]  bishop.",[target],TOM,THE,False
+wsc-222,"Tom said ""Check"" to Ralph as he took  [target]  bishop.",[target],RALPH,THE,False
+wsc-223,"As Andrea in the crop duster passed over Susan,  [target]  could see the landing strip.",[target],ANDREA,SUSAN,False
+wsc-224,"As Andrea in the crop duster passed over Susan,  [target]  could see the landing gear.",[target],SUSAN,SUSAN,True
+wsc-225,Tom gave Ralph a lift to school so  [target]  wouldn't have to drive alone.,[target],TOM,RALPH,False
+wsc-226,Tom gave Ralph a lift to school so  [target]  wouldn't have to walk.,[target],RALPH,RALPH,True
+wsc-227,Bill passed the half-empty plate to John because  [target]  was full.,[target],BILL,THE PLATE,False
+wsc-228,Bill passed the half-empty plate to John because  [target]  was hungry.,[target],JOHN,JOHN,True
+wsc-229,Bill passed the gameboy to John because  [target]  turn was over.,[target],BILL,BILL,True
+wsc-230,Bill passed the gameboy to John because  [target]  turn was next.,[target],JOHN,JOHN,True
+wsc-231,The man lifted the boy onto  [target]  shoulders.,[target],THE MAN,THE MAN'S,False
+wsc-232,The man lifted the boy onto  [target]  bunk bed.,[target],THE BOY,THE,False
+wsc-233,"Stretching  [target]  back, the woman smiled at the girl.",[target],THE WOMAN,HER ARMS,False
+wsc-234,"Patting  [target]  back, the woman smiled at the girl.",[target],THE GIRL,THE GIRL,True
+wsc-235,Billy cried because Toby wouldn't accept  [target]  toy.,[target],BILLY,THE,False
+wsc-236,Billy cried because Toby wouldn't share  [target]  toy.,[target],TOBY,TOY,False
+wsc-237,"Lily spoke to Donna, breaking  [target]  silence.",[target],LILY,THE,False
+wsc-238,"Lily spoke to Donna, breaking  [target]  concentration.",[target],DONNA,DONNA,True
+wsc-239,"When Tommy dropped his ice cream, Timmy giggled, so father gave  [target]  a sympathetic look.",[target],TOMMY,TOMMY,True
+wsc-240,"When Tommy dropped his ice cream, Timmy giggled, so father gave  [target]  a stern look.",[target],TIMMY,TOMMY,False
+wsc-241,"As Ollie carried Tommy up the long winding steps,  [target]  legs ached.",[target],OLLIE,OLLIE'S,False
+wsc-242,"As Ollie carried Tommy up the long winding steps,  [target]  legs dangled.",[target],TOMMY,TOMMY,True
+wsc-243,The father carried the sleeping boy in  [target]  arms,[target],THE FATHER,THE FATHER'S,False
+wsc-244,The father carried the sleeping boy in  [target]  bassinet.,[target],THE BOY,THE,False
+wsc-245,The woman held the girl against  [target] chest,[target],THE WOMAN,THE WOMAN,True
+wsc-246,The woman held the girl against  [target]  will.,[target],THE GIRL,THE GIRL,True
+wsc-247,"Pam's parents came home and found her having sex with her boyfriend, Paul.  [target]  were furious about it.",[target],PAM'S PARENTS,PAM'S PARENTS,True
+wsc-248,"Pam's parents came home and found her having sex with her boyfriend, Paul.  [target]  were embarrassed about it.",[target],PAM AND PAUL,PAM'S PARENTS,False
+wsc-249,Dr. Adams informed Kate that  [target]  had retired and presented several options for future treatment.,[target],DR. ADAMS,DR. ADAMS,True
+wsc-250,Dr. Adams informed Kate that  [target]  had cancer and presented several options for future treatment.,[target],KATE,KATE,True
+wsc-251,Dan had to stop Bill from toying with the injured bird.  [target]  is very compassionate.,[target],DAN,DAN,True
+wsc-252,Dan had to stop Bill from toying with the injured bird.  [target]  is very cruel.,[target],BILL,BILL,True
+wsc-253,"George got free tickets to the play, but he gave them to Eric, even though  [target]  was particularly eager to see it.",[target],GEORGE,GEORGE,True
+wsc-254,"George got free tickets to the play, but he gave them to Eric, because  [target]  was particularly eager to see it.",[target],ERIC,ERIC,True
+wsc-255,"George got free tickets to the play, but he gave them to Eric, because  [target]  was not particularly eager to see it.",[target],GEORGE,GEORGE,True
+wsc-256,Jane gave Joan candy because  [target]  wasn't hungry.,[target],JANE,JOAN,False
+wsc-257,Jane gave Joan candy because  [target]  was hungry.,[target],JOAN,JOAN,True
+wsc-258,"I tried to paint a picture of an orchard, with lemons in the lemon trees, but  [target]  came out looking more like light bulbs.",[target],LEMONS,THE PICTure,False
+wsc-259,"I tried to paint a picture of an orchard, with lemons in the lemon trees, but  [target]  came out looking more like telephone poles.",[target],LEMON TREES,THE PICTure,False
+wsc-260,James asked Robert for a favor but  [target]  was refused.,[target],JAMES,JAMES,True
+wsc-261,James asked Robert for a favor but  [target]  refused.,[target],ROBERT,ROBERT,True
+wsc-262,Kirilov ceded the presidency to Shatov because  [target]  was less popular.,[target],KIRILOV,SHATOV,False
+wsc-263,Kirilov ceded the presidency to Shatov because  [target]  was more popular.,[target],SHATOV,SHATOV,True
+wsc-264,Emma did not pass the ball to Janie although  [target]  saw that she was open.,[target],EMMA,EMMA,True
+wsc-265,Emma did not pass the ball to Janie although  [target]  was open.,[target],JANIE,JANIE,True
+wsc-266,I put the butterfly wing on the table and  [target]  broke.,[target],THE BUTTERFLY WING,THE BUTTERFLY WING,True
+wsc-267,I put the heavy book on the table and  [target]  broke.,[target],THE TABLE,THE TABLE,True
+wsc-268,Madonna fired her trainer because  [target]  couldn't stand her boyfriend.,[target],MADONNA,TRAINER,False
+wsc-269,Madonna fired her trainer because  [target]  slept with her boyfriend.,[target],THE TRAINER,THE TRAINER,True
+wsc-270,Madonna fired her trainer because she slept with  [target]  boyfriend.,[target],MADONNA,MADONNA,True
+wsc-271,Madonna fired her trainer because she couldn't stand  [target]  boyfriend.,[target],THE TRAINER,MADONNA,False
+wsc-272,Carol believed that Rebecca suspected that  [target]  had stolen the watch.,[target],CAROL,CAROL,True
+wsc-273,Carol believed that Rebecca regretted that  [target]  had stolen the watch.,[target],REBECCA,SOMEONE,False

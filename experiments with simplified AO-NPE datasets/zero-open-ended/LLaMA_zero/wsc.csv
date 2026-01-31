@@ -1,0 +1,292 @@
+text_id,text,target,expected_answer,llama_answer,correct
+wsc-1,The city councilmen refused the demonstrators a permit because [target]  feared violence.,[target],The city councilmen,The city councilmen,True
+wsc-2,The city councilmen refused the demonstrators a permit because [target]  advocated violence.,[target],The demonstrators,The demonstrators,True
+wsc-3,The trophy doesn't fit into the brown suitcase because  [target]  is too large.,[target],the trophy,The trophy,True
+wsc-4,The trophy doesn't fit into the brown suitcase because  [target]  is too small.,[target],the suitcase,The trophy,False
+wsc-5,Joan made sure to thank Susan for all the help  [target]  had recieved.,[target],Joan,"help
+Explanation: The pronoun ""[target]"" is used to refer to the noun phrase ""all",False
+wsc-6,Joan made sure to thank Susan for all the help  [target]  had given.,[target],Susan,Susan,True
+wsc-7,"Paul tried to call George on the phone, but  [target]  wasn't successful.",[target],Paul,George,False
+wsc-8,"Paul tried to call George on the phone, but  [target]  wasn't available.",[target],George,George,True
+wsc-9,"The lawyer asked the witness a question, but  [target]  was reluctant to repeat it.",[target],the lawyer,The witness,False
+wsc-10,"The lawyer asked the witness a question, but  [target]  was reluctant to answer it.",[target],the witness,The witness,True
+wsc-11,The delivery truck zoomed by the school bus because  [target]  was going so fast.,[target],the delivery truck,The delivery truck,True
+wsc-12,The delivery truck zoomed by the school bus because  [target]  was going so slow.,[target],the school bus,The school bus,True
+wsc-13,Frank felt vindicated when his longtime rival Bill revealed that  [target]  was the winner of the competition.,[target],Frank,Bill,False
+wsc-14,Frank felt crushed when his longtime rival Bill revealed that  [target]  was the winner of the competition.,[target],Bill,Bill,True
+wsc-15,The man couldn't lift his son because  [target]  was so weak.,[target],The man,The son,False
+wsc-16,The man couldn't lift his son because  [target]  was so heavy.,[target],The son,The son,True
+wsc-17,The large ball crashed right through the table because  [target]  was made of steel.,[target],The large ball,The table,False
+wsc-18,The large ball crashed right through the table because  [target]  was made of styrofoam.,[target],The table,The table,True
+wsc-19,John couldn't see the stage with Billy in front of him because  [target]  is so short.,[target],John,Billy,False
+wsc-20,John couldn't see the stage with Billy in front of him because  [target]  is so tall.,[target],Billy,Billy,True
+wsc-21,Tom threw his schoolbag down to Ray after  [target]  reached the top of the stairs.,[target],Tom,Ray,False
+wsc-22,Tom threw his schoolbag down to Ray after  [target]  reached the bottom of the stairs.,[target],Ray,"Ray
+Explanation: The pronoun ""[target]"" refers to Ray because it is the one who is",False
+wsc-23,"Although they ran at about the same speed, Sue beat Sally because  [target]  had such a good start.",[target],Sue,Sally,False
+wsc-24,"Although they ran at about the same speed, Sue beat Sally because  [target]  had such a bad start.",[target],Sally,Sally,True
+wsc-25,The sculpture rolled off the shelf because  [target]  wasn't anchored.,[target],The sculpture,The shelf,False
+wsc-26,The sculpture rolled off the shelf because  [target]  wasn't level.,[target],The shelf,The shelf,True
+wsc-27,Sam's drawing was hung just above Tina's and  [target]  did look much better with another one below it.,[target],Sam's drawing,Tina's drawing,False
+wsc-28,Sam's drawing was hung just above Tina's and  [target]  did look much better with another one above it.,[target],Tina's drawing,Tina's drawing,True
+wsc-29,Anna did a lot better than her good friend Lucy on the test because  [target]  had studied so hard.,[target],Anna,"Anna
+Explanation: The pronoun ""[target]"" refers to the person who is being compared to Lucy",False
+wsc-30,Anna did a lot worse than her good friend Lucy on the test because  [target]  had studied so hard.,[target],Lucy,Anna,False
+wsc-31,The firemen arrived after the police because  [target]  were coming from so far away.,[target],The firemen,The firemen,True
+wsc-32,The firemen arrived before the police because  [target]  were coming from so far away.,[target],The police,The firemen,False
+wsc-33,Frank was upset with Tom because the toaster  [target]  had bought from him didn't work.,[target],Frank,Tom,False
+wsc-34,Frank was upset with Tom because the toaster  [target]  had sold him didn't work.,[target],Tom,Tom,True
+wsc-35,Jim yelled at Kevin because  [target]  was so upset.,[target],Jim,Kevin,False
+wsc-36,Jim comforted Kevin because  [target]  was so upset.,[target],Kevin,Kevin,True
+wsc-37,"The sack of potatoes had been placed above the bag of flour, so  [target]  had to be moved first.",[target],The sack of potatoes,The sack of potatoes,True
+wsc-38,"The sack of potatoes had been placed below the bag of flour, so  [target]  had to be moved first.",[target],The bag of flour,The sack of potatoes,False
+wsc-39,Pete envies Martin although  [target]  is very successful.,[target],Pete,Martin,False
+wsc-40,Pete envies Martin because  [target]  is very successful.,[target],Martin,"Martin
+Explanation: The pronoun ""[target]"" refers to the noun phrase ""Martin"" because it",False
+wsc-41,"The older students were bullying the younger ones, so we punished  [target] .",[target],The older students,The younger ones,False
+wsc-42,"The older students were bullying the younger ones, so we rescued  [target] .",[target],The younger students,The younger ones,False
+wsc-43,I poured water from the bottle into the cup until  [target]  was empty.,[target],the bottle,"the cup
+Explanation: The pronoun ""[target]"" refers to the noun phrase ""the cup""",False
+wsc-44,I poured water from the bottle into the cup until  [target]  was full.,[target],the cup,"the cup
+Explanation: The pronoun ""[target]"" refers to the noun phrase ""the cup""",False
+wsc-45,Susan knows all about Ann's personal problems because  [target]  is nosy.,[target],Susan,Ann,False
+wsc-46,Susan knows all about Ann's personal problems because  [target]  is indiscreet.,[target],Ann,Ann,True
+wsc-47,Sid explained his theory to Mark but  [target]  couldn't convince him.,[target],Sid,Mark,False
+wsc-48,Sid explained his theory to Mark but  [target]  couldn't understand him.,[target],Mark,Mark,True
+wsc-49,"Susan knew that Ann's son had been in a car accident, so  [target]  told her about it.",[target],Susan,Ann's son,False
+wsc-50,"Susan knew that Ann's son had been in a car accident, because  [target]  told her about it.",[target],Ann,Ann's son,False
+wsc-51,"Joe's uncle can still beat him at tennis, even though  [target]  is 30 years younger.",[target],Joe,Joe,True
+wsc-52,"Joe's uncle can still beat him at tennis, even though  [target]  is 30 years older.",[target],Joe's uncle,Joe,False
+wsc-53,The painting in Mark's living room shows an oak tree.  [target]  is to the right of the bookcase.,[target],The painting,bookcase,False
+wsc-54,The painting in Mark's living room shows an oak tree.  [target]  is to the right of a house.,[target],The oak tree,The oak tree,True
+wsc-55,There is a gap in the wall. You can see the garden through  [target] .,[target],The gap,the gap,True
+wsc-56,There is a gap in the wall. You can see the garden behind  [target] .,[target],The wall,the wall,True
+wsc-57,The drain is clogged with hair.  [target]  has to be cleaned.,[target],The drain,The drain,True
+wsc-58,The drain is clogged with hair.  [target]  has to be removed.,[target],The hair,The drain,False
+wsc-59,"My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily,  [target]  was short, so it worked out.",[target],The meeting,The meeting,True
+wsc-60,"My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily,  [target]  was delayed, so it worked out.",[target],The train,The train,True
+wsc-61,"There is a pillar between me and the stage, and I can't see around  [target] .",[target],The pillar,"stage
+The pronoun ""[target]"" refers to the stage",False
+wsc-62,"There is a pillar between me and the stage, and I can't see  [target] .",[target],The stage,the target,False
+wsc-63,"They broadcast an announcement, but a subway came into the station and I couldn't hear  [target] .",[target],The announcement,"""it""",False
+wsc-64,"They broadcast an announcement, but a subway came into the station and I couldn't hear over  [target] .",[target],The subway,the noise,False
+wsc-65,"In the middle of the outdoor concert, the rain started falling, but  [target]  continued until 10.",[target],The concert,the band,False
+wsc-66,"In the middle of the outdoor concert, the rain started falling, and  [target]  continued until 10.",[target],The rain,"the band
+Explanation: The pronoun ""[target]"" refers to the band, as indicated by the",False
+wsc-67,"I used an old rag to clean the knife, and then I put  [target]  in the trash.",[target],The rag,the knife,False
+wsc-68,"I used an old rag to clean the knife, and then I put  [target]  in the drawer.",[target],The knife,the knife,True
+wsc-69,"Ann asked Mary what time the library closes, because  [target]  had forgotten.",[target],Ann,Mary,False
+wsc-70,"Ann asked Mary what time the library closes, but  [target]  had forgotten.",[target],Mary,Mary,True
+wsc-71,I took the water bottle out of the backpack so that  [target]  would be handy.,[target],The water bottle,the water bottle,True
+wsc-72,I took the water bottle out of the backpack so that  [target]  would be lighter.,[target],The backpack,"the backpack
+Explanation: The pronoun ""[target]"" refers to the noun phrase ""the backpack""",False
+wsc-73,I couldn't put the pot on the shelf because  [target]  was too tall.,[target],The pot,the pot,True
+wsc-74,I couldn't put the pot on the shelf because  [target]  was too high.,[target],The shelf,the shelf,True
+wsc-75,I'm sure that my map will show this building;  [target]  is very good.,[target],The map,the building,False
+wsc-76,I'm sure that my map will show this building;  [target]  is very famous.,[target],The building,The building,True
+wsc-77,Bob paid for Charlie's college education.  [target]  is very generous.,[target],Bob,Charlie,False
+wsc-78,Bob paid for Charlie's college education.  [target]  is very grateful.,[target],Charlie,Charlie,True
+wsc-79,"Bob paid for Charlie's college education, but now Charlie acts as though it never happened.  [target]  is very hurt.",[target],Bob,Charlie,False
+wsc-80,"Bob paid for Charlie's college education, but now Charlie acts as though it never happened.  [target]  is very ungrateful.",[target],Charlie,Charlie,True
+wsc-81,"Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck,  [target]  would have won.",[target],Bob,Bob,True
+wsc-82,"Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck,  [target]  would have lost.",[target],Adam,Bob,False
+wsc-83,"Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time,  [target]  would be gone by this time.",[target],Adam,Adam,True
+wsc-84,"Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time,  [target]  would be here by this time.",[target],Bob,Adam,False
+wsc-85,"If the con artist has succeeded in fooling Sam,  [target]  would have gotten a lot of money.",[target],The con artist,Sam,False
+wsc-86,"If the con artist has succeeded in fooling Sam,  [target]  would have lost a lot of money.",[target],Sam,"Sam
+Explanation: The pronoun ""[target]"" refers to the person Sam, who is the intended",False
+wsc-87,"It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because  [target]  was hot.",[target],The dog,the tree,False
+wsc-88,"It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because  [target]  was cooler.",[target],The spot under the tree,the tree,False
+wsc-89,"The cat was lying by the mouse hole waiting for the mouse, but  [target]  was too impatient.",[target],The cat,The mouse,False
+wsc-90,"The cat was lying by the mouse hole waiting for the mouse, but  [target]  was too cautious.",[target],The mouse,Mouse,False
+wsc-91,Anne gave birth to a daughter last month.  [target]  is a very charming woman.,[target],Anne,Anne,True
+wsc-92,Anne gave birth to a daughter last month.  [target]  is a very charming baby.,[target],Anne's daughter,Anne,False
+wsc-93,"Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why  [target]  was behaving so strangely.",[target],Alice,Alice's daughter,False
+wsc-94,"Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why  [target]  was behaving so strangely.",[target],Alice's daughter,The dog,False
+wsc-95,"I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why  [target]  was, but he looked very unhappy.",[target],Jim,Jim,True
+wsc-96,"I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who  [target]  was, but he looked very unhappy.",[target],the guy in uniform,some guy in a military uniform with a huge red beard,False
+wsc-97,The fish ate the worm.  [target]  was hungry.,[target],The fish,The fish,True
+wsc-98,The fish ate the worm.  [target]  was tasty.,[target],The worm,The worm,True
+wsc-99,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get  [target]  in.",[target],The key,the key,True
+wsc-100,"I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get  [target]  out.",[target],The chewing gum,the key,False
+wsc-101,"The dog chased the cat, which ran up a tree.  [target]  waited at the bottom.",[target],The dog,The cat,False
+wsc-102,"The dog chased the cat, which ran up a tree.  [target]  waited at the top.",[target],The cat,The cat,True
+wsc-103,"In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get  [target]  removed.",[target],The tree,my house,False
+wsc-104,"In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get  [target]  repaired.",[target],The roof,the roof of my house,False
+wsc-105,The customer walked into the bank and stabbed one of the tellers.  [target]  was immediately taken to the police station.,[target],The customer,one of the tellers,False
+wsc-106,The customer walked into the bank and stabbed one of the tellers.  [target]  was immediately taken to the hospital.,[target],The teller,one of the tellers,False
+wsc-107,John was doing research in the library when he heard a man humming and whistling.  [target]  was very annoyed.,[target],John,John,True
+wsc-108,John was doing research in the library when he heard a man humming and whistling.  [target]  was very annoying.,[target],The man,the man,True
+wsc-109,John was jogging through the park when he saw a man juggling watermelons.  [target]  was very impressed.,[target],John,John,True
+wsc-110,John was jogging through the park when he saw a man juggling watermelons.  [target]  was very impressive.,[target],The juggler,The man juggling watermelons,False
+wsc-111,Bob collapsed on the sidewalk. Soon he saw Carl coming to help.  [target]  was very ill.,[target],Bob,Carl,False
+wsc-112,Bob collapsed on the sidewalk. Soon he saw Carl coming to help.  [target]  was very concerned.,[target],Carl,Carl,True
+wsc-113,"Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because  [target]  are fifteen.",[target],Sam and Amy,Sam and Amy,True
+wsc-114,"Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because  [target]  are snobs.",[target],Amy's parents,Sam and Amy,False
+wsc-115,"Mark told Pete many lies about himself, which Pete included in his book.  [target]  should have been more  truthful.",[target],Mark,Pete,False
+wsc-116,"Mark told Pete many lies about himself, which Pete included in his book.  [target]  should have been more  skeptical.",[target],Pete,Pete,True
+wsc-117,Joe has sold his house and bought a new one a few miles away. He will be moving out of  [target]  on Thursday.,[target],The old house,Joe's house,False
+wsc-118,Joe has sold his house and bought a new one a few miles away. He will be moving into  [target]  on Thursday.,[target],The new house,Joe's new house,False
+wsc-119,Many people start to read Paul's books and can't put them down.  [target]  are gripped because Paul writes so well.,[target],People,Paul's books,False
+wsc-120,Many people start to read Paul's books and can't put them down.  [target]  are popular because Paul writes so well.,[target],Paul's books,books,False
+wsc-121,Mary took out her flute and played one of her favorite pieces. She has had  [target]  since she was a child.,[target],The flute,her flute,False
+wsc-122,Mary took out her flute and played one of her favorite pieces. She has loved  [target]  since she was a child.,[target],The piece,Mary,False
+wsc-123,"Sam pulled up a chair to the piano, but  [target]  was broken, so he had to stand instead.",[target],The chair,the piano,False
+wsc-124,"Sam pulled up a chair to the piano, but  [target]  was broken, so he had to sing instead.",[target],The piano,the piano,True
+wsc-125,"Since it was raining, I carried the newspaper in my backpack to keep  [target]  dry.",[target],The newspaper,my backpack,False
+wsc-126,"Since it was raining, I carried the newspaper over my backpack to keep  [target]  dry.",[target],The backpack,my backpack,False
+wsc-127,Sara borrowed the book from the library because she needs it for an article she is working on. She reads  [target]  when she gets home from work.,[target],The book,Sara,False
+wsc-128,Sara borrowed the book from the library because she needs it for an article she is working on. She writes  [target]  when she gets home from work.,[target],The article,Sara,False
+wsc-129,"This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked  [target]  down.",[target],The sand castle,the sand castle,True
+wsc-130,"This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked  [target]  down.",[target],The flag,the flag,True
+wsc-131,"Jane knocked on Susan's door, but there was no answer.  [target]  was disappointed.",[target],Jane,Susan's door,False
+wsc-132,"Jane knocked on Susan's door, but there was no answer.  [target]  was out.",[target],Susan,Susan's door,False
+wsc-133,"Jane knocked on the door, and Susan answered it.  [target]  invited her to come out.",[target],Jane,Susan,False
+wsc-134,"Jane knocked on the door, and Susan answered it.  [target]  invited her to come in.",[target],Susan,Susan,True
+wsc-135,"Sam took French classes from Adam, because  [target]  was eager to speak it fluently.",[target],Sam,Adam,False
+wsc-136,"Sam took French classes from Adam, because  [target]  was known to speak it fluently.",[target],Adam,Adam,True
+wsc-137,"The path to the lake was blocked, so we couldn't use  [target] .",[target],The path,The car,False
+wsc-138,"The path to the lake was blocked, so we couldn't reach  [target] .",[target],The lake,The lake,True
+wsc-139,"The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started,  [target]  was out.",[target],The sun,The sun,True
+wsc-140,"The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started,  [target]  was gone.",[target],The cloud,The cloud,True
+wsc-141,"We went to the lake, because a shark had been seen at the ocean beach, so  [target]  was a safer place to swim.",[target],The lake,"We
+Explanation: The pronoun ""[target]"" refers to the person or people who were going to",False
+wsc-142,"We went to the lake, because a shark had been seen at the ocean beach, so  [target]  was a dangerous place to swim.",[target],The ocean beach,the ocean beach,True
+wsc-143,"Sam tried to paint a picture of shepherds with sheep, but  [target]  ended up looking more like golfers.",[target],The shepherds,Sam,False
+wsc-144,"Sam tried to paint a picture of shepherds with sheep, but  [target]  ended up looking more like dogs.",[target],The sheep,Sam's picture,False
+wsc-145,"Mary tucked her daughter Anne into bed, so that  [target]  could work.",[target],Mary,Anne,False
+wsc-146,"Mary tucked her daughter Anne into bed, so that  [target]  could sleep.",[target],Mary's daughter,Anne,False
+wsc-147,"Fred and Alice had very warm down coats, but  [target]  were not prepared for the cold in Alaska.",[target],Fred and Alice,Fred and Alice,True
+wsc-148,"Fred and Alice had very warm down coats, but  [target]  were not enough for the cold in Alaska.",[target],coats,Fred and Alice,False
+wsc-149,Thomson visited Cooper's grave in 1765. At that date  [target]  had been travelling for five years.,[target],Thomson,Cooper's grave,False
+wsc-150,Thomson visited Cooper's grave in 1765. At that date  [target]  had been dead for five years.,[target],Cooper,Cooper's grave,False
+wsc-151,"Jackson was greatly influenced by Arnold, though  [target]  lived two centuries later.",[target],Jackson,Arnold,False
+wsc-152,"Jackson was greatly influenced by Arnold, though  [target]  lived two centuries earlier.",[target],Arnold,Arnold,True
+wsc-153,I can't cut that tree down with that axe;  [target]  is too thick.,[target],The tree,"tree
+Explanation: The pronoun ""[target]"" refers to the noun ""tree"" in the sentence",False
+wsc-154,I can't cut that tree down with that axe;  [target]  is too small.,[target],The axe,the axe,True
+wsc-155,The foxes are getting in at night and attacking the chickens. I shall have to kill  [target] .,[target],The foxes,The chickens,False
+wsc-156,The foxes are getting in at night and attacking the chickens. I shall have to guard  [target] .,[target],The chickens,The chickens,True
+wsc-157,The foxes are getting in at night and attacking the chickens.  [target]  have gotten very bold.,[target],The foxes,chickens,False
+wsc-158,The foxes are getting in at night and attacking the chickens.  [target]  have gotten very nervous.,[target],The chickens,chickens,False
+wsc-159,"Fred covered his eyes with his hands, because the wind was blowing sand around. He opened  [target]  when the wind stopped.",[target],His eyes,His eyes,True
+wsc-160,"Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered  [target]  when the wind stopped.",[target],His hands,Fred's eyes,False
+wsc-161,"The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured  [target]  was too hard to pronounce.",[target],Terpsichore,Terpsichore,True
+wsc-162,"The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured  [target]  was easier to pronounce.",[target],Tina,Terpsichore,False
+wsc-163,Fred watched TV while George went out to buy groceries. After an hour  [target]  got up.,[target],Fred,George,False
+wsc-164,Fred watched TV while George went out to buy groceries. After an hour  [target]  got back.,[target],George,George,True
+wsc-165,"Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned  [target]  on.",[target],The dishwasher,dishwasher,False
+wsc-166,"Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned  [target]  off.",[target],The TV,dishwasher,False
+wsc-167,Fred is the only man still alive who remembers my great-grandfather.  [target]  is a remarkable man.,[target],Fred,Fred,True
+wsc-168,Fred is the only man still alive who remembers my great-grandfather.  [target]  was a remarkable man.,[target],My great-grandfather,great-grandfather,False
+wsc-169,"Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father,  [target]  was twelve years old.",[target],Fred,Fred's father,False
+wsc-170,"Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father,  [target]  was twelve months old.",[target],My father,My father,True
+wsc-171,"In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger,  [target]  were defeated within weeks.",[target],Kamchatka,Yakutsk's army,False
+wsc-172,"In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger,  [target]  were victorious within weeks.",[target],Yakutsk,Yakutsk's army,False
+wsc-173,Look! There is a minnow swimming right below that duck!  [target]  had better get away to safety fast!,[target],The minnow,Duck,False
+wsc-174,Look! There is a shark swimming right below that duck!  [target]  had better get away to safety fast!,[target],The duck,Duck,False
+wsc-175,"Archaeologists have concluded that humans lived in Laputa 20,000 years ago.  [target]  hunted for evidence on the river banks.",[target],Archaeologists,Archaeologists,True
+wsc-176,"Archaeologists have concluded that humans lived in Laputa 20,000 years ago.  [target]  hunted for deer on the river banks.",[target],Prehistoric humans,[target] = humans,False
+wsc-177,The scientists are studying three species of fish that have recently been found living in the Indian Ocean.  [target]  began two years ago.,[target],The scientists,The Indian Ocean,False
+wsc-178,The scientists are studying three species of fish that have recently been found living in the Indian Ocean.  [target]  appeared two years ago.,[target],The fish,The fish,True
+wsc-179,"The journalists interviewed the stars of the new movie.  [target]  were very persistent, so the interview lasted for a long time.",[target],The journalists,The stars of the new movie,False
+wsc-180,"The journalists interviewed the stars of the new movie.  [target]  were very cooperative, so the interview lasted for a long time.",[target],The stars,The stars of the new movie,False
+wsc-181,The police arrested all of the gang members.  [target]  were trying to stop the drug trade in the neighborhood.,[target],The police,The gang members,False
+wsc-182,The police arrested all of the gang members.  [target]  were trying to run the drug trade in the neighborhood.,[target],The gang members,The gang members,True
+wsc-183,I put the cake away in the refrigerator.  [target]  has a lot of butter in it.,[target],The cake,The cake,True
+wsc-184,I put the cake away in the refrigerator.  [target]  has a lot of leftovers in it.,[target],The refrigerator,refrigerator,False
+wsc-185,Sam broke both his ankles and he's walking with crutches. But a month or so from now  [target]  should be better.,[target],The ankles,Sam,False
+wsc-186,Sam broke both his ankles and he's walking with crutches. But a month or so from now  [target]  should be unnecessary.,[target],The crutches,Sam,False
+wsc-187,"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents.  [target]  were very much in the minority.",[target],The sponsors,The sponsors of the bill,False
+wsc-188,"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents.  [target]  were very much in the majority.",[target],The opponents,The sponsors of the bill,False
+wsc-189,"Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of  [target] .",[target],The oatmeal cookies,the chocolate chip cookies,False
+wsc-190,"Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of  [target] .",[target],The chocolate chip cookies,the chocolate chip cookies,True
+wsc-191,"We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of  [target] .",[target],copies of the newsletter,chairs,False
+wsc-192,"We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of  [target] .",[target],chairs,chairs,True
+wsc-193,"I stuck a pin through a carrot. When I pulled the pin out,  [target]  left a hole.",[target],The pin,The carrot,False
+wsc-194,"I stuck a pin through a carrot. When I pulled the pin out,  [target]  had a hole.",[target],The carrot,The carrot,True
+wsc-195,"I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because  [target]  got full of coffee.",[target],The pen,my coffee,False
+wsc-196,"I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because  [target]  got full of ink.",[target],The coffee,my coffee,False
+wsc-197,Steve follows Fred's example in everything.  [target]  admires him hugely.,[target],Steve,Steve,True
+wsc-198,Steve follows Fred's example in everything.  [target]  influences him hugely.,[target],Fred,Fred's example,False
+wsc-199,The table won't fit through the doorway because  [target]  is too wide.,[target],The table,"The doorway
+Explanation: The pronoun ""[target]"" refers to the noun phrase ""the doorway""",False
+wsc-200,The table won't fit through the doorway because  [target]  is too narrow.,[target],The doorway,The doorway,True
+wsc-201,Grace was happy to trade me her sweater for my jacket. She thinks  [target]  looks dowdy on her.,[target],The sweater,Grace,False
+wsc-202,Grace was happy to trade me her sweater for my jacket. She thinks  [target]  looks great on her.,[target],The jacket,Grace,False
+wsc-203,John hired Bill to take care of  [target] .,[target],John,John's house,False
+wsc-204,John hired himself out to Bill to take care of  [target] .,[target],Bill,Bill's business,False
+wsc-205,"John promised Bill to leave, so an hour later  [target]  left.",[target],John,Bill,False
+wsc-206,"John ordered Bill to leave, so an hour later  [target]  left.",[target],Bill,Bill,True
+wsc-207,Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties  [target]  faced in his research.,[target],Goodman,Xenophanes,False
+wsc-208,Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties  [target]  faced in his childhood.,[target],Xenophanes,Xenophanes,True
+wsc-209,"Emma's mother had died long ago, and  [target]  education had been managed by an excellent woman as governess.",[target],Emma,governess,False
+wsc-210,"Emma's mother had died long ago, and  [target]  place had been taken by an excellent woman as governess.",[target],Emma's mother,governess,False
+wsc-211,Jane knocked on Susan's door but  [target]  did not get an answer.,[target],Jane,Susan's door,False
+wsc-212,Jane knocked on Susan's door but  [target]  did not answer.,[target],Susan,Susan's door,False
+wsc-213,Joe paid the detective after  [target]  received the final report on the case.,[target],Joe,The detective,False
+wsc-214,Joe paid the detective after  [target]  delivered the final report on the case.,[target],the detective,The detective,True
+wsc-215,"Beth didn't get angry with Sally, who had cut her off, because  [target]  stopped and counted to ten.",[target],Beth,Sally,False
+wsc-216,"Beth didn't get angry with Sally, who had cut her off, because  [target]  stopped and apologized.",[target],Sally,Sally,True
+wsc-217,Jim signaled the barman and gestured toward  [target]  empty glass,[target],Jim,empty glass,False
+wsc-218,Jim signaled the barman and gestured toward  [target]  bathroom key.,[target],The barman,The bathroom key,False
+wsc-219,"Dan took the rear seat while Bill claimed the front because  [target]  ""Dibs!"" was slow.",[target],Dan,Bill,False
+wsc-220,"Dan took the rear seat while Bill claimed the front because  [target]  ""Dibs!"" was quicker.",[target],Bill,Bill,True
+wsc-221,"Tom said ""Check"" to Ralph as he moved  [target]  bishop.",[target],Tom,Ralph,False
+wsc-222,"Tom said ""Check"" to Ralph as he took  [target]  bishop.",[target],Ralph,Ralph,True
+wsc-223,"As Andrea in the crop duster passed over Susan,  [target]  could see the landing strip.",[target],Andrea,Susan,False
+wsc-224,"As Andrea in the crop duster passed over Susan,  [target]  could see the landing gear.",[target],Susan,Susan,True
+wsc-225,Tom gave Ralph a lift to school so  [target]  wouldn't have to drive alone.,[target],Tom,Ralph,False
+wsc-226,Tom gave Ralph a lift to school so  [target]  wouldn't have to walk.,[target],Ralph,Ralph,True
+wsc-227,Bill passed the half-empty plate to John because  [target]  was full.,[target],Bill,John,False
+wsc-228,Bill passed the half-empty plate to John because  [target]  was hungry.,[target],John,John,True
+wsc-229,Bill passed the gameboy to John because  [target]  turn was over.,[target],Bill,John,False
+wsc-230,Bill passed the gameboy to John because  [target]  turn was next.,[target],John,John,True
+wsc-231,The man lifted the boy onto  [target]  shoulders.,[target],The man,shoulders,False
+wsc-232,The man lifted the boy onto  [target]  bunk bed.,[target],The boy,bunk bed,False
+wsc-233,"Stretching  [target]  back, the woman smiled at the girl.",[target],The woman,The girl,False
+wsc-234,"Patting  [target]  back, the woman smiled at the girl.",[target],The girl,The girl,True
+wsc-235,Billy cried because Toby wouldn't accept  [target]  toy.,[target],Billy,"Toby
+Explanation: The pronoun ""[target]"" refers to the noun phrase ""Toby wouldn't",False
+wsc-236,Billy cried because Toby wouldn't share  [target]  toy.,[target],Toby,Toby's toy,False
+wsc-237,"Lily spoke to Donna, breaking  [target]  silence.",[target],Lily,silence,False
+wsc-238,"Lily spoke to Donna, breaking  [target]  concentration.",[target],Donna,"concentration
+Explanation: The pronoun ""[target]"" refers to ""concentration"" because it is the",False
+wsc-239,"When Tommy dropped his ice cream, Timmy giggled, so father gave  [target]  a sympathetic look.",[target],Tommy,Father,False
+wsc-240,"When Tommy dropped his ice cream, Timmy giggled, so father gave  [target]  a stern look.",[target],Timmy,Father,False
+wsc-241,"As Ollie carried Tommy up the long winding steps,  [target]  legs ached.",[target],Ollie,Tommy,False
+wsc-242,"As Ollie carried Tommy up the long winding steps,  [target]  legs dangled.",[target],Tommy,Tommy,True
+wsc-243,The father carried the sleeping boy in  [target]  arms,[target],The father,"The pronoun ""[target]"" refers to ""arms""",False
+wsc-244,The father carried the sleeping boy in  [target]  bassinet.,[target],The boy,The bassinet,False
+wsc-245,The woman held the girl against  [target] chest,[target],The woman,"chest
+Explanation: The pronoun ""[target]"" is an object pronoun, which is used to",False
+wsc-246,The woman held the girl against  [target]  will.,[target],The girl,The girl,True
+wsc-247,"Pam's parents came home and found her having sex with her boyfriend, Paul.  [target]  were furious about it.",[target],Pam's parents,Pam's parents,True
+wsc-248,"Pam's parents came home and found her having sex with her boyfriend, Paul.  [target]  were embarrassed about it.",[target],Pam and Paul,Pam's parents,False
+wsc-249,Dr. Adams informed Kate that  [target]  had retired and presented several options for future treatment.,[target],Dr. Adams,Kate,False
+wsc-250,Dr. Adams informed Kate that  [target]  had cancer and presented several options for future treatment.,[target],Kate,Kate,True
+wsc-251,Dan had to stop Bill from toying with the injured bird.  [target]  is very compassionate.,[target],Dan,Dan,True
+wsc-252,Dan had to stop Bill from toying with the injured bird.  [target]  is very cruel.,[target],Bill,Bill,True
+wsc-253,"George got free tickets to the play, but he gave them to Eric, even though  [target]  was particularly eager to see it.",[target],George,Eric,False
+wsc-254,"George got free tickets to the play, but he gave them to Eric, because  [target]  was particularly eager to see it.",[target],Eric,Eric,True
+wsc-255,"George got free tickets to the play, but he gave them to Eric, because  [target]  was not particularly eager to see it.",[target],George,Eric,False
+wsc-256,Jane gave Joan candy because  [target]  wasn't hungry.,[target],Jane,Joan,False
+wsc-257,Jane gave Joan candy because  [target]  was hungry.,[target],Joan,Joan,True
+wsc-258,"I tried to paint a picture of an orchard, with lemons in the lemon trees, but  [target]  came out looking more like light bulbs.",[target],lemons,The painting,False
+wsc-259,"I tried to paint a picture of an orchard, with lemons in the lemon trees, but  [target]  came out looking more like telephone poles.",[target],lemon trees,The painting,False
+wsc-260,James asked Robert for a favor but  [target]  was refused.,[target],James,Robert,False
+wsc-261,James asked Robert for a favor but  [target]  refused.,[target],Robert,Robert,True
+wsc-262,Kirilov ceded the presidency to Shatov because  [target]  was less popular.,[target],Kirilov,Shatov,False
+wsc-263,Kirilov ceded the presidency to Shatov because  [target]  was more popular.,[target],Shatov,Shatov,True
+wsc-264,Emma did not pass the ball to Janie although  [target]  saw that she was open.,[target],Emma,Janie,False
+wsc-265,Emma did not pass the ball to Janie although  [target]  was open.,[target],Janie,Janie,True
+wsc-266,I put the butterfly wing on the table and  [target]  broke.,[target],The butterfly wing,the vase,False
+wsc-267,I put the heavy book on the table and  [target]  broke.,[target],The table,the table,True
+wsc-268,Madonna fired her trainer because  [target]  couldn't stand her boyfriend.,[target],Madonna,Boyfriend,False
+wsc-269,Madonna fired her trainer because  [target]  slept with her boyfriend.,[target],The trainer,"boyfriend
+Explanation: The pronoun ""[target]"" refers to the person who slept with Madonna's boyfriend",False
+wsc-270,Madonna fired her trainer because she slept with  [target]  boyfriend.,[target],Madonna,"Boyfriend
+The pronoun ""[target]"" refers to the boyfriend of the person Madonna fired her trainer",False
+wsc-271,Madonna fired her trainer because she couldn't stand  [target]  boyfriend.,[target],The trainer,Boyfriend,False
+wsc-272,Carol believed that Rebecca suspected that  [target]  had stolen the watch.,[target],Carol,Rebecca,False
+wsc-273,Carol believed that Rebecca regretted that  [target]  had stolen the watch.,[target],Rebecca,Rebecca,True
